@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "КЛС - Обновление пользователя";
+}
+
+@model HorseClub.Models.UpdateUserModel
+<script>
+    @if (TempData.ContainsKey("ErrorMessage"))
+    {
+        var errorMessage = TempData["ErrorMessage"];
+        <text>
+            window.onload = function() {
+                alert('@errorMessage');
+            };
+        </text>
+    }
+</script>
+
+
+<button onclick="location.href='@Url.Action("Index","Home")'" class="home-cta-btn button Anchor">На главную</button>
+<center>
+
+
+    <h1 class="text-center">Изменение профиля</h1>
+    <div class="myform">
+        <form  method="post">
+
+            <div class="mb-3">
+                <input asp-for="new_USER_name" required placeholder="Имя" type="text" class="form-control" id="new_Name">
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="new_USER_surname" required placeholder="Фамилия" type="text" class="form-control" id="new_Surname">
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="new_USER_age" required placeholder="Возраст" type="number" class="form-control" id="new_Age">
+            </div>
+
+          
+
+
+
+            <button type="submit" class="btn btn-light mt-3" asp-controller="UpdateUser" asp-action="UserUpdate">Изменить профиль</button>
+
+        </form>
+    </div>
+</center>

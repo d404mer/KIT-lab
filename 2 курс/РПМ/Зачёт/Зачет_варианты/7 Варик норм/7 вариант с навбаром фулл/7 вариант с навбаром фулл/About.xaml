@@ -1,0 +1,24 @@
+﻿<Window x:Class="_7_вариант_с_навбаром_фулл.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7_вариант_с_навбаром_фулл"
+        mc:Ignorable="d"
+        Title="About" Height="500" Width="516" MinHeight="500" MinWidth="516"
+         WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="108*"/>
+        </Grid.RowDefinitions>
+        <ToolBar HorizontalAlignment="Center" Grid.Row="0">
+            <Button Content="Главная" x:Name="MainBtn" Click="Main_Click" ></Button>
+            <Button Content="О нас" x:Name="AboutBtn" Click="About_Click"></Button>
+            <Button Content="Перечень услуг" x:Name="UslugiBtn" Click="Uslugi_Click"></Button>
+            <Button Content="Наши врачи" x:Name="Meds" Click="Meds_Click"></Button>
+            <Button Content="Войти" x:Name="Login" Click="Login_Click"></Button>
+            <Button Content="Каруселька" x:Name="CarouselDemoBtn" Click="CarouselDemo_Click"></Button>
+        </ToolBar>
+    </Grid>
+</Window>

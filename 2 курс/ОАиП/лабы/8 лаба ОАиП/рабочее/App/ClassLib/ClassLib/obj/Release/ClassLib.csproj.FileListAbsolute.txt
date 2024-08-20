@@ -1,0 +1,6 @@
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\ClassLib\ClassLib\bin\Release\ClassLib.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\ClassLib\ClassLib\bin\Release\ClassLib.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\ClassLib\ClassLib\obj\Release\ClassLib.csproj.AssemblyReference.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\ClassLib\ClassLib\obj\Release\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\ClassLib\ClassLib\obj\Release\ClassLib.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\ClassLib\ClassLib\obj\Release\ClassLib.pdb

@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "КЛС - Регистрация";
+}
+
+@model HorseClub.Models.User
+<script>
+    @if (TempData.ContainsKey("ErrorMessage"))
+    {
+        var errorMessage = TempData["ErrorMessage"];
+        <text>
+            window.onload = function() {
+                alert('@errorMessage');
+            };
+        </text>
+    }
+</script>
+
+
+        <button onclick="location.href='@Url.Action("Index","Home")'" class="home-cta-btn button Anchor">На главную</button>
+<center>
+   
+    
+    <h1 class="text-center">Регистрация</h1>
+    <div class="myform">
+        <form asp-asp-controller="RegisterUser" asp-action="Index" method="post">
+            
+            <div class="mb-3">
+                <input asp-for="USER_name" required placeholder="Имя" type="text" class="form-control" id="Name">
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="USER_surname" required  placeholder="Фамилия" type="text" class="form-control" id="Surname">
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="USER_age" required  placeholder="Возраст" type="number" class="form-control" id="Age">
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="USER_email" required  placeholder="Почта" type="email" class="form-control" id="InputEmail1" aria-describedby="Email">
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="USER_password" required placeholder="Пароль" type="password" class="form-control" id="Password">
+            </div>
+
+
+  
+
+            <button type="submit" class="btn btn-light mt-3">Войти</button>
+
+            <p>
+                Уже есть аккаунт? <a onclick="location.href='@Url.Action("Index","LogIn")'">
+                Войти в ЛК</a> </p>
+        </form>
+    </div>
+</center>

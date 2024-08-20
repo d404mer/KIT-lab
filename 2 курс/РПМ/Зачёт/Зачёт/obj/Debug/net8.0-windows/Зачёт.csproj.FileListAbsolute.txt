@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.exe
+C:\Users\user\Desktop\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.deps.json
+C:\Users\user\Desktop\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.runtimeconfig.json
+C:\Users\user\Desktop\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.dll
+C:\Users\user\Desktop\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.pdb
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт_MarkupCompile.cache
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт_MarkupCompile.lref
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.g.resources
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.AssemblyInfo.cs
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.dll
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\refint\Зачёт.dll
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.pdb
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.genruntimeconfig.cache
+C:\Users\user\Desktop\Зачёт\Зачёт\obj\Debug\net8.0-windows\ref\Зачёт.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.deps.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.runtimeconfig.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт_MarkupCompile.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт_MarkupCompile.lref
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.g.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.AssemblyInfo.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\refint\Зачёт.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.genruntimeconfig.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\ref\Зачёт.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.exe
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.deps.json
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.runtimeconfig.json
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\bin\Debug\net8.0-windows\Зачёт.pdb
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт_MarkupCompile.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт_MarkupCompile.lref
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.g.resources
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.AssemblyInfo.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\refint\Зачёт.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.pdb
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\Зачёт.genruntimeconfig.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачёт\Зачёт\obj\Debug\net8.0-windows\ref\Зачёт.dll

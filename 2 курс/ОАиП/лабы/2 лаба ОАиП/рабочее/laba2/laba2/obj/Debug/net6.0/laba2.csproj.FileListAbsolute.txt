@@ -1,0 +1,30 @@
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\bin\Debug\net6.0\laba2.exe
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\bin\Debug\net6.0\laba2.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\bin\Debug\net6.0\laba2.runtimeconfig.json
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\bin\Debug\net6.0\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\bin\Debug\net6.0\laba2.pdb
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\refint\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.pdb
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\laba2.genruntimeconfig.cache
+D:\КИТ\2 курс\ОАиП\лабы\temp\laba2\laba2\obj\Debug\net6.0\ref\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.exe
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.runtimeconfig.json
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.pdb
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\refint\laba2.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.pdb
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.genruntimeconfig.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты\2 лаба\laba2\laba2\obj\Debug\net6.0\ref\laba2.dll

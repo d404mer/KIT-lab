@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "hXSMPJzTPggIvnVBcO9A2ISYcu4EZcX0/QdOi+rej+4=",
+  "Source": "LR5_PP",
+  "BasePath": "_content/LR5_PP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LR5_PP\\wwwroot",
+      "Source": "LR5_PP",
+      "ContentRoot": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\",
+      "BasePath": "_content/LR5_PP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\index.html",
+      "SourceId": "LR5_PP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\",
+      "BasePath": "_content/LR5_PP",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\script.js",
+      "SourceId": "LR5_PP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\",
+      "BasePath": "_content/LR5_PP",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}

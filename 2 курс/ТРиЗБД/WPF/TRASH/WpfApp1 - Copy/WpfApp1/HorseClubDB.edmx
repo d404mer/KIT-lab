@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="HorseClubDBModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="BREED">
+          <Key>
+            <PropertyRef Name="BREED_ID" />
+          </Key>
+          <Property Name="BREED_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="BREED_name" Type="nvarchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="event_type">
+          <Key>
+            <PropertyRef Name="EVENTTYPE_ID" />
+          </Key>
+          <Property Name="EVENTTYPE_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="EVENTTYPE_name" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="EVENTTYPE_desc" Type="nvarchar" MaxLength="1000" />
+        </EntityType>
+        <EntityType Name="EVENTS">
+          <Key>
+            <PropertyRef Name="EVENTS_ID" />
+          </Key>
+          <Property Name="EVENTS_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="EVENTS_name" Type="nvarchar" MaxLength="1000" Nullable="false" />
+          <Property Name="EVENTS_desc" Type="nvarchar" MaxLength="2500" Nullable="false" />
+          <Property Name="EVENTS_STtime" Type="datetime" Nullable="false" />
+          <Property Name="EVENTS_ENDtime" Type="datetime" Nullable="false" />
+          <Property Name="EVENTS_place" Type="nvarchar" MaxLength="500" Nullable="false" />
+          <Property Name="FK_EVENTTYPE_ID" Type="int" />
+        </EntityType>
+        <EntityType Name="HORSE">
+          <Key>
+            <PropertyRef Name="HORSE_ID" />
+          </Key>
+          <Property Name="HORSE_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="HORSE_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="HORSE_age" Type="int" Nullable="false" />
+          <Property Name="FK_HORSE_breedID" Type="int" />
+          <Property Name="HORSE_sex" Type="bit" Nullable="false" />
+          <Property Name="FK_USER_ID_HORSE" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="LIST">
+          <Key>
+            <PropertyRef Name="LIST_ID" />
+          </Key>
+          <Property Name="LIST_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FK_USER_ID" Type="int" />
+          <Property Name="FK_EVENT_ID" Type="int" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="USER">
+          <Key>
+            <PropertyRef Name="USER_ID" />
+          </Key>
+          <Property Name="USER_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="USER_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="USER_surname" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="USER_email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="USER_phone" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="USER_age" Type="int" Nullable="false" />
+          <Property Name="USER_login" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="USER_password" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="USER_status" Type="bit" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__EVENTS__FK_EVENT__398D8EEE">
+          <End Role="event_type" Type="Self.event_type" Multiplicity="0..1" />
+          <End Role="EVENTS" Type="Self.EVENTS" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="event_type">
+              <PropertyRef Name="EVENTTYPE_ID" />
+            </Principal>
+            <Dependent Role="EVENTS">
+              <PropertyRef Name="FK_EVENTTYPE_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__HORSE__FK_HORSE___440B1D61">
+          <End Role="BREED" Type="Self.BREED" Multiplicity="0..1" />
+          <End Role="HORSE" Type="Self.HORSE" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="BREED">
+              <PropertyRef Name="BREED_ID" />
+            </Principal>
+            <Dependent Role="HORSE">
+              <PropertyRef Name="FK_HORSE_breedID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__HORSE__FK_USER_I__44FF419A">
+          <End Role="USER" Type="Self.USER" Multiplicity="1" />
+          <End Role="HORSE" Type="Self.HORSE" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="USER">
+              <PropertyRef Name="USER_ID" />
+            </Principal>
+            <Dependent Role="HORSE">
+              <PropertyRef Name="FK_USER_ID_HORSE" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LIST__FK_EVENT_I__3F466844">
+          <End Role="EVENTS" Type="Self.EVENTS" Multiplicity="0..1" />
+          <End Role="LIST" Type="Self.LIST" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EVENTS">
+              <PropertyRef Name="EVENTS_ID" />
+            </Principal>
+            <Dependent Role="LIST">
+              <PropertyRef Name="FK_EVENT_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LIST__FK_USER_ID__3E52440B">
+          <End Role="USER" Type="Self.USER" Multiplicity="0..1" />
+          <End Role="LIST" Type="Self.LIST" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="USER">
+              <PropertyRef Name="USER_ID" />
+            </Principal>
+            <Dependent Role="LIST">
+              <PropertyRef Name="FK_USER_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HorseClubDBModel1StoreContainer">
+          <EntitySet Name="BREED" EntityType="Self.BREED" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="event_type" EntityType="Self.event_type" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EVENTS" EntityType="Self.EVENTS" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="HORSE" EntityType="Self.HORSE" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="LIST" EntityType="Self.LIST" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="USER" EntityType="Self.USER" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__EVENTS__FK_EVENT__398D8EEE" Association="Self.FK__EVENTS__FK_EVENT__398D8EEE">
+            <End Role="event_type" EntitySet="event_type" />
+            <End Role="EVENTS" EntitySet="EVENTS" />
+          </AssociationSet>
+          <AssociationSet Name="FK__HORSE__FK_HORSE___440B1D61" Association="Self.FK__HORSE__FK_HORSE___440B1D61">
+            <End Role="BREED" EntitySet="BREED" />
+            <End Role="HORSE" EntitySet="HORSE" />
+          </AssociationSet>
+          <AssociationSet Name="FK__HORSE__FK_USER_I__44FF419A" Association="Self.FK__HORSE__FK_USER_I__44FF419A">
+            <End Role="USER" EntitySet="USER" />
+            <End Role="HORSE" EntitySet="HORSE" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LIST__FK_EVENT_I__3F466844" Association="Self.FK__LIST__FK_EVENT_I__3F466844">
+            <End Role="EVENTS" EntitySet="EVENTS" />
+            <End Role="LIST" EntitySet="LIST" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LIST__FK_USER_ID__3E52440B" Association="Self.FK__LIST__FK_USER_ID__3E52440B">
+            <End Role="USER" EntitySet="USER" />
+            <End Role="LIST" EntitySet="LIST" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="HorseClubDBModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="BREED">
+          <Key>
+            <PropertyRef Name="BREED_ID" />
+          </Key>
+          <Property Name="BREED_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="BREED_name" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="HORSEs" Relationship="Self.FK__HORSE__FK_HORSE___440B1D61" FromRole="BREED" ToRole="HORSE" />
+        </EntityType>
+        <EntityType Name="event_type">
+          <Key>
+            <PropertyRef Name="EVENTTYPE_ID" />
+          </Key>
+          <Property Name="EVENTTYPE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="EVENTTYPE_name" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="EVENTTYPE_desc" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="EVENTS" Relationship="Self.FK__EVENTS__FK_EVENT__398D8EEE" FromRole="event_type" ToRole="EVENTS" />
+        </EntityType>
+        <EntityType Name="EVENT">
+          <Key>
+            <PropertyRef Name="EVENTS_ID" />
+          </Key>
+          <Property Name="EVENTS_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="EVENTS_name" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="EVENTS_desc" Type="String" MaxLength="2500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="EVENTS_STtime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="EVENTS_ENDtime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="EVENTS_place" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="FK_EVENTTYPE_ID" Type="Int32" />
+          <NavigationProperty Name="event_type" Relationship="Self.FK__EVENTS__FK_EVENT__398D8EEE" FromRole="EVENTS" ToRole="event_type" />
+          <NavigationProperty Name="LISTs" Relationship="Self.FK__LIST__FK_EVENT_I__3F466844" FromRole="EVENTS" ToRole="LIST" />
+        </EntityType>
+        <EntityType Name="HORSE">
+          <Key>
+            <PropertyRef Name="HORSE_ID" />
+          </Key>
+          <Property Name="HORSE_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="HORSE_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="HORSE_age" Type="Int32" Nullable="false" />
+          <Property Name="FK_HORSE_breedID" Type="Int32" />
+          <Property Name="HORSE_sex" Type="Boolean" Nullable="false" />
+          <Property Name="FK_USER_ID_HORSE" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="BREED" Relationship="Self.FK__HORSE__FK_HORSE___440B1D61" FromRole="HORSE" ToRole="BREED" />
+          <NavigationProperty Name="USER" Relationship="Self.FK__HORSE__FK_USER_I__44FF419A" FromRole="HORSE" ToRole="USER" />
+        </EntityType>
+        <EntityType Name="LIST">
+          <Key>
+            <PropertyRef Name="LIST_ID" />
+          </Key>
+          <Property Name="LIST_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FK_USER_ID" Type="Int32" />
+          <Property Name="FK_EVENT_ID" Type="Int32" />
+          <NavigationProperty Name="EVENT" Relationship="Self.FK__LIST__FK_EVENT_I__3F466844" FromRole="LIST" ToRole="EVENTS" />
+          <NavigationProperty Name="USER" Relationship="Self.FK__LIST__FK_USER_ID__3E52440B" FromRole="LIST" ToRole="USER" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="USER">
+          <Key>
+            <PropertyRef Name="USER_ID" />
+          </Key>
+          <Property Name="USER_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="USER_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="USER_surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="USER_email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="USER_phone" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="USER_age" Type="Int32" Nullable="false" />
+          <Property Name="USER_login" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="USER_password" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="USER_status" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="HORSEs" Relationship="Self.FK__HORSE__FK_USER_I__44FF419A" FromRole="USER" ToRole="HORSE" />
+          <NavigationProperty Name="LISTs" Relationship="Self.FK__LIST__FK_USER_ID__3E52440B" FromRole="USER" ToRole="LIST" />
+        </EntityType>
+        <Association Name="FK__HORSE__FK_HORSE___440B1D61">
+          <End Role="BREED" Type="Self.BREED" Multiplicity="0..1" />
+          <End Role="HORSE" Type="Self.HORSE" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="BREED">
+              <PropertyRef Name="BREED_ID" />
+            </Principal>
+            <Dependent Role="HORSE">
+              <PropertyRef Name="FK_HORSE_breedID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EVENTS__FK_EVENT__398D8EEE">
+          <End Role="event_type" Type="Self.event_type" Multiplicity="0..1" />
+          <End Role="EVENTS" Type="Self.EVENT" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="event_type">
+              <PropertyRef Name="EVENTTYPE_ID" />
+            </Principal>
+            <Dependent Role="EVENTS">
+              <PropertyRef Name="FK_EVENTTYPE_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LIST__FK_EVENT_I__3F466844">
+          <End Role="EVENTS" Type="Self.EVENT" Multiplicity="0..1" />
+          <End Role="LIST" Type="Self.LIST" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EVENTS">
+              <PropertyRef Name="EVENTS_ID" />
+            </Principal>
+            <Dependent Role="LIST">
+              <PropertyRef Name="FK_EVENT_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__HORSE__FK_USER_I__44FF419A">
+          <End Role="USER" Type="Self.USER" Multiplicity="1" />
+          <End Role="HORSE" Type="Self.HORSE" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="USER">
+              <PropertyRef Name="USER_ID" />
+            </Principal>
+            <Dependent Role="HORSE">
+              <PropertyRef Name="FK_USER_ID_HORSE" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__LIST__FK_USER_ID__3E52440B">
+          <End Role="USER" Type="Self.USER" Multiplicity="0..1" />
+          <End Role="LIST" Type="Self.LIST" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="USER">
+              <PropertyRef Name="USER_ID" />
+            </Principal>
+            <Dependent Role="LIST">
+              <PropertyRef Name="FK_USER_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HorseClubDBEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="BREEDs" EntityType="Self.BREED" />
+          <EntitySet Name="event_type" EntityType="Self.event_type" />
+          <EntitySet Name="EVENTS" EntityType="Self.EVENT" />
+          <EntitySet Name="HORSEs" EntityType="Self.HORSE" />
+          <EntitySet Name="LISTs" EntityType="Self.LIST" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <EntitySet Name="USERs" EntityType="Self.USER" />
+          <AssociationSet Name="FK__HORSE__FK_HORSE___440B1D61" Association="Self.FK__HORSE__FK_HORSE___440B1D61">
+            <End Role="BREED" EntitySet="BREEDs" />
+            <End Role="HORSE" EntitySet="HORSEs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EVENTS__FK_EVENT__398D8EEE" Association="Self.FK__EVENTS__FK_EVENT__398D8EEE">
+            <End Role="event_type" EntitySet="event_type" />
+            <End Role="EVENTS" EntitySet="EVENTS" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LIST__FK_EVENT_I__3F466844" Association="Self.FK__LIST__FK_EVENT_I__3F466844">
+            <End Role="EVENTS" EntitySet="EVENTS" />
+            <End Role="LIST" EntitySet="LISTs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__HORSE__FK_USER_I__44FF419A" Association="Self.FK__HORSE__FK_USER_I__44FF419A">
+            <End Role="USER" EntitySet="USERs" />
+            <End Role="HORSE" EntitySet="HORSEs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__LIST__FK_USER_ID__3E52440B" Association="Self.FK__LIST__FK_USER_ID__3E52440B">
+            <End Role="USER" EntitySet="USERs" />
+            <End Role="LIST" EntitySet="LISTs" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="HorseClubDBModel1StoreContainer" CdmEntityContainer="HorseClubDBEntities1">
+          <EntitySetMapping Name="BREEDs">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.BREED">
+              <MappingFragment StoreEntitySet="BREED">
+                <ScalarProperty Name="BREED_ID" ColumnName="BREED_ID" />
+                <ScalarProperty Name="BREED_name" ColumnName="BREED_name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="event_type">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.event_type">
+              <MappingFragment StoreEntitySet="event_type">
+                <ScalarProperty Name="EVENTTYPE_ID" ColumnName="EVENTTYPE_ID" />
+                <ScalarProperty Name="EVENTTYPE_name" ColumnName="EVENTTYPE_name" />
+                <ScalarProperty Name="EVENTTYPE_desc" ColumnName="EVENTTYPE_desc" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EVENTS">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.EVENT">
+              <MappingFragment StoreEntitySet="EVENTS">
+                <ScalarProperty Name="EVENTS_ID" ColumnName="EVENTS_ID" />
+                <ScalarProperty Name="EVENTS_name" ColumnName="EVENTS_name" />
+                <ScalarProperty Name="EVENTS_desc" ColumnName="EVENTS_desc" />
+                <ScalarProperty Name="EVENTS_STtime" ColumnName="EVENTS_STtime" />
+                <ScalarProperty Name="EVENTS_ENDtime" ColumnName="EVENTS_ENDtime" />
+                <ScalarProperty Name="EVENTS_place" ColumnName="EVENTS_place" />
+                <ScalarProperty Name="FK_EVENTTYPE_ID" ColumnName="FK_EVENTTYPE_ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="HORSEs">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.HORSE">
+              <MappingFragment StoreEntitySet="HORSE">
+                <ScalarProperty Name="HORSE_ID" ColumnName="HORSE_ID" />
+                <ScalarProperty Name="HORSE_name" ColumnName="HORSE_name" />
+                <ScalarProperty Name="HORSE_age" ColumnName="HORSE_age" />
+                <ScalarProperty Name="FK_HORSE_breedID" ColumnName="FK_HORSE_breedID" />
+                <ScalarProperty Name="HORSE_sex" ColumnName="HORSE_sex" />
+                <ScalarProperty Name="FK_USER_ID_HORSE" ColumnName="FK_USER_ID_HORSE" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="LISTs">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.LIST">
+              <MappingFragment StoreEntitySet="LIST">
+                <ScalarProperty Name="LIST_ID" ColumnName="LIST_ID" />
+                <ScalarProperty Name="FK_USER_ID" ColumnName="FK_USER_ID" />
+                <ScalarProperty Name="FK_EVENT_ID" ColumnName="FK_EVENT_ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="USERs">
+            <EntityTypeMapping TypeName="HorseClubDBModel1.USER">
+              <MappingFragment StoreEntitySet="USER">
+                <ScalarProperty Name="USER_ID" ColumnName="USER_ID" />
+                <ScalarProperty Name="USER_name" ColumnName="USER_name" />
+                <ScalarProperty Name="USER_surname" ColumnName="USER_surname" />
+                <ScalarProperty Name="USER_email" ColumnName="USER_email" />
+                <ScalarProperty Name="USER_phone" ColumnName="USER_phone" />
+                <ScalarProperty Name="USER_age" ColumnName="USER_age" />
+                <ScalarProperty Name="USER_login" ColumnName="USER_login" />
+                <ScalarProperty Name="USER_password" ColumnName="USER_password" />
+                <ScalarProperty Name="USER_status" ColumnName="USER_status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

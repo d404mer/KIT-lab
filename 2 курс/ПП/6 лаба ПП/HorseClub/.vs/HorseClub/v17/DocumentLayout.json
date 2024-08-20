@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\pphorseclubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\pphorseclubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\views\\registeruser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\views\\registeruser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\repos\\userefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\repos\\userefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\controllers\\registerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\controllers\\registerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u043F\u043F\\horseclub\\horseclub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1164BEF5-BD4E-4F51-BF47-95B3DAD53432}|HorseClub\\HorseClub.csproj|solutionrelative:horseclub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HorseClub\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Models\\User.cs",
+              "RelativeToolTip": "HorseClub\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:44:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEFRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Repos\\UserEFRepository.cs",
+              "RelativeDocumentMoniker": "HorseClub\\Repos\\UserEFRepository.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Repos\\UserEFRepository.cs",
+              "RelativeToolTip": "HorseClub\\Repos\\UserEFRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:26:35.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PpHorseClubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\PpHorseClubDbContext.cs",
+              "RelativeDocumentMoniker": "HorseClub\\PpHorseClubDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\PpHorseClubDbContext.cs",
+              "RelativeToolTip": "HorseClub\\PpHorseClubDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:28:09.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Views\\RegisterUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "HorseClub\\Views\\RegisterUser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Views\\RegisterUser\\Index.cshtml",
+              "RelativeToolTip": "HorseClub\\Views\\RegisterUser\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T06:34:11.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Views\\LogIn\\Index.cshtml",
+              "RelativeDocumentMoniker": "HorseClub\\Views\\LogIn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Views\\LogIn\\Index.cshtml",
+              "RelativeToolTip": "HorseClub\\Views\\LogIn\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T06:20:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "HorseClub\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "HorseClub\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T07:19:32.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\appsettings.json",
+              "RelativeDocumentMoniker": "HorseClub\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\appsettings.json",
+              "RelativeToolTip": "HorseClub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T15:55:37.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "HorseClub\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Controllers\\CardController.cs",
+              "RelativeToolTip": "HorseClub\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:52:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "HorseClub\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "HorseClub\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:21:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Controllers\\RegisterUserController.cs",
+              "RelativeDocumentMoniker": "HorseClub\\Controllers\\RegisterUserController.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\6 \u043B\u0430\u0431\u0430 \u041F\u041F\\HorseClub\\HorseClub\\Controllers\\RegisterUserController.cs",
+              "RelativeToolTip": "HorseClub\\Controllers\\RegisterUserController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAApwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:36:46.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

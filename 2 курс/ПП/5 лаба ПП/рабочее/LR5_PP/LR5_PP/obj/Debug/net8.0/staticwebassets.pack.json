@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\dende\\OneDrive\\Рабочий стол\\лабы 2 курс 2 сем\\ПП\\5 лаба\\byZaid\\LR5_PP\\LR5_PP\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LR5_PP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LR5_PP.props",
+      "PackagePath": "build\\LR5_PP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LR5_PP.props",
+      "PackagePath": "buildMultiTargeting\\LR5_PP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LR5_PP.props",
+      "PackagePath": "buildTransitive\\LR5_PP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

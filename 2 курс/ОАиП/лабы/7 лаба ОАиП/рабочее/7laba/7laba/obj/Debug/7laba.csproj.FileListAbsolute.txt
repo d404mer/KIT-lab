@@ -1,0 +1,48 @@
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\bin\Debug\7laba.exe.config
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\bin\Debug\7laba.exe
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\bin\Debug\7laba.pdb
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.Form1.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.Properties.Resources.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.csproj.GenerateResource.cache
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.exe
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.pdb
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_2laba.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_HOME.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_4laba.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_5laba.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_6laba.resources
+D:\КИТ\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_3laba.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\bin\Debug\7laba.exe.config
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\bin\Debug\7laba.exe
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\bin\Debug\7laba.pdb
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\7laba.csproj.AssemblyReference.cache
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.Form1.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.Properties.Resources.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_2laba.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_4laba.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_5laba.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_6laba.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_HOME.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_3laba.resources
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\7laba.csproj.GenerateResource.cache
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\7laba.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\7laba.exe
+C:\Users\dev1l\OneDrive\Документы\рабочее\рабочее\7laba\7laba\obj\Debug\7laba.pdb
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\bin\Debug\7laba.exe.config
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\bin\Debug\7laba.exe
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\bin\Debug\7laba.pdb
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.Form1.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.Properties.Resources.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_2laba.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_4laba.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_5laba.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_6laba.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_HOME.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\_7laba.UserControls.UC_3laba.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.exe
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\7 лаба ОАиП\рабочее\7laba\7laba\obj\Debug\7laba.pdb

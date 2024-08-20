@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "КЛС - мероприятия";
+}
+@model List<Event>
+
+<script>
+    @if (TempData.ContainsKey("ErrorMessage"))
+    {
+        var errorMessage = TempData["ErrorMessage"];
+        <text>
+            window.onload = function() {
+                alert('@errorMessage');
+            };
+        </text>
+    }
+</script>
+
+
+<body>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Location</th>
+        <th>Action</th> 
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EVENTS_name</td>
+            <td>@item.EVENTS_desc</td>
+            <td>@item.EVENTS_STtime.ToShortDateString()</td>
+            <td>@item.EVENTS_ENDtime.ToShortDateString()</td>
+            <td>@item.EVENTS_place</td>
+            <td>
+
+                <form asp-controller="Events" asp-action="EventsView" method="post">
+                        <input type="hidden" name="userId" value="@TempData["userId"]" />
+                    <input type="hidden" name="eventId" value="@item.EVENTS_ID" /> <!-- Добавляем скрытое поле для передачи ID мероприятия -->
+                    <button type="submit">Записаться</button>
+                </form>
+               
+            </td>
+        </tr>
+    }
+</table>
+</body>
+
+
+<div>
+    <form asp-controller="Events" asp-action="ToCard" method="post">
+        <button type="submit" class="home-cta-btn button Anchor"> Обратно в профиль </button>
+    </form>
+
+</div>
+
+

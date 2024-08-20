@@ -1,0 +1,28 @@
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.exe
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.runtimeconfig.json
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.pdb
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\refint\laba3_C#.dll
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.pdb
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.genruntimeconfig.cache
+D:\КИТ\2 курс\ОАиП\лабы\отчёты+лабы\3 лаба\laba3_C#\laba3_C#\obj\Debug\net8.0\ref\laba3_C#.dll
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.exe
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.deps.json
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.runtimeconfig.json
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.dll
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\bin\Debug\net8.0\laba3_C#.pdb
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.AssemblyInfoInputs.cache
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.AssemblyInfo.cs
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.dll
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\refint\laba3_C#.dll
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.pdb
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\laba3_C#.genruntimeconfig.cache
+E:\КИТ\2 курс\ОАиП\лабы\3 лаба ОАиП\рабочее\laba3_C#\laba3_C#\obj\Debug\net8.0\ref\laba3_C#.dll

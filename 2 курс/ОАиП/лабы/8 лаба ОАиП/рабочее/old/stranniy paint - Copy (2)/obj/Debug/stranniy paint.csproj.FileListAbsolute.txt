@@ -1,0 +1,10 @@
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\bin\Debug\stranniy paint.exe.config
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\bin\Debug\stranniy paint.exe
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\bin\Debug\stranniy paint.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy paint.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy_paint.Очень_Странный_Пеинт.resources
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy_paint.Properties.Resources.resources
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy paint.csproj.GenerateResource.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy paint.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy paint.exe
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\obj\Debug\stranniy paint.pdb

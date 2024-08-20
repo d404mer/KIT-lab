@@ -1,0 +1,714 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editeventswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editeventswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editeventswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editeventswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editbreedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editbreedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addhorsewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addhorsewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addhorsewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addhorsewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\adduserwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addeventswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addeventswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addbreedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addbreedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addbreedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addbreedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\breedusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\breedusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\breedusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\breedusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\horseclubmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\horseclubmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0442\u0440\u0438\u0437\u0431\u0434\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\wpf\\horseclubapp\\horseclubapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\userusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\userusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\userusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\userusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\listusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\listusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\listusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\listusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\horseusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\horseusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\horseusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\horseusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\eventtypeusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\eventtypeusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\eventtypeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\eventtypeusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\eventsusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\eventsusercontrol.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\scope\\eventsusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\scope\\eventsusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\edituserwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\edituserwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\edituserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editlistwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editlistwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\edithorsewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\edithorsewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\edithorsewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\edithorsewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editeventypewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editeventypewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editeventypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editeventypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\edit\\editbreedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\edit\\editbreedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addeventtypewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addeventtypewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addeventtypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addeventtypewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\views\\add\\addeventswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\views\\add\\addeventswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\horseclubmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\horseclubmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\horseclubapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3ED549C3-74C1-4E5B-B5F5-62F43A7D0B83}|HorseClubApp\\HorseClubApp.csproj|solutionrelative:horseclubapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddEventsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddEventsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventsWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddEventsWindow.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:50:36.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEventsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventsWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddEventsWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventsWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddEventsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:53:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddUserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddUserWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddUserWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:30:19.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddListWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddListWindow.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:30:03.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddHorseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddHorseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddHorseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddHorseWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddHorseWindow.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:29:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddEventTypeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:28:20.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditUserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditUserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditUserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditUserWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditUserWindow.xaml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:21:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditListWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditListWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditListWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:21:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditHorseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAwwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:21:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditEvenTypeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwv0EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:20:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditEventsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowFcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:54:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HorseClubModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\HorseClubModel.Context.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\HorseClubModel.Context.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\HorseClubModel.Context.cs",
+              "RelativeToolTip": "HorseClubApp\\HorseClubModel.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:50:31.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HorseClubModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\HorseClubModel.edmx",
+              "RelativeDocumentMoniker": "HorseClubApp\\HorseClubModel.edmx",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\HorseClubModel.edmx [Diagram1]",
+              "RelativeToolTip": "HorseClubApp\\HorseClubModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-19T12:47:54.898Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\App.config",
+              "RelativeDocumentMoniker": "HorseClubApp\\App.config",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\App.config",
+              "RelativeToolTip": "HorseClubApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T12:31:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditBreedWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv0IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:14:33.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBreedWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddBreedWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddBreedWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddBreedWindow.xaml.cs*",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddBreedWindow.xaml.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv0EAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:02:09.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\packages.config",
+              "RelativeDocumentMoniker": "HorseClubApp\\packages.config",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\packages.config",
+              "RelativeToolTip": "HorseClubApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-18T18:44:34.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddListWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddListWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddListWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T19:03:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HorseUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\HorseUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\HorseUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\HorseUserControl.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\HorseUserControl.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:59:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\UserUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\UserUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\UserUserControl.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\UserUserControl.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:59:06.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\ListUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\ListUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\ListUserControl.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\ListUserControl.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:59:00.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventTypeUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:58:44.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventsUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventsUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\EventsUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventsUserControl.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\EventsUserControl.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:58:26.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditUserWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditUserWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditUserWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:55:55.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditListWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditListWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditListWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:55:44.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditHorseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditHorseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:55:32.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditEvenTypeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditEvenTypeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:55:17.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEventsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditEventsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:55:04.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditBreedWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Edit\\EditBreedWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:54:51.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddUserWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddUserWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddUserWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddUserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:54:28.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddHorseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddHorseWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddHorseWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddHorseWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddHorseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:54:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddEventTypeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddEventTypeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:54:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBreedWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddBreedWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Add\\AddBreedWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Add\\AddBreedWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Add\\AddBreedWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:53:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BreedUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\BreedUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\BreedUserControl.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\BreedUserControl.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\BreedUserControl.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:48:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HorseUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\HorseUserControl.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\HorseUserControl.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\HorseUserControl.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\HorseUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:36:52.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\ListUserControl.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\ListUserControl.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\ListUserControl.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\ListUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:36:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventsUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventsUserControl.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\EventsUserControl.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventsUserControl.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\EventsUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:36:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\UserUserControl.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\UserUserControl.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\UserUserControl.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\UserUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:36:10.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BreedUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\BreedUserControl.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\BreedUserControl.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\BreedUserControl.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\BreedUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:35:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventTypeUserControl.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml",
+              "RelativeToolTip": "HorseClubApp\\Views\\Scope\\EventTypeUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T18:32:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HorseClubApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\MainWindow.xaml",
+              "RelativeToolTip": "HorseClubApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T17:48:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HorseClubApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u0422\u0420\u0438\u0417\u0411\u0414\\! \u043A\u0443\u0440\u0441\u0430\u0447 - \u043A\u043B\u0443\u0431 \u043B\u044E\u0431\u0438\u0442\u0435\u043B\u0435\u0439 \u0441\u043A\u0430\u0447\u0435\u043A\\WPF\\HorseClubApp\\HorseClubApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HorseClubApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:48:12.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

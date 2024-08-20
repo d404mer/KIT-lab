@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+ <form method="post" asp-action="SecondTask">
+     <p>
+         <h1> 2 Задача </h1>
+         <label>Дано предложение. Удалить из него все буквы "с"".
+             Под удалением понимается исключение этого символа 
+             из строки путем смещения всех следующих за ним 
+             символов влево на одну позицию и присваивание 
+            последнему символу исходной строки значения "_".
+         </label>
+     </p>
+      @* <input type="text" name="textInput"/> *@
+      <textarea id="textBlock" name="textInput" rows="4" cols="50"> </textarea>
+
+    <div>
+        <input type="submit" value="Удалить"/>
+    </div>
+
+
+
+
+ </form>
+ <p id="resultTest">Исправленная строка: @ViewBag.StringResult</p>
+ </div>
+

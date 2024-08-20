@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\App\\App\\App.csproj": {}
+  },
+  "projects": {
+    "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\App\\App\\App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\App\\App\\App.csproj",
+        "projectName": "App",
+        "projectPath": "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\App\\App\\App.csproj",
+        "packagesPath": "C:\\Users\\ryan\\.nuget\\packages\\",
+        "outputPath": "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\App\\App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\ClassLib\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\ClassLib\\ClassLib\\ClassLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\ClassLib\\ClassLib\\ClassLib.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\ClassLib\\ClassLib\\ClassLib.csproj",
+        "projectName": "ClassLib",
+        "projectPath": "D:\\КИТ\\2 курс\\ОАиП\\лабы\\8 лаба ОАиП\\рабочее\\RELEASE\\ClassLib\\ClassLib\\ClassLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

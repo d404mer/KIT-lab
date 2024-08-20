@@ -1,0 +1,181 @@
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.exe
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.CopyComplete
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.exe
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\App.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.csproj.CopyComplete
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\App\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\App.exe
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\App.dll
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\App.pdb
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\ryan\Downloads\folder\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.sourcelink.json
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.dll
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.pdb
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Users\ryan\Downloads\folder\App\App\obj\Debug\net6.0-windows\App.csproj.Up2Date
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.exe
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.Up2Date
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\refint\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\ref\App.dll
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.exe
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.deps.json
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.dll
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\App.pdb
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.CopyComplete
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.dll
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\refint\App.dll
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.pdb
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+E:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\App\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\App.exe
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\App.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.csproj.CopyComplete
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\RELEASE\App\App\obj\Debug\net6.0-windows\ref\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.exe
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.Up2Date
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\refint\App.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\App.exe
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\App.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.csproj.CopyComplete
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\App\App\App\obj\Debug\net6.0-windows\ref\App.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.deps.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.runtimeconfig.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\App.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\ClassLib.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\bin\Debug\net6.0-windows\ClassLib.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.Form1.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.AssemblyInfo.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.csproj.Up2Date
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\refint\App.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\App.genruntimeconfig.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\App\App\App\obj\Debug\net6.0-windows\ref\App.dll

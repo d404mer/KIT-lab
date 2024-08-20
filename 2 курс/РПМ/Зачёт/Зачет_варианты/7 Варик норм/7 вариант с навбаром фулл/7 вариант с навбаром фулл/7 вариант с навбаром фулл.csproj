@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>_7_вариант_с_навбаром_фулл</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Логотип.png" />
+    <None Remove="фото поликлиники 1.png" />
+    <None Remove="фото поликлиники 2.png" />
+    <None Remove="фото поликлиники 3.png" />
+    <None Remove="фото поликлиники 4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Логотип.png" />
+    <Resource Include="фото поликлиники 1.png" />
+    <Resource Include="фото поликлиники 2.png" />
+    <Resource Include="фото поликлиники 3.png" />
+    <Resource Include="фото поликлиники 4.png" />
+  </ItemGroup>
+
+</Project>

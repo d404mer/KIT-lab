@@ -1,0 +1,71 @@
+﻿<Window x:Class="Зачёт.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Зачёт"
+        mc:Ignorable="d"
+        Title="Главная" Height="650" Width="800" MinHeight="650" MinWidth="800">
+    <Window.Resources>
+        <Style TargetType="Image">
+            <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+            <Setter Property="RenderTransform">
+                <Setter.Value>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="RenderTransform">
+                        <Setter.Value>
+                            <ScaleTransform ScaleX="2" ScaleY="2"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <!--ДАНИЛОВА 4237 ВАРИАНТ 1 -->
+    <!--Требуется разработать программу для онлайн – кинотеатра. 
+    
+1 вариант. Разработайте главную страницу кинотеатра, на которой будет карусель с фотографиями – самые популярные фильмы, блок с описанием кинотеатра, а также блок с контактной информацией (статусбар). Реализуйте триггер, срабатывающий при наведении курсора мыши на фотографию и увеличивающий фотографию в два раза. Продумайте адаптивную верстку окна ( без соответствующей верстки задание не проверяется)-->
+
+    
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="77*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+
+
+        <TextBlock Text="Это описание театра. Наш театр очень хороший. Смотрите наши фильмы, нам нужны деньги" VerticalAlignment="Center" FontSize="36" HorizontalAlignment="Center" TextWrapping="Wrap"/>
+        <TextBlock Text="Наши популярные фильмы:" FontSize="14" Grid.Row="1"/>
+        
+        
+        
+        <ScrollViewer Grid.Row="1" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Margin="10, 10, 10, 10">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                <Image Margin="10 10 10 10" Source="/Без названия (3).jpg" Width="200" />
+                <Image Margin="10 10 10 10" Source="/Без названия (4).jpg" Width="200" />
+                <Image  Margin="10 10 10 10" Source="/Без названия (5).jpg" Width="200" />
+                <Image Margin="10 10 10 10" Source="/Без названия (3).jpg" Width="200" />
+                <Image Margin="10 10 10 10" Source="/Без названия (4).jpg" Width="200" />
+                <Image  Margin="10 10 10 10" Source="/Без названия (5).jpg" Width="200" />
+                <Image Margin="10 10 10 10" Source="/Без названия (3).jpg" Width="200" />
+                <Image Margin="10 10 10 10" Source="/Без названия (4).jpg" Width="200" />
+                <Image  Margin="10 10 10 10" Source="/Без названия (5).jpg" Width="200" />
+
+              
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <StatusBar Grid.Row="2" Margin="0,34,0,0" >
+            <TextBlock Text="Контактная информация кинотеатра. 8-800-555-35-35"/>
+        </StatusBar>
+    </Grid>
+</Window>

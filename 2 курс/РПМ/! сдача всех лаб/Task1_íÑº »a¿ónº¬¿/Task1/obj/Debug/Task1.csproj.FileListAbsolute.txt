@@ -1,0 +1,60 @@
+C:\Users\dev1l\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\dev1l\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\dev1l\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\MainWindow.g.cs
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\App.g.cs
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1_MarkupCompile.cache
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1_MarkupCompile.lref
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\MainWindow.baml
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.g.resources
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\dev1l\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\bin\Debug\Task1.exe.config
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\bin\Debug\Task1.exe
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\bin\Debug\Task1.pdb
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\MainWindow.g.cs
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\App.g.cs
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1_MarkupCompile.cache
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1_MarkupCompile.lref
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\MainWindow.baml
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.g.resources
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.exe
+E:\КИТ\2 курс\РПМ\лабораторные\2 (3) лаба РПМ\рабочее\Task1\Task1\obj\Debug\Task1.pdb
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\bin\Debug\Task1.exe.config
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\bin\Debug\Task1.exe
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\bin\Debug\Task1.pdb
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\MainWindow.g.cs
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\App.g.cs
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1_MarkupCompile.cache
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1_MarkupCompile.lref
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\MainWindow.baml
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.g.resources
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.Properties.Resources.resources
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.exe
+E:\КИТ\2 курс\РПМ\лабораторные\4 (5-6) лаба РПМ\рабочее\Task1_без привязки\Task1\obj\Debug\Task1.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\bin\Debug\Task1.exe.config
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\bin\Debug\Task1.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\bin\Debug\Task1.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\MainWindow.g.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\App.g.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1_MarkupCompile.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1_MarkupCompile.lref
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\MainWindow.baml
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.g.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\РПМ\лабораторные\! сдача всех лаб\Task1_íÑº »a¿ónº¬¿\Task1\obj\Debug\Task1.pdb

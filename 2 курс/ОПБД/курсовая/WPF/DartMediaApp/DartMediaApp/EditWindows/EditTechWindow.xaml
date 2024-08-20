@@ -1,0 +1,40 @@
+﻿<Window x:Class="DartMediaApp.EditWindows.EditTechWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DartMediaApp.EditWindows"
+        mc:Ignorable="d"
+        Title="EditTechWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel x:Name="dp" LastChildFill="False">
+            <StackPanel x:Name="sp1">
+                <Label Content="Модель единицы: " />
+                <TextBox x:Name="Name" Text="{Binding tech_model}" Width="200" HorizontalAlignment="Left" />
+
+                <Label Content="Производитель единицы: " />
+                <TextBox x:Name="Surname" Text="{Binding tech_label}" Width="200" HorizontalAlignment="Left"  />
+
+
+                <Label Content="Серийный номер: " />
+                <TextBox x:Name="LastName" Text="{Binding tech_series_number}" Width="200" HorizontalAlignment="Left" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+
+                <Label Content="Год произвосдтва: " />
+                <TextBox x:Name="PhoneNumber" Text="{Binding tech_year_of_prod}" Width="200" HorizontalAlignment="Left" PreviewTextInput="NumericTextBox_PreviewTextInput" />
+
+                <Label Content="Статус: " />
+                <ComboBox x:Name="Status" Text="{Binding tech_status}" Width="200" HorizontalAlignment="Left" />
+
+                <Label Content="Тип: " />
+                <TextBox x:Name="Type" Text="{Binding tech_type}" Width="200" HorizontalAlignment="Left" />
+
+
+
+
+
+                <Button x:Name="ChangeBtn" Content="Изменить" Click="ChangeBtn_Click"  />
+                <Button x:Name="Назад" Content="Back" Click="Назад_Click"  />
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

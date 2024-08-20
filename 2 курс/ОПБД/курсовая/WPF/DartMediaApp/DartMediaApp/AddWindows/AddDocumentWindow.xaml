@@ -1,0 +1,33 @@
+﻿<Window x:Class="DartMediaApp.AddWindows.AddDocumentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DartMediaApp.AddWindows"
+        mc:Ignorable="d"
+        Title="AddDocumentWindow" Height="450" Width="800" Background="Gray">
+    <Grid>
+        <DockPanel x:Name="dp" LastChildFill="False">
+            <StackPanel x:Name="sp1">
+                <Label Content="ИНН сотрудника: " />
+                <TextBox x:Name="Name" Text="{Binding doc_INN}" Width="200" HorizontalAlignment="Left" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+
+                <Label Content="Паспорт сотрудника: " />
+                <TextBox x:Name="Surname" Text="{Binding doc_passport_number}" Width="200" HorizontalAlignment="Left"  PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+
+                <Label Content="Ссылка на фотографию сотрудника: " />
+                <TextBox x:Name="LastName" Text="{Binding doc_photo}" Width="200" HorizontalAlignment="Left"/>
+
+                <Label Content="Полис сотрудника: " />
+                <TextBox x:Name="PhoneNumber" Text="{Binding doc_polis}" Width="200" HorizontalAlignment="Left" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+
+                
+
+
+
+                <Button x:Name="AddBtn" Content="Add" Click="AddBtn_Click"/>
+                <Button x:Name="BackBtn" Content="Back" Click="BackBtn_Click"/>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

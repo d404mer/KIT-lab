@@ -1,0 +1,34 @@
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\bin\Debug\net8.0-windows\7 вариант с навбаром фулл.exe
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\bin\Debug\net8.0-windows\7 вариант с навбаром фулл.deps.json
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\bin\Debug\net8.0-windows\7 вариант с навбаром фулл.runtimeconfig.json
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\bin\Debug\net8.0-windows\7 вариант с навбаром фулл.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\bin\Debug\net8.0-windows\7 вариант с навбаром фулл.pdb
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл_MarkupCompile.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл_MarkupCompile.lref
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.g.resources
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.AssemblyInfo.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\refint\7 вариант с навбаром фулл.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.pdb
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\7 вариант с навбаром фулл.genruntimeconfig.cache
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\ref\7 вариант с навбаром фулл.dll
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\CarouselDemo.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\CarouselDemo.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\About.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\Meds.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\Uslugi.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\About.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\Login.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\Meds.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\Uslugi.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\DoctorWindow.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\MyRecordsWindow.g.cs
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\DoctorWindow.baml
+C:\Users\user\YandexDisk\2 курс\РПМ\Зачет_варианты\7 Варик норм\7 вариант с навбаром фулл\7 вариант с навбаром фулл\obj\Debug\net8.0-windows\MyRecordsWindow.baml

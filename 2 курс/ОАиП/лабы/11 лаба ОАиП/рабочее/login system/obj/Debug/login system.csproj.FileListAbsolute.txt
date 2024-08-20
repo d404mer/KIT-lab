@@ -1,0 +1,70 @@
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.RegistrationForm.resources
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.Properties.Resources.resources
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.GenerateResource.cache
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\login system.exe.config
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\login system.exe
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\login system.pdb
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.dll
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.SqlServer.dll
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.xml
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.SqlServer.xml
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.Authorization.resources
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login sy.41F6F28A.Up2Date
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.exe
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.pdb
+D:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.LoggedInForm.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.AssemblyReference.cache
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.Authorization.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.LoggedInForm.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.RegistrationForm.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login_system.Properties.Resources.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.GenerateResource.cache
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.exe
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.pdb
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\login system.exe.config
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\login system.exe
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\login system.pdb
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.dll
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.SqlServer.dll
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.xml
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\bin\Debug\EntityFramework.SqlServer.xml
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП в процессе\рабочее\login system\obj\Debug\login system.csproj.CopyComplete
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\login system.exe.config
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\login system.exe
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\login system.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\EntityFramework.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\EntityFramework.xml
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login system.csproj.AssemblyReference.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login_system.Authorization.resources
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login_system.LoggedInForm.resources
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login_system.RegistrationForm.resources
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login_system.Properties.Resources.resources
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login system.csproj.GenerateResource.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login system.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login system.csproj.CopyComplete
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login system.exe
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login system.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\11 лаба ОАиП\login system\obj\Debug\login_system.PasswordRestore.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\login system.exe.config
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\login system.exe
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\login system.pdb
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\EntityFramework.dll
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\EntityFramework.SqlServer.dll
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\EntityFramework.xml
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\bin\Debug\EntityFramework.SqlServer.xml
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login system.csproj.AssemblyReference.cache
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login_system.Authorization.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login_system.LoggedInForm.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login_system.PasswordRestore.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login_system.RegistrationForm.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login_system.Properties.Resources.resources
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login system.csproj.GenerateResource.cache
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login system.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login sy.41F6F28A.Up2Date
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login system.exe
+E:\КИТ\2 курс\ОАиП\лабы\! 11 лаба ОАиП\рабочее\login system\obj\Debug\login system.pdb

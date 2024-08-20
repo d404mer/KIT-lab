@@ -1,0 +1,46 @@
+F:\alan\kit\ОАИП\10\10\10\bin\Debug\10.exe.config
+F:\alan\kit\ОАИП\10\10\10\bin\Debug\10.exe
+F:\alan\kit\ОАИП\10\10\10\bin\Debug\10.pdb
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\10.csproj.AssemblyReference.cache
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\_10.Form1.resources
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\_10.Properties.Resources.resources
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\10.csproj.GenerateResource.cache
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\10.exe
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\10.pdb
+F:\alan\kit\ОАИП\10\10\10\obj\Debug\_10.ValuesGen.resources
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\bin\Debug\10.exe.config
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\bin\Debug\10.exe
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\bin\Debug\10.pdb
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\_10.Form1.resources
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\_10.Properties.Resources.resources
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\_10.ValuesGen.resources
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\10.csproj.GenerateResource.cache
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\10.exe
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\10.pdb
+C:\Users\ваф\Downloads\kit\kit\ÄÇêÅ\10\10\10\obj\Debug\_10.analys.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\bin\Debug\10.exe.config
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\bin\Debug\10.exe
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\bin\Debug\10.pdb
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.Form1.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.Properties.Resources.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.ValuesGen.resources
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.exe
+C:\Users\user\YandexDisk\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\bin\Debug\10.exe.config
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\bin\Debug\10.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\bin\Debug\10.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.Form1.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.Properties.Resources.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.ValuesGen.resources
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\10.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ОАиП\лабы\! 10 лаба ОАиП\рабочее\10\obj\Debug\_10.analys.resources

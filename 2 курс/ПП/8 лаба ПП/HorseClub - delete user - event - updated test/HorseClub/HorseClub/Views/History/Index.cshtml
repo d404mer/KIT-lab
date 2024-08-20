@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>История записей:</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>№</th>
+            <th>Название мероприятия</th>
+            <th>Дата</th>
+            <!-- Другие заголовки столбцов -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.RecordId</td>
+                <td>@item.EventName</td>
+                <td>@item.Date.ToShortDateString()</td>
+                <!-- Остальные столбцы -->
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <form asp-controller="History" asp-action="ToCard" method="post">
+        <button type="submit" class="home-cta-btn button Anchor"> Обратно в профиль </button>
+    </form>
+
+</div>

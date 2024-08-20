@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Без названия %283%29.jpg" />
+    <None Remove="Без названия %284%29.jpg" />
+    <None Remove="Без названия %285%29.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Без названия (3).jpg" />
+    <Resource Include="Без названия (4).jpg" />
+    <Resource Include="Без названия (5).jpg" />
+  </ItemGroup>
+
+</Project>

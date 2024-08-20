@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3 лаба ПП</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+
+
+<body>
+
+    
+    <!-- 1 ЗАДАНИЕ -->
+    <h1> 1 Задание: </h1>
+    <p>
+        Служба доставки владеет грузовиками, 
+        которые могут развозить 150 кг посылок. 
+        Однако сами посылки имеют вес либо 100 кг, либо 50 кг.
+        На вход подается массив целых чисел, каждое число - либо 50, 
+        либо 100. <br> Необходимо <b> вывести минимальное количество поездок </b>, 
+        которое надо совершить, чтобы отвезти все введенные посылки.
+    </p>
+
+    <div class="container">
+        <!-- 1st col -->
+        <div class="box"> 
+            <h2> Действия: </h2>
+            <button class="button" onclick="add50()"> 50 кг </button>
+            <button class="button" onclick="add100()"> 100 кг </button>
+            <button class="button" onclick="clearArr()" id="clearBtn"> clear </button>
+            <button class="button" onclick="solve()" id="solve"> solve </button>
+        </div>
+        <!-- 2nd col -->
+        <div class="box">
+            <h2> Ваши посылки: </h2>
+            <p id="list"></p>
+        </div>
+
+        <!-- 3rd col -->
+        <div class="box" >
+            <h2> Минимальное кол-во грузовиков: </h2>
+            <p id="result"></p>
+        </div>
+    </div>
+ <hr>
+ 
+<!-- 2 ЗАДАНИЕ  -->
+    <h1> 2 Задание: </h1>
+    <p>
+        Класс Vector2D - двумерный вектор. Атрибуты - два вещественных числа (координаты). <br>
+        • Vector2D() - конструктор для нулевого вектора;<br>
+        •	Vector2D(double, double) - конструктор вектора с координатами; 
+        в конструкторах устраняйте дублирование кода;<br>
+        •	Vector2D add(Vector2D) - сложение вектора с другим вектором,
+        результат возвращается как новый объект.<br>
+        •	Vector2D sub(Vector2D) - вычитание из вектора другого вектора, 
+        результат возвращается как новый объект;<br>
+        •	Vector2D mult(double) - умножение вектора на вещественное число, 
+        результат возвращается как новый объект;<br>
+        <br>
+        •	String toString() - строковое представление вектора;<br>
+        •	double length() - длина вектора;<br>
+        •	double scalarProduct(Vector2D) - скалярное произведение вектора 
+        на другой вектор;<br>
+        •	double cos(Vector2D) - косинус угла между этим и другим вектором;<br>
+        •	boolean equals(Vector2D) - сравнить вектор с другим вектором;<br>
+    </p>
+
+<div class="container">
+        <div class="box">
+            <h2>Создание 1 вектора</h2>
+            <input type="text" placeholder="Введите значение x" id="x1">
+            <input type="text" placeholder="Введите значение y" id="y1">
+            <br>
+            <button class="button" onclick="clearinput1()"> clear </button>
+            <!-- <button class="button" onclick="" id="solve"> Создать вектор 1 </button> -->
+        </div>
+        <div class="box">
+            <h2> Создание 2 вектора</h2>
+            <input type="text" placeholder="Введите значение x" id="x2">
+            <input type="text" placeholder="Введите значение y" id="y2">
+            <br>
+            <button class="button" onclick="clearinput2()"> clear </button>
+            <!-- <button class="button" onclick="" id="solve"> Создать вектор 2 </button> -->
+        </div>
+</div>
+
+<div class="container">
+    <div class="box">
+        <h2> Действия: </h2>
+        <div class="btn-group">
+
+            
+            <input type="text" placeholder="Введите число" id="num">
+            <button class="button" onclick="addition()" > Сложение </button>
+            <button class="button" onclick="subtraction()" > Вычитание </button>
+            <button class="button" onclick="multiplication()" > Умножение 1 вектора на число </button>
+            <button class="button" onclick="multiplication2()" > Умножение 2 вектора на число </button>
+            <button class="button" onclick="toStringMAIN()" > Вектор 1 в виде строки </button>
+            <button class="button" onclick="toStringMAIN2()" > Вектор 2 в виде строки </button>
+            <button class="button" onclick="length()" > Длина вектора 1 </button>
+            <button class="button" onclick="length2()" > Длина вектора 2</button>
+            <button class="button" onclick="mulVV()" > Скалярное произведение </button>
+            <button class="button" onclick="cosine()" > Косинус угла между векторами </button>
+            <button class="button" onclick="compare()" > Сравнить вектора </button>
+            <button class="button" onclick="clearoutput2()"> clear </button>
+        </div>
+     
+    </div>
+    
+    <div class="box">
+        <h2> Ответ: </h2>
+        <p id="task2result"> </p>
+        
+    </div>
+</div>
+
+
+
+
+<!-- <button class="button" onclick="" >  </button> -->
+<!-- <input type="text" placeholder="Введите чтозачем" id="ïnput1"> -->
+
+    <script src="1 task.js"></script> <!-- 1 ЗАДАНИЕ -->
+    <script src="2 task.js"></script> <!-- 2 ЗАДАНИЕ -->
+
+    <br>
+    <br>
+    <br>
+    <br>
+</body>
+</html>

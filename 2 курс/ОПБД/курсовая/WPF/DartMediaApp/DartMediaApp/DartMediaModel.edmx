@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DartMediaDbModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="COMMISIN">
+          <Key>
+            <PropertyRef Name="commission_id" />
+          </Key>
+          <Property Name="commission_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="client_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="client_surname" Type="nvarchar" MaxLength="255" />
+          <Property Name="client_last_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="com_city" Type="nvarchar" MaxLength="255" />
+          <Property Name="com_place" Type="nvarchar" MaxLength="255" />
+          <Property Name="com_tel_number" Type="nvarchar" MaxLength="20" />
+          <Property Name="ID_CONTENT_TYPE" Type="int" />
+          <Property Name="ID_TECH" Type="int" />
+          <Property Name="com_date" Type="date" />
+        </EntityType>
+        <EntityType Name="Content">
+          <Key>
+            <PropertyRef Name="contenttype_id" />
+          </Key>
+          <Property Name="contenttype_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="cont_type" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="Docs">
+          <Key>
+            <PropertyRef Name="dockpack_id" />
+          </Key>
+          <Property Name="dockpack_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="doc_INN" Type="nvarchar" MaxLength="255" />
+          <Property Name="doc_passport_number" Type="nvarchar" MaxLength="255" />
+          <Property Name="doc_photo" Type="nvarchar" MaxLength="255" />
+          <Property Name="doc_polis" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <EntityType Name="Emp">
+          <Key>
+            <PropertyRef Name="emp_id" />
+          </Key>
+          <Property Name="emp_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="emp_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="emp_surname" Type="nvarchar" MaxLength="255" />
+          <Property Name="emp_last_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="emp_phone_number" Type="nvarchar" MaxLength="20" />
+          <Property Name="emp_email" Type="nvarchar" MaxLength="255" />
+          <Property Name="emp_date_of_birth" Type="date" />
+          <Property Name="emp_status" Type="int" />
+          <Property Name="ID_DOCKPACK" Type="int" />
+        </EntityType>
+        <EntityType Name="EMP_COM">
+          <Key>
+            <PropertyRef Name="empcom_id" />
+          </Key>
+          <Property Name="empcom_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ID_EMP" Type="int" />
+          <Property Name="ID_COM" Type="int" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Tech">
+          <Key>
+            <PropertyRef Name="tech_id" />
+          </Key>
+          <Property Name="tech_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="tech_model" Type="nvarchar" MaxLength="255" />
+          <Property Name="tech_label" Type="nvarchar" MaxLength="255" />
+          <Property Name="tech_series_number" Type="nvarchar" MaxLength="255" />
+          <Property Name="tech_year_of_prod" Type="int" />
+          <Property Name="tech_status" Type="int" />
+          <Property Name="tech_type" Type="nvarchar" MaxLength="255" />
+        </EntityType>
+        <Association Name="FK__COMMISIN__ID_CON__403A8C7D">
+          <End Role="Content" Type="Self.Content" Multiplicity="0..1" />
+          <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Content">
+              <PropertyRef Name="contenttype_id" />
+            </Principal>
+            <Dependent Role="COMMISIN">
+              <PropertyRef Name="ID_CONTENT_TYPE" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__COMMISIN__ID_TEC__412EB0B6">
+          <End Role="Tech" Type="Self.Tech" Multiplicity="0..1" />
+          <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tech">
+              <PropertyRef Name="tech_id" />
+            </Principal>
+            <Dependent Role="COMMISIN">
+              <PropertyRef Name="ID_TECH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Emp__ID_DOCKPACK__398D8EEE">
+          <End Role="Docs" Type="Self.Docs" Multiplicity="0..1" />
+          <End Role="Emp" Type="Self.Emp" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Docs">
+              <PropertyRef Name="dockpack_id" />
+            </Principal>
+            <Dependent Role="Emp">
+              <PropertyRef Name="ID_DOCKPACK" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMP_COM__ID_COM__44FF419A">
+          <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="0..1" />
+          <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="COMMISIN">
+              <PropertyRef Name="commission_id" />
+            </Principal>
+            <Dependent Role="EMP_COM">
+              <PropertyRef Name="ID_COM" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMP_COM__ID_EMP__440B1D61">
+          <End Role="Emp" Type="Self.Emp" Multiplicity="0..1" />
+          <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Emp">
+              <PropertyRef Name="emp_id" />
+            </Principal>
+            <Dependent Role="EMP_COM">
+              <PropertyRef Name="ID_EMP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+        <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+          <Parameter Name="owner_id" Type="int" Mode="In" />
+          <Parameter Name="version" Type="int" Mode="In" />
+          <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+        </Function>
+        <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+          <Parameter Name="owner_id" Type="int" Mode="In" />
+          <Parameter Name="version" Type="int" Mode="In" />
+          <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+        </Function>
+        <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+          <Parameter Name="owner_id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+          <Parameter Name="owner_id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+          <Parameter Name="owner_id" Type="int" Mode="In" />
+        </Function>
+        <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+          <Parameter Name="owner_id" Type="int" Mode="In" />
+          <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+        </Function>
+        <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <EntityContainer Name="DartMediaDbModel1StoreContainer">
+          <EntitySet Name="COMMISIN" EntityType="Self.COMMISIN" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Content" EntityType="Self.Content" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Docs" EntityType="Self.Docs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Emp" EntityType="Self.Emp" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EMP_COM" EntityType="Self.EMP_COM" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tech" EntityType="Self.Tech" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__COMMISIN__ID_CON__403A8C7D" Association="Self.FK__COMMISIN__ID_CON__403A8C7D">
+            <End Role="Content" EntitySet="Content" />
+            <End Role="COMMISIN" EntitySet="COMMISIN" />
+          </AssociationSet>
+          <AssociationSet Name="FK__COMMISIN__ID_TEC__412EB0B6" Association="Self.FK__COMMISIN__ID_TEC__412EB0B6">
+            <End Role="Tech" EntitySet="Tech" />
+            <End Role="COMMISIN" EntitySet="COMMISIN" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Emp__ID_DOCKPACK__398D8EEE" Association="Self.FK__Emp__ID_DOCKPACK__398D8EEE">
+            <End Role="Docs" EntitySet="Docs" />
+            <End Role="Emp" EntitySet="Emp" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMP_COM__ID_COM__44FF419A" Association="Self.FK__EMP_COM__ID_COM__44FF419A">
+            <End Role="COMMISIN" EntitySet="COMMISIN" />
+            <End Role="EMP_COM" EntitySet="EMP_COM" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMP_COM__ID_EMP__440B1D61" Association="Self.FK__EMP_COM__ID_EMP__440B1D61">
+            <End Role="Emp" EntitySet="Emp" />
+            <End Role="EMP_COM" EntitySet="EMP_COM" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DartMediaDbModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="COMMISIN">
+          <Key>
+            <PropertyRef Name="commission_id" />
+          </Key>
+          <Property Name="commission_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="client_name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="client_surname" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="client_last_name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="com_city" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="com_place" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="com_tel_number" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="ID_CONTENT_TYPE" Type="Int32" />
+          <Property Name="ID_TECH" Type="Int32" />
+          <Property Name="com_date" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="Content" Relationship="Self.FK__COMMISIN__ID_CON__403A8C7D" FromRole="COMMISIN" ToRole="Content" />
+          <NavigationProperty Name="Tech" Relationship="Self.FK__COMMISIN__ID_TEC__412EB0B6" FromRole="COMMISIN" ToRole="Tech" />
+          <NavigationProperty Name="EMP_COM" Relationship="Self.FK__EMP_COM__ID_COM__44FF419A" FromRole="COMMISIN" ToRole="EMP_COM" />
+        </EntityType>
+        <EntityType Name="Content">
+          <Key>
+            <PropertyRef Name="contenttype_id" />
+          </Key>
+          <Property Name="contenttype_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="cont_type" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="COMMISINs" Relationship="Self.FK__COMMISIN__ID_CON__403A8C7D" FromRole="Content" ToRole="COMMISIN" />
+        </EntityType>
+        <EntityType Name="Doc">
+          <Key>
+            <PropertyRef Name="dockpack_id" />
+          </Key>
+          <Property Name="dockpack_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="doc_INN" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="doc_passport_number" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="doc_photo" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="doc_polis" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Emps" Relationship="Self.FK__Emp__ID_DOCKPACK__398D8EEE" FromRole="Docs" ToRole="Emp" />
+        </EntityType>
+        <EntityType Name="Emp">
+          <Key>
+            <PropertyRef Name="emp_id" />
+          </Key>
+          <Property Name="emp_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="emp_name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="emp_surname" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="emp_last_name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="emp_phone_number" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="emp_email" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="emp_date_of_birth" Type="DateTime" Precision="0" />
+          <Property Name="emp_status" Type="Int32" />
+          <Property Name="ID_DOCKPACK" Type="Int32" />
+          <NavigationProperty Name="Doc" Relationship="Self.FK__Emp__ID_DOCKPACK__398D8EEE" FromRole="Emp" ToRole="Docs" />
+          <NavigationProperty Name="EMP_COM" Relationship="Self.FK__EMP_COM__ID_EMP__440B1D61" FromRole="Emp" ToRole="EMP_COM" />
+        </EntityType>
+        <EntityType Name="EMP_COM">
+          <Key>
+            <PropertyRef Name="empcom_id" />
+          </Key>
+          <Property Name="empcom_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ID_EMP" Type="Int32" />
+          <Property Name="ID_COM" Type="Int32" />
+          <NavigationProperty Name="COMMISIN" Relationship="Self.FK__EMP_COM__ID_COM__44FF419A" FromRole="EMP_COM" ToRole="COMMISIN" />
+          <NavigationProperty Name="Emp" Relationship="Self.FK__EMP_COM__ID_EMP__440B1D61" FromRole="EMP_COM" ToRole="Emp" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Tech">
+          <Key>
+            <PropertyRef Name="tech_id" />
+          </Key>
+          <Property Name="tech_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="tech_model" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="tech_label" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="tech_series_number" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="tech_year_of_prod" Type="Int32" />
+          <Property Name="tech_status" Type="Int32" />
+          <Property Name="tech_type" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="COMMISINs" Relationship="Self.FK__COMMISIN__ID_TEC__412EB0B6" FromRole="Tech" ToRole="COMMISIN" />
+        </EntityType>
+        <Association Name="FK__COMMISIN__ID_CON__403A8C7D">
+          <End Role="Content" Type="Self.Content" Multiplicity="0..1" />
+          <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Content">
+              <PropertyRef Name="contenttype_id" />
+            </Principal>
+            <Dependent Role="COMMISIN">
+              <PropertyRef Name="ID_CONTENT_TYPE" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__COMMISIN__ID_TEC__412EB0B6">
+          <End Role="Tech" Type="Self.Tech" Multiplicity="0..1" />
+          <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tech">
+              <PropertyRef Name="tech_id" />
+            </Principal>
+            <Dependent Role="COMMISIN">
+              <PropertyRef Name="ID_TECH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMP_COM__ID_COM__44FF419A">
+          <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="0..1" />
+          <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="COMMISIN">
+              <PropertyRef Name="commission_id" />
+            </Principal>
+            <Dependent Role="EMP_COM">
+              <PropertyRef Name="ID_COM" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Emp__ID_DOCKPACK__398D8EEE">
+          <End Role="Docs" Type="Self.Doc" Multiplicity="0..1" />
+          <End Role="Emp" Type="Self.Emp" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Docs">
+              <PropertyRef Name="dockpack_id" />
+            </Principal>
+            <Dependent Role="Emp">
+              <PropertyRef Name="ID_DOCKPACK" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMP_COM__ID_EMP__440B1D61">
+          <End Role="Emp" Type="Self.Emp" Multiplicity="0..1" />
+          <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Emp">
+              <PropertyRef Name="emp_id" />
+            </Principal>
+            <Dependent Role="EMP_COM">
+              <PropertyRef Name="ID_EMP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DartMediaDbEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="COMMISINs" EntityType="Self.COMMISIN" />
+          <EntitySet Name="Contents" EntityType="Self.Content" />
+          <EntitySet Name="Docs" EntityType="Self.Doc" />
+          <EntitySet Name="Emps" EntityType="Self.Emp" />
+          <EntitySet Name="EMP_COM" EntityType="Self.EMP_COM" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <EntitySet Name="Teches" EntityType="Self.Tech" />
+          <AssociationSet Name="FK__COMMISIN__ID_CON__403A8C7D" Association="Self.FK__COMMISIN__ID_CON__403A8C7D">
+            <End Role="Content" EntitySet="Contents" />
+            <End Role="COMMISIN" EntitySet="COMMISINs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__COMMISIN__ID_TEC__412EB0B6" Association="Self.FK__COMMISIN__ID_TEC__412EB0B6">
+            <End Role="Tech" EntitySet="Teches" />
+            <End Role="COMMISIN" EntitySet="COMMISINs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMP_COM__ID_COM__44FF419A" Association="Self.FK__EMP_COM__ID_COM__44FF419A">
+            <End Role="COMMISIN" EntitySet="COMMISINs" />
+            <End Role="EMP_COM" EntitySet="EMP_COM" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Emp__ID_DOCKPACK__398D8EEE" Association="Self.FK__Emp__ID_DOCKPACK__398D8EEE">
+            <End Role="Docs" EntitySet="Docs" />
+            <End Role="Emp" EntitySet="Emps" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMP_COM__ID_EMP__440B1D61" Association="Self.FK__EMP_COM__ID_EMP__440B1D61">
+            <End Role="Emp" EntitySet="Emps" />
+            <End Role="EMP_COM" EntitySet="EMP_COM" />
+          </AssociationSet>
+          <FunctionImport Name="sp_alterdiagram">
+            <Parameter Name="diagramname" Mode="In" Type="String" />
+            <Parameter Name="owner_id" Mode="In" Type="Int32" />
+            <Parameter Name="version" Mode="In" Type="Int32" />
+            <Parameter Name="definition" Mode="In" Type="Binary" />
+          </FunctionImport>
+          <FunctionImport Name="sp_creatediagram">
+            <Parameter Name="diagramname" Mode="In" Type="String" />
+            <Parameter Name="owner_id" Mode="In" Type="Int32" />
+            <Parameter Name="version" Mode="In" Type="Int32" />
+            <Parameter Name="definition" Mode="In" Type="Binary" />
+          </FunctionImport>
+          <FunctionImport Name="sp_dropdiagram">
+            <Parameter Name="diagramname" Mode="In" Type="String" />
+            <Parameter Name="owner_id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(DartMediaDbModel1.sp_helpdiagramdefinition_Result)">
+            <Parameter Name="diagramname" Mode="In" Type="String" />
+            <Parameter Name="owner_id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(DartMediaDbModel1.sp_helpdiagrams_Result)">
+            <Parameter Name="diagramname" Mode="In" Type="String" />
+            <Parameter Name="owner_id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="sp_renamediagram">
+            <Parameter Name="diagramname" Mode="In" Type="String" />
+            <Parameter Name="owner_id" Mode="In" Type="Int32" />
+            <Parameter Name="new_diagramname" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="sp_upgraddiagrams" />
+        </EntityContainer>
+        <ComplexType Name="sp_helpdiagramdefinition_Result">
+          <Property Type="Int32" Name="version" Nullable="true" />
+          <Property Type="Binary" Name="definition" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="sp_helpdiagrams_Result">
+          <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+          <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+          <Property Type="Int32" Name="ID" Nullable="false" />
+          <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+          <Property Type="Int32" Name="OwnerID" Nullable="false" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DartMediaDbModel1StoreContainer" CdmEntityContainer="DartMediaDbEntities1">
+          <EntitySetMapping Name="COMMISINs">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.COMMISIN">
+              <MappingFragment StoreEntitySet="COMMISIN">
+                <ScalarProperty Name="commission_id" ColumnName="commission_id" />
+                <ScalarProperty Name="client_name" ColumnName="client_name" />
+                <ScalarProperty Name="client_surname" ColumnName="client_surname" />
+                <ScalarProperty Name="client_last_name" ColumnName="client_last_name" />
+                <ScalarProperty Name="com_city" ColumnName="com_city" />
+                <ScalarProperty Name="com_place" ColumnName="com_place" />
+                <ScalarProperty Name="com_tel_number" ColumnName="com_tel_number" />
+                <ScalarProperty Name="ID_CONTENT_TYPE" ColumnName="ID_CONTENT_TYPE" />
+                <ScalarProperty Name="ID_TECH" ColumnName="ID_TECH" />
+                <ScalarProperty Name="com_date" ColumnName="com_date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Contents">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.Content">
+              <MappingFragment StoreEntitySet="Content">
+                <ScalarProperty Name="contenttype_id" ColumnName="contenttype_id" />
+                <ScalarProperty Name="cont_type" ColumnName="cont_type" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Docs">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.Doc">
+              <MappingFragment StoreEntitySet="Docs">
+                <ScalarProperty Name="dockpack_id" ColumnName="dockpack_id" />
+                <ScalarProperty Name="doc_INN" ColumnName="doc_INN" />
+                <ScalarProperty Name="doc_passport_number" ColumnName="doc_passport_number" />
+                <ScalarProperty Name="doc_photo" ColumnName="doc_photo" />
+                <ScalarProperty Name="doc_polis" ColumnName="doc_polis" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Emps">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.Emp">
+              <MappingFragment StoreEntitySet="Emp">
+                <ScalarProperty Name="emp_id" ColumnName="emp_id" />
+                <ScalarProperty Name="emp_name" ColumnName="emp_name" />
+                <ScalarProperty Name="emp_surname" ColumnName="emp_surname" />
+                <ScalarProperty Name="emp_last_name" ColumnName="emp_last_name" />
+                <ScalarProperty Name="emp_phone_number" ColumnName="emp_phone_number" />
+                <ScalarProperty Name="emp_email" ColumnName="emp_email" />
+                <ScalarProperty Name="emp_date_of_birth" ColumnName="emp_date_of_birth" />
+                <ScalarProperty Name="emp_status" ColumnName="emp_status" />
+                <ScalarProperty Name="ID_DOCKPACK" ColumnName="ID_DOCKPACK" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EMP_COM">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.EMP_COM">
+              <MappingFragment StoreEntitySet="EMP_COM">
+                <ScalarProperty Name="empcom_id" ColumnName="empcom_id" />
+                <ScalarProperty Name="ID_EMP" ColumnName="ID_EMP" />
+                <ScalarProperty Name="ID_COM" ColumnName="ID_COM" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Teches">
+            <EntityTypeMapping TypeName="DartMediaDbModel1.Tech">
+              <MappingFragment StoreEntitySet="Tech">
+                <ScalarProperty Name="tech_id" ColumnName="tech_id" />
+                <ScalarProperty Name="tech_model" ColumnName="tech_model" />
+                <ScalarProperty Name="tech_label" ColumnName="tech_label" />
+                <ScalarProperty Name="tech_series_number" ColumnName="tech_series_number" />
+                <ScalarProperty Name="tech_year_of_prod" ColumnName="tech_year_of_prod" />
+                <ScalarProperty Name="tech_status" ColumnName="tech_status" />
+                <ScalarProperty Name="tech_type" ColumnName="tech_type" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="DartMediaDbModel1.Store.sp_alterdiagram" />
+          <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="DartMediaDbModel1.Store.sp_creatediagram" />
+          <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="DartMediaDbModel1.Store.sp_dropdiagram" />
+          <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="DartMediaDbModel1.Store.sp_helpdiagramdefinition">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="DartMediaDbModel1.sp_helpdiagramdefinition_Result">
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="DartMediaDbModel1.Store.sp_helpdiagrams">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="DartMediaDbModel1.sp_helpdiagrams_Result">
+                <ScalarProperty Name="Database" ColumnName="Database" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Owner" ColumnName="Owner" />
+                <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="DartMediaDbModel1.Store.sp_renamediagram" />
+          <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="DartMediaDbModel1.Store.sp_upgraddiagrams" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

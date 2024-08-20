@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DartMediaDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="COMMISIN">
+    <Key>
+      <PropertyRef Name="commission_id" />
+    </Key>
+    <Property Name="commission_id" Type="Int32" Nullable="false" />
+    <Property Name="client_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="client_surname" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="client_last_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="com_city" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="com_place" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="com_tel_number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="ID_CONTENT_TYPE" Type="Int32" />
+    <Property Name="ID_TECH" Type="Int32" />
+    <Property Name="com_date" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Content" Relationship="Self.FK__COMMISIN__ID_CON__403A8C7D" FromRole="COMMISIN" ToRole="Content" />
+    <NavigationProperty Name="Tech" Relationship="Self.FK__COMMISIN__ID_TEC__412EB0B6" FromRole="COMMISIN" ToRole="Tech" />
+    <NavigationProperty Name="EMP_COM" Relationship="Self.FK__EMP_COM__ID_COM__44FF419A" FromRole="COMMISIN" ToRole="EMP_COM" />
+  </EntityType>
+  <EntityType Name="Content">
+    <Key>
+      <PropertyRef Name="contenttype_id" />
+    </Key>
+    <Property Name="contenttype_id" Type="Int32" Nullable="false" />
+    <Property Name="cont_type" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="COMMISINs" Relationship="Self.FK__COMMISIN__ID_CON__403A8C7D" FromRole="Content" ToRole="COMMISIN" />
+  </EntityType>
+  <EntityType Name="Doc">
+    <Key>
+      <PropertyRef Name="dockpack_id" />
+    </Key>
+    <Property Name="dockpack_id" Type="Int32" Nullable="false" />
+    <Property Name="doc_INN" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="doc_passport_number" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="doc_photo" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="doc_polis" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Emps" Relationship="Self.FK__Emp__ID_DOCKPACK__398D8EEE" FromRole="Docs" ToRole="Emp" />
+  </EntityType>
+  <EntityType Name="Emp">
+    <Key>
+      <PropertyRef Name="emp_id" />
+    </Key>
+    <Property Name="emp_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="emp_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="emp_surname" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="emp_last_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="emp_phone_number" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="emp_email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="emp_date_of_birth" Type="DateTime" Precision="0" />
+    <Property Name="emp_status" Type="Int32" />
+    <Property Name="ID_DOCKPACK" Type="Int32" />
+    <NavigationProperty Name="Doc" Relationship="Self.FK__Emp__ID_DOCKPACK__398D8EEE" FromRole="Emp" ToRole="Docs" />
+    <NavigationProperty Name="EMP_COM" Relationship="Self.FK__EMP_COM__ID_EMP__440B1D61" FromRole="Emp" ToRole="EMP_COM" />
+  </EntityType>
+  <EntityType Name="EMP_COM">
+    <Key>
+      <PropertyRef Name="empcom_id" />
+    </Key>
+    <Property Name="empcom_id" Type="Int32" Nullable="false" />
+    <Property Name="ID_EMP" Type="Int32" />
+    <Property Name="ID_COM" Type="Int32" />
+    <NavigationProperty Name="COMMISIN" Relationship="Self.FK__EMP_COM__ID_COM__44FF419A" FromRole="EMP_COM" ToRole="COMMISIN" />
+    <NavigationProperty Name="Emp" Relationship="Self.FK__EMP_COM__ID_EMP__440B1D61" FromRole="EMP_COM" ToRole="Emp" />
+  </EntityType>
+  <EntityType Name="Tech">
+    <Key>
+      <PropertyRef Name="tech_id" />
+    </Key>
+    <Property Name="tech_id" Type="Int32" Nullable="false" />
+    <Property Name="tech_model" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="tech_label" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="tech_series_number" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="tech_year_of_prod" Type="Int32" />
+    <Property Name="tech_status" Type="Int32" />
+    <Property Name="tech_type" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="COMMISINs" Relationship="Self.FK__COMMISIN__ID_TEC__412EB0B6" FromRole="Tech" ToRole="COMMISIN" />
+  </EntityType>
+  <Association Name="FK__COMMISIN__ID_CON__403A8C7D">
+    <End Role="Content" Type="Self.Content" Multiplicity="0..1" />
+    <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Content">
+        <PropertyRef Name="contenttype_id" />
+      </Principal>
+      <Dependent Role="COMMISIN">
+        <PropertyRef Name="ID_CONTENT_TYPE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMMISIN__ID_TEC__412EB0B6">
+    <End Role="Tech" Type="Self.Tech" Multiplicity="0..1" />
+    <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tech">
+        <PropertyRef Name="tech_id" />
+      </Principal>
+      <Dependent Role="COMMISIN">
+        <PropertyRef Name="ID_TECH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EMP_COM__ID_COM__44FF419A">
+    <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="0..1" />
+    <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COMMISIN">
+        <PropertyRef Name="commission_id" />
+      </Principal>
+      <Dependent Role="EMP_COM">
+        <PropertyRef Name="ID_COM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Emp__ID_DOCKPACK__398D8EEE">
+    <End Role="Docs" Type="Self.Doc" Multiplicity="0..1" />
+    <End Role="Emp" Type="Self.Emp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Docs">
+        <PropertyRef Name="dockpack_id" />
+      </Principal>
+      <Dependent Role="Emp">
+        <PropertyRef Name="ID_DOCKPACK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EMP_COM__ID_EMP__440B1D61">
+    <End Role="Emp" Type="Self.Emp" Multiplicity="0..1" />
+    <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Emp">
+        <PropertyRef Name="emp_id" />
+      </Principal>
+      <Dependent Role="EMP_COM">
+        <PropertyRef Name="ID_EMP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DartMediaDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="COMMISINs" EntityType="Self.COMMISIN" />
+    <EntitySet Name="Contents" EntityType="Self.Content" />
+    <EntitySet Name="Docs" EntityType="Self.Doc" />
+    <EntitySet Name="Emps" EntityType="Self.Emp" />
+    <EntitySet Name="EMP_COM" EntityType="Self.EMP_COM" />
+    <EntitySet Name="Teches" EntityType="Self.Tech" />
+    <AssociationSet Name="FK__COMMISIN__ID_CON__403A8C7D" Association="Self.FK__COMMISIN__ID_CON__403A8C7D">
+      <End Role="Content" EntitySet="Contents" />
+      <End Role="COMMISIN" EntitySet="COMMISINs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMMISIN__ID_TEC__412EB0B6" Association="Self.FK__COMMISIN__ID_TEC__412EB0B6">
+      <End Role="Tech" EntitySet="Teches" />
+      <End Role="COMMISIN" EntitySet="COMMISINs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EMP_COM__ID_COM__44FF419A" Association="Self.FK__EMP_COM__ID_COM__44FF419A">
+      <End Role="COMMISIN" EntitySet="COMMISINs" />
+      <End Role="EMP_COM" EntitySet="EMP_COM" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Emp__ID_DOCKPACK__398D8EEE" Association="Self.FK__Emp__ID_DOCKPACK__398D8EEE">
+      <End Role="Docs" EntitySet="Docs" />
+      <End Role="Emp" EntitySet="Emps" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EMP_COM__ID_EMP__440B1D61" Association="Self.FK__EMP_COM__ID_EMP__440B1D61">
+      <End Role="Emp" EntitySet="Emps" />
+      <End Role="EMP_COM" EntitySet="EMP_COM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

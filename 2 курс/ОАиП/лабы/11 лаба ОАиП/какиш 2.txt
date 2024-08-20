@@ -1,0 +1,42 @@
+public class User
+{
+    public long ID { get; set; }
+
+    public string Login { get; set; }
+
+    public string Password { get; set; }
+
+    public string Name { get; set; }
+
+    public string Surname { get; set; }
+
+    public string Email { get; set; }
+
+    public string Phone_number { get; set; }
+
+    public string Departament { get; set; }
+
+    public string Title { get; set; }
+
+    public int Salary {  get; set; }
+
+    public DateTime Date { get; set; } // дата приёма на работу
+
+    public DateTime DateOfBirth {  get; set; }
+
+
+
+CREATE TABLE Users (
+    ID INT PRIMARY KEY IDENTITY,
+	[Login] NVARCHAR(50) NOT NULL,
+	[Password] NVARCHAR(50) NOT NULL,
+    [Name] VARCHAR(50) NOT NULL,
+    Surname VARCHAR(50) NOT NULL,
+	Email VARCHAR(50) NOT NULL,
+    Phone_number VARCHAR(15),
+    Department VARCHAR(50),
+	Title VARCHAR(50),
+    Salary DECIMAL(10, 2),
+    [Date] DATE,
+    DateOfBirth DATE
+);

@@ -1,0 +1,22 @@
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\bin\Debug\net8.0\Figures.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\bin\Debug\net8.0\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\bin\Debug\net8.0\Figures.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\refint\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\Figures.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\Figures\obj\Debug\net8.0\ref\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\bin\Debug\net8.0\Figures.deps.json
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\bin\Debug\net8.0\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\bin\Debug\net8.0\Figures.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\refint\Figures.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\Figures.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\stranniy paint\Figures\obj\Debug\net8.0\ref\Figures.dll

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4ff864f4da4444cd85a2beb618d2e164" Name="Diagram1">
+        <EntityTypeShape EntityType="HorseClubDbModel.BREED" Width="1.5" PointX="0.75" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="HorseClubDbModel.event_type" Width="1.5" PointX="1.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HorseClubDbModel.EVENT" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HorseClubDbModel.HORSE" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HorseClubDbModel.LIST" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HorseClubDbModel.USER" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <AssociationConnector Association="HorseClubDbModel.FK__HORSE__FK_HORSE___440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="HorseClubDbModel.FK__EVENTS__FK_EVENT__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="HorseClubDbModel.FK__LIST__FK_EVENT_I__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="HorseClubDbModel.FK__HORSE__FK_USER_I__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="HorseClubDbModel.FK__LIST__FK_USER_ID__3E52440B" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

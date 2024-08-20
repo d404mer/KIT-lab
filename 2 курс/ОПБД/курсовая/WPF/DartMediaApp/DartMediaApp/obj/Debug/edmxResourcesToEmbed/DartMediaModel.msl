@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DartMediaDbModel1StoreContainer" CdmEntityContainer="DartMediaDbEntities1">
+    <EntitySetMapping Name="COMMISINs">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.COMMISIN">
+        <MappingFragment StoreEntitySet="COMMISIN">
+          <ScalarProperty Name="commission_id" ColumnName="commission_id" />
+          <ScalarProperty Name="client_name" ColumnName="client_name" />
+          <ScalarProperty Name="client_surname" ColumnName="client_surname" />
+          <ScalarProperty Name="client_last_name" ColumnName="client_last_name" />
+          <ScalarProperty Name="com_city" ColumnName="com_city" />
+          <ScalarProperty Name="com_place" ColumnName="com_place" />
+          <ScalarProperty Name="com_tel_number" ColumnName="com_tel_number" />
+          <ScalarProperty Name="ID_CONTENT_TYPE" ColumnName="ID_CONTENT_TYPE" />
+          <ScalarProperty Name="ID_TECH" ColumnName="ID_TECH" />
+          <ScalarProperty Name="com_date" ColumnName="com_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contents">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.Content">
+        <MappingFragment StoreEntitySet="Content">
+          <ScalarProperty Name="contenttype_id" ColumnName="contenttype_id" />
+          <ScalarProperty Name="cont_type" ColumnName="cont_type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Docs">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.Doc">
+        <MappingFragment StoreEntitySet="Docs">
+          <ScalarProperty Name="dockpack_id" ColumnName="dockpack_id" />
+          <ScalarProperty Name="doc_INN" ColumnName="doc_INN" />
+          <ScalarProperty Name="doc_passport_number" ColumnName="doc_passport_number" />
+          <ScalarProperty Name="doc_photo" ColumnName="doc_photo" />
+          <ScalarProperty Name="doc_polis" ColumnName="doc_polis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Emps">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.Emp">
+        <MappingFragment StoreEntitySet="Emp">
+          <ScalarProperty Name="emp_id" ColumnName="emp_id" />
+          <ScalarProperty Name="emp_name" ColumnName="emp_name" />
+          <ScalarProperty Name="emp_surname" ColumnName="emp_surname" />
+          <ScalarProperty Name="emp_last_name" ColumnName="emp_last_name" />
+          <ScalarProperty Name="emp_phone_number" ColumnName="emp_phone_number" />
+          <ScalarProperty Name="emp_email" ColumnName="emp_email" />
+          <ScalarProperty Name="emp_date_of_birth" ColumnName="emp_date_of_birth" />
+          <ScalarProperty Name="emp_status" ColumnName="emp_status" />
+          <ScalarProperty Name="ID_DOCKPACK" ColumnName="ID_DOCKPACK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EMP_COM">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.EMP_COM">
+        <MappingFragment StoreEntitySet="EMP_COM">
+          <ScalarProperty Name="empcom_id" ColumnName="empcom_id" />
+          <ScalarProperty Name="ID_EMP" ColumnName="ID_EMP" />
+          <ScalarProperty Name="ID_COM" ColumnName="ID_COM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teches">
+      <EntityTypeMapping TypeName="DartMediaDbModel1.Tech">
+        <MappingFragment StoreEntitySet="Tech">
+          <ScalarProperty Name="tech_id" ColumnName="tech_id" />
+          <ScalarProperty Name="tech_model" ColumnName="tech_model" />
+          <ScalarProperty Name="tech_label" ColumnName="tech_label" />
+          <ScalarProperty Name="tech_series_number" ColumnName="tech_series_number" />
+          <ScalarProperty Name="tech_year_of_prod" ColumnName="tech_year_of_prod" />
+          <ScalarProperty Name="tech_status" ColumnName="tech_status" />
+          <ScalarProperty Name="tech_type" ColumnName="tech_type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="DartMediaDbModel1.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="DartMediaDbModel1.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="DartMediaDbModel1.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="DartMediaDbModel1.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DartMediaDbModel1.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="DartMediaDbModel1.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DartMediaDbModel1.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="DartMediaDbModel1.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="DartMediaDbModel1.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

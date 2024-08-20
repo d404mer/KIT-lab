@@ -1,0 +1,73 @@
+﻿<Window x:Class="DartMediaApp.TablesWindows.DocumentsWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:local="clr-namespace:DartMediaApp.TablesWindows"
+            mc:Ignorable="d"
+            Title="Все сотрудники" Height="490" Width="800" MinHeight="490"
+    MinWidth="800" MaxHeight="490" MaxWidth="800" WindowStartupLocation="CenterScreen"
+    Background="#FF2E2E2E">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="299"/>
+            <RowDefinition Height="85"/>
+        </Grid.RowDefinitions>
+
+
+        <Label Grid.RowSpan="1" FontSize="24" HorizontalAlignment="Center"
+    Foreground="#FFE9CB80">Просмотр документов</Label>
+
+
+        <StackPanel x:Name="PanelView" Grid.Row="1" Height="384"
+    VerticalAlignment="Top" Grid.RowSpan="2">
+
+
+            <DataGrid x:Name="DataGridDocs" Height="299" Width="634"
+    Background="#FF6D6D6D" AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding dockpack_id}"
+    Width="27"/>
+                    <DataGridTextColumn Header="ИНН" Binding="{Binding doc_INN}"
+    Width="50"/>
+
+                    <DataGridTextColumn Header="Паспорт" Binding="{Binding doc_passport_number}"
+Width="50"/>
+                    <DataGridTextColumn Header="Фото" Binding="{Binding doc_photo}"
+Width="50"/>
+                    <DataGridTextColumn Header="Полис" Binding="{Binding doc_polis}"
+Width="50"/>
+                    
+
+                    <DataGridTemplateColumn Width="84">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="ButtonDeleteGrid" Content="Удалить"
+    Background="#FFE9CB80" Click="ButtonDeleteGrid_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTemplateColumn Width="84">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button x:Name="ButtonEditGrid" Content="Изменить"
+    Background="#FFE9CB80"  Click="ButtonEditGrid_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <StackPanel Orientation="Horizontal" Margin="0,20,0,0" HorizontalAlignment="Center">
+                <Button x:Name="TechBtn" Content="Техника"  Height="40" Margin="0, 0, 100, 0" Click="TechBtn_Click"/>
+
+                <Button x:Name="ButtonAdd" Height="40" Width="300" Content="Добавить
+        документ" FontSize="14" Background="#FFE9C180"
+         HorizontalAlignment="Center" Margin="10" Click="ButtonAdd_Click"/>
+                <Button x:Name="EmpBstn" Content="Сотрудники"  Height="40" Margin="100, 0, 0, 0" Click="EmpBstn_Click" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div id="ThirdTaskSolution">
+
+ <form method="post">
+ <h1> 3 Задача </h1>
+ <label>
+     В массиве из 2n чисел найти сумму квадратов
+     элементов с четными индексами и сумму кубов 
+     элементов с четными индексами
+ </label>
+ <div>
+     <label>
+         Введите массив, используя , как разделитель:
+     </label>
+     <input type="text" name="arrayInput"/>
+
+
+        <input type="submit" value="Решить"/>
+    </div>
+    <p> Является ли массив чётным: @ViewBag.answ </p>
+    <p > Сумма квадратов: @ViewBag.Quad </p>
+    <p> Сумма кубов: @ViewBag.Trip </p>
+ </form>
+ </div>
+

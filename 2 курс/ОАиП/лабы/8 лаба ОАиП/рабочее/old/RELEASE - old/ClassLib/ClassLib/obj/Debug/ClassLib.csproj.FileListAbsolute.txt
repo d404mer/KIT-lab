@@ -1,0 +1,24 @@
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\КИТ 2-ой курс\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\sljus\OneDrive\Документы\!Работы\Колледж Информационных Технологий\2-й курс (2022-2023)\ОАиП\Лабораторная работа 8\ОАиП_ЛР8_Слюсарь_4232\ClassLib\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\ryan\Downloads\folder\ClassLib\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\ryan\Downloads\folder\ClassLib\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\ryan\Downloads\folder\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+C:\Users\ryan\Downloads\folder\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Downloads\folder\ClassLib\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\ryan\Downloads\folder\ClassLib\ClassLib\obj\Debug\ClassLib.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\ClassLib\ClassLib\bin\Debug\ClassLib.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\ClassLib\ClassLib\bin\Debug\ClassLib.pdb
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\ClassLib\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\ClassLib\ClassLib\obj\Debug\ClassLib.dll
+D:\КИТ\2 курс\ОАиП\лабы\8 лаба ОАиП\рабочее\RELEASE\ClassLib\ClassLib\obj\Debug\ClassLib.pdb

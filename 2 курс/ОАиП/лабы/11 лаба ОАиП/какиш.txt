@@ -1,0 +1,30 @@
+namespace RegForm
+{
+    public partial class Вошёл : Form
+    {
+        private clients user;
+        public Вошёл(clients user) // новый конструктор, принимающий объект пользователя
+        {
+            InitializeComponent();
+            this.user = user; // сохраняем объект пользователя в приватном поле класса
+            FillUserData(); // заполняем поля формы данными пользователя
+        }
+
+        private void FillUserData()
+        {
+            labelName.Text = user.clname;
+            labelSurname.Text = user.clsurname;
+            labelEmail.Text = user.email;
+            labelPhone.Text = user.phone;
+            labelAddress.Text = user.claddress;
+            labelBirthday.Text = user.birthday.ToString();
+            labelRole.Text = user.role;
+        }
+
+        private void Вошёл_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+

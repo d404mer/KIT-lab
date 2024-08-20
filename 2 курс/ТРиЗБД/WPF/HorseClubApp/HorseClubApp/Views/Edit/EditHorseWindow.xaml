@@ -1,0 +1,112 @@
+﻿<Window x:Class="HorseClubApp.Views.Edit.EditHorseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HorseClubApp.Views.Edit"
+        mc:Ignorable="d"
+        Title="EditHorseWindow" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Black" Width="784" Height="500" >
+    <Window.Resources>
+        <Style x:Key="BoldWhiteText" TargetType="TextBlock">
+
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Consolas" />
+        </Style>
+
+
+        <Style x:Key="CustomButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="0,15,0,0"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="FontFamily" Value="Consolas" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#333333"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="CustomTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="BorderBrush" Value="White" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="Margin" Value="0,10,0,15"/>
+        </Style>
+        <Style x:Key="CustomDatePickerStyle" TargetType="DatePicker">
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="Background" Value="White" />
+            <Setter Property="BorderBrush" Value="White" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="Margin" Value="0,10,0,15"/>
+        </Style>
+        <Style x:Key="CustomComboBoxStyle" TargetType="ComboBox">
+
+            <Setter Property="BorderBrush" Value="White" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="Margin" Value="0,10,0,15"/>
+        </Style>
+
+
+
+
+    </Window.Resources>
+
+
+    <Grid>
+        <StackPanel x:Name="MainSP" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel x:Name="sp1" Margin="0,10,20,10"  VerticalAlignment="Center">
+
+                <TextBlock Text="Кличка лошади" Style="{StaticResource BoldWhiteText}" />
+                <TextBox x:Name="breednameTextBox" Style="{StaticResource CustomTextBoxStyle}" Text="{Binding HORSE_name}" Width="200" />
+
+                <TextBlock Text="Возраст лошади" Style="{StaticResource BoldWhiteText}" />
+                <TextBox x:Name="breednaTextBox" Style="{StaticResource CustomTextBoxStyle}" Text="{Binding HORSE_age}" Width="200" PreviewTextInput="NumericTextBox_PreviewTextInput"/>
+
+
+                <TextBlock Text="Пол лошади" Style="{StaticResource BoldWhiteText}" />
+                <ComboBox x:Name="Status" Text="{Binding HORSE_sex}" Style="{StaticResource CustomComboBoxStyle}" />
+
+                <TextBlock Text="Порода лошади" 
+                           Style="{StaticResource BoldWhiteText}" />
+                <ComboBox  x:Name="HorseComboBox" Style="{StaticResource CustomComboBoxStyle}" Text="{Binding FK_HORSE_breedID}" Width="200"
+                           
+                     DisplayMemberPath="BREED_name" SelectedValuePath="BREED_ID"        
+                 
+                           />
+                <TextBlock Text="Владелец лошади" 
+           Style="{StaticResource BoldWhiteText}" />
+                <ComboBox  x:Name="UserComboBox" Style="{StaticResource CustomComboBoxStyle}" Text="{Binding FK_USER_ID_HORSE}" Width="200"
+           
+     DisplayMemberPath="USER_name" SelectedValuePath="USER_ID"        
+ 
+           />
+
+
+            </StackPanel>
+
+            <StackPanel x:Name="ButtonsSP" Width="150" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                <Button x:Name="AddBtn"
+        Content="Изменить" Style="{StaticResource CustomButtonStyle}" Click="AddBtn_Click"  />
+                <Button x:Name="BackBtn"
+Content="Закрыть" Style="{StaticResource CustomButtonStyle}" Click="BackBtn_Click"  />
+            </StackPanel>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,180 @@
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\appsettings.json
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\PP laba 4.staticwebassets.runtime.json
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\PP laba 4.exe
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\PP laba 4.deps.json
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\PP laba 4.runtimeconfig.json
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\PP laba 4.dll
+C:\Users\ryan\Documents\PP laba 4\bin\Debug\net8.0\PP laba 4.pdb
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfoInputs.cache
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfo.cs
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.csproj.CoreCompileInputs.cache
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cache
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cs
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.PP laba 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.build.PP laba 4.props
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PP laba 4.props
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PP laba 4.props
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\scopedcss\bundle\PP laba 4.styles.css
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\scopedcss\projectbundle\PP laba 4.bundle.scp.css
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.dll
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\refint\PP laba 4.dll
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.pdb
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\PP laba 4.genruntimeconfig.cache
+C:\Users\ryan\Documents\PP laba 4\obj\Debug\net8.0\ref\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.Development.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.staticwebassets.runtime.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.exe
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.deps.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.runtimeconfig.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.pdb
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfoInputs.cache
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfo.cs
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.MvcApplicationPartsAssemblyInfo.cache
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cache
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cs
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.build.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.development.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.PP laba 4.Microsoft.AspNetCore.StaticWebAssets.props
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.build.PP laba 4.props
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PP laba 4.props
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PP laba 4.props
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.pack.json
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\bundle\PP laba 4.styles.css
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\projectbundle\PP laba 4.bundle.scp.css
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\refint\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.pdb
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.genruntimeconfig.cache
+E:\КИТ\2 курс\ПП\лабы\! 4 лаба\рабочее\PP laba 4\obj\Debug\net8.0\ref\PP laba 4.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.staticwebassets.runtime.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.exe
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.deps.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.runtimeconfig.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfoInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfo.cs
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.csproj.CoreCompileInputs.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cs
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.PP laba 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.build.PP laba 4.props
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PP laba 4.props
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PP laba 4.props
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\bundle\PP laba 4.styles.css
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\projectbundle\PP laba 4.bundle.scp.css
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\refint\PP laba 4.dll
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.pdb
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.genruntimeconfig.cache
+C:\Users\dev1l\OneDrive\Рабочий стол\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\ref\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.Development.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.staticwebassets.runtime.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.exe
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.deps.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.runtimeconfig.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.pdb
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfoInputs.cache
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfo.cs
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.csproj.CoreCompileInputs.cache
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.MvcApplicationPartsAssemblyInfo.cache
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cache
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cs
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.build.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.development.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.PP laba 4.Microsoft.AspNetCore.StaticWebAssets.props
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.build.PP laba 4.props
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PP laba 4.props
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PP laba 4.props
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.pack.json
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\bundle\PP laba 4.styles.css
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\projectbundle\PP laba 4.bundle.scp.css
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\refint\PP laba 4.dll
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.pdb
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.genruntimeconfig.cache
+E:\КИТ\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\ref\PP laba 4.dll
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.staticwebassets.runtime.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.exe
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.deps.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.runtimeconfig.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.dll
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.pdb
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfo.cs
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cache
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cs
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.PP laba 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.build.PP laba 4.props
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PP laba 4.props
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PP laba 4.props
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\bundle\PP laba 4.styles.css
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\projectbundle\PP laba 4.bundle.scp.css
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.dll
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\refint\PP laba 4.dll
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.pdb
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.genruntimeconfig.cache
+C:\Users\user\YandexDisk\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\ref\PP laba 4.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\appsettings.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.staticwebassets.runtime.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.exe
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.deps.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.runtimeconfig.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\bin\Debug\net8.0\PP laba 4.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.AssemblyInfo.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.RazorAssemblyInfo.cs
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.PP laba 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.build.PP laba 4.props
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PP laba 4.props
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PP laba 4.props
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\bundle\PP laba 4.styles.css
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\scopedcss\projectbundle\PP laba 4.bundle.scp.css
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\refint\PP laba 4.dll
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.pdb
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\PP laba 4.genruntimeconfig.cache
+C:\Users\user\YandexDisk-d0h.jpg\2 курс\ПП\лабы\4 лаба ПП\рабочее\PP laba 4\obj\Debug\net8.0\ref\PP laba 4.dll

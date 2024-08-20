@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DartMediaDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="COMMISIN">
+    <Key>
+      <PropertyRef Name="ID_COMMISION" />
+    </Key>
+    <Property Name="ID_COMMISION" Type="int" Nullable="false" />
+    <Property Name="client_name" Type="varchar" MaxLength="255" />
+    <Property Name="client_surname" Type="varchar" MaxLength="255" />
+    <Property Name="client_last_name" Type="varchar" MaxLength="255" />
+    <Property Name="com_city" Type="varchar" MaxLength="255" />
+    <Property Name="com_place" Type="varchar" MaxLength="255" />
+    <Property Name="com_tel_number" Type="varchar" MaxLength="20" />
+    <Property Name="ID_CONTENT_TYPE" Type="int" />
+    <Property Name="ID_TECH" Type="int" />
+    <Property Name="com_date" Type="date" />
+  </EntityType>
+  <EntityType Name="Content">
+    <Key>
+      <PropertyRef Name="ID_CONTENT_TYPE" />
+    </Key>
+    <Property Name="ID_CONTENT_TYPE" Type="int" Nullable="false" />
+    <Property Name="cont_type" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Docs">
+    <Key>
+      <PropertyRef Name="ID_DOCKPACK" />
+    </Key>
+    <Property Name="ID_DOCKPACK" Type="int" Nullable="false" />
+    <Property Name="doc_INN" Type="varchar" MaxLength="255" />
+    <Property Name="doc_passport_number" Type="varchar" MaxLength="255" />
+    <Property Name="doc_photo" Type="varchar" MaxLength="255" />
+    <Property Name="doc_polis" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Emp">
+    <Key>
+      <PropertyRef Name="ID_EMP" />
+    </Key>
+    <Property Name="ID_EMP" Type="int" Nullable="false" />
+    <Property Name="emp_name" Type="varchar" MaxLength="255" />
+    <Property Name="emp_surname" Type="varchar" MaxLength="255" />
+    <Property Name="emp_last_name" Type="varchar" MaxLength="255" />
+    <Property Name="emp_phone_number" Type="varchar" MaxLength="20" />
+    <Property Name="emp_email" Type="varchar" MaxLength="255" />
+    <Property Name="emp_date_of_birth" Type="date" />
+    <Property Name="emp_status" Type="int" />
+    <Property Name="ID_DOCKPACK" Type="int" />
+  </EntityType>
+  <EntityType Name="EMP_COM">
+    <Key>
+      <PropertyRef Name="ID_EMP_COM" />
+    </Key>
+    <Property Name="ID_EMP_COM" Type="int" Nullable="false" />
+    <Property Name="ID_EMP" Type="int" />
+    <Property Name="ID_COM" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tech">
+    <Key>
+      <PropertyRef Name="ID_TECH" />
+    </Key>
+    <Property Name="ID_TECH" Type="int" Nullable="false" />
+    <Property Name="tech_model" Type="varchar" MaxLength="255" />
+    <Property Name="tech_label" Type="varchar" MaxLength="255" />
+    <Property Name="tech_series_number" Type="varchar" MaxLength="255" />
+    <Property Name="tech_year_of_prod" Type="int" />
+    <Property Name="tech_status" Type="int" />
+    <Property Name="tech_type" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DartMediaDB.dbo.ActiveEmployees' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ActiveEmployees">
+    <Key>
+      <PropertyRef Name="ID_EMP" />
+    </Key>
+    <Property Name="ID_EMP" Type="int" Nullable="false" />
+    <Property Name="emp_name" Type="varchar" MaxLength="255" />
+    <Property Name="emp_surname" Type="varchar" MaxLength="255" />
+    <Property Name="emp_last_name" Type="varchar" MaxLength="255" />
+    <Property Name="emp_phone_number" Type="varchar" MaxLength="20" />
+    <Property Name="emp_email" Type="varchar" MaxLength="255" />
+    <Property Name="emp_date_of_birth" Type="date" />
+    <Property Name="emp_status" Type="int" />
+    <Property Name="ID_DOCKPACK" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DartMediaDB.dbo.EmployeesWithPassport' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="EmployeesWithPassport">
+    <Key>
+      <PropertyRef Name="ID_EMP" />
+    </Key>
+    <Property Name="ID_EMP" Type="int" Nullable="false" />
+    <Property Name="emp_name" Type="varchar" MaxLength="255" />
+    <Property Name="emp_surname" Type="varchar" MaxLength="255" />
+    <Property Name="emp_last_name" Type="varchar" MaxLength="255" />
+    <Property Name="emp_phone_number" Type="varchar" MaxLength="20" />
+    <Property Name="emp_email" Type="varchar" MaxLength="255" />
+    <Property Name="emp_date_of_birth" Type="date" />
+    <Property Name="emp_status" Type="int" />
+    <Property Name="ID_DOCKPACK" Type="int" />
+    <Property Name="doc_passport_number" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DartMediaDB.dbo.OrdersDateAndPlace' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="OrdersDateAndPlace">
+    <Key>
+      <PropertyRef Name="ID_COMMISION" />
+    </Key>
+    <Property Name="ID_COMMISION" Type="int" Nullable="false" />
+    <Property Name="com_date" Type="date" />
+    <Property Name="com_city" Type="varchar" MaxLength="255" />
+    <Property Name="com_place" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DartMediaDB.dbo.OrdersWithTechInfo' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="OrdersWithTechInfo">
+    <Key>
+      <PropertyRef Name="ID_COMMISION" />
+    </Key>
+    <Property Name="ID_COMMISION" Type="int" Nullable="false" />
+    <Property Name="client_name" Type="varchar" MaxLength="255" />
+    <Property Name="client_surname" Type="varchar" MaxLength="255" />
+    <Property Name="client_last_name" Type="varchar" MaxLength="255" />
+    <Property Name="com_city" Type="varchar" MaxLength="255" />
+    <Property Name="com_place" Type="varchar" MaxLength="255" />
+    <Property Name="com_tel_number" Type="varchar" MaxLength="20" />
+    <Property Name="ID_CONTENT_TYPE" Type="int" />
+    <Property Name="ID_TECH" Type="int" />
+    <Property Name="com_date" Type="date" />
+    <Property Name="tech_model" Type="varchar" MaxLength="255" />
+    <Property Name="tech_label" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DartMediaDB.dbo.OrdersWithType' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="OrdersWithType">
+    <Key>
+      <PropertyRef Name="ID_COMMISION" />
+    </Key>
+    <Property Name="ID_COMMISION" Type="int" Nullable="false" />
+    <Property Name="client_name" Type="varchar" MaxLength="255" />
+    <Property Name="client_surname" Type="varchar" MaxLength="255" />
+    <Property Name="client_last_name" Type="varchar" MaxLength="255" />
+    <Property Name="cont_type" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <Association Name="FK__COMMISIN__ID_CON__5AEE82B9">
+    <End Role="Content" Type="Self.Content" Multiplicity="0..1" />
+    <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Content">
+        <PropertyRef Name="ID_CONTENT_TYPE" />
+      </Principal>
+      <Dependent Role="COMMISIN">
+        <PropertyRef Name="ID_CONTENT_TYPE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__COMMISIN__ID_TEC__5BE2A6F2">
+    <End Role="Tech" Type="Self.Tech" Multiplicity="0..1" />
+    <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tech">
+        <PropertyRef Name="ID_TECH" />
+      </Principal>
+      <Dependent Role="COMMISIN">
+        <PropertyRef Name="ID_TECH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Emp__ID_DOCKPACK__5441852A">
+    <End Role="Docs" Type="Self.Docs" Multiplicity="0..1" />
+    <End Role="Emp" Type="Self.Emp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Docs">
+        <PropertyRef Name="ID_DOCKPACK" />
+      </Principal>
+      <Dependent Role="Emp">
+        <PropertyRef Name="ID_DOCKPACK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EMP_COM__ID_COM__5FB337D6">
+    <End Role="COMMISIN" Type="Self.COMMISIN" Multiplicity="0..1" />
+    <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COMMISIN">
+        <PropertyRef Name="ID_COMMISION" />
+      </Principal>
+      <Dependent Role="EMP_COM">
+        <PropertyRef Name="ID_COM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EMP_COM__ID_EMP__5EBF139D">
+    <End Role="Emp" Type="Self.Emp" Multiplicity="0..1" />
+    <End Role="EMP_COM" Type="Self.EMP_COM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Emp">
+        <PropertyRef Name="ID_EMP" />
+      </Principal>
+      <Dependent Role="EMP_COM">
+        <PropertyRef Name="ID_EMP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DartMediaDBModelStoreContainer">
+    <EntitySet Name="COMMISIN" EntityType="Self.COMMISIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Content" EntityType="Self.Content" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Docs" EntityType="Self.Docs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Emp" EntityType="Self.Emp" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EMP_COM" EntityType="Self.EMP_COM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tech" EntityType="Self.Tech" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ActiveEmployees" EntityType="Self.ActiveEmployees" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ActiveEmployees].[ID_EMP] AS [ID_EMP], 
+    [ActiveEmployees].[emp_name] AS [emp_name], 
+    [ActiveEmployees].[emp_surname] AS [emp_surname], 
+    [ActiveEmployees].[emp_last_name] AS [emp_last_name], 
+    [ActiveEmployees].[emp_phone_number] AS [emp_phone_number], 
+    [ActiveEmployees].[emp_email] AS [emp_email], 
+    [ActiveEmployees].[emp_date_of_birth] AS [emp_date_of_birth], 
+    [ActiveEmployees].[emp_status] AS [emp_status], 
+    [ActiveEmployees].[ID_DOCKPACK] AS [ID_DOCKPACK]
+    FROM [dbo].[ActiveEmployees] AS [ActiveEmployees]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="EmployeesWithPassport" EntityType="Self.EmployeesWithPassport" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [EmployeesWithPassport].[ID_EMP] AS [ID_EMP], 
+    [EmployeesWithPassport].[emp_name] AS [emp_name], 
+    [EmployeesWithPassport].[emp_surname] AS [emp_surname], 
+    [EmployeesWithPassport].[emp_last_name] AS [emp_last_name], 
+    [EmployeesWithPassport].[emp_phone_number] AS [emp_phone_number], 
+    [EmployeesWithPassport].[emp_email] AS [emp_email], 
+    [EmployeesWithPassport].[emp_date_of_birth] AS [emp_date_of_birth], 
+    [EmployeesWithPassport].[emp_status] AS [emp_status], 
+    [EmployeesWithPassport].[ID_DOCKPACK] AS [ID_DOCKPACK], 
+    [EmployeesWithPassport].[doc_passport_number] AS [doc_passport_number]
+    FROM [dbo].[EmployeesWithPassport] AS [EmployeesWithPassport]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="OrdersDateAndPlace" EntityType="Self.OrdersDateAndPlace" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [OrdersDateAndPlace].[ID_COMMISION] AS [ID_COMMISION], 
+    [OrdersDateAndPlace].[com_date] AS [com_date], 
+    [OrdersDateAndPlace].[com_city] AS [com_city], 
+    [OrdersDateAndPlace].[com_place] AS [com_place]
+    FROM [dbo].[OrdersDateAndPlace] AS [OrdersDateAndPlace]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="OrdersWithTechInfo" EntityType="Self.OrdersWithTechInfo" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [OrdersWithTechInfo].[ID_COMMISION] AS [ID_COMMISION], 
+    [OrdersWithTechInfo].[client_name] AS [client_name], 
+    [OrdersWithTechInfo].[client_surname] AS [client_surname], 
+    [OrdersWithTechInfo].[client_last_name] AS [client_last_name], 
+    [OrdersWithTechInfo].[com_city] AS [com_city], 
+    [OrdersWithTechInfo].[com_place] AS [com_place], 
+    [OrdersWithTechInfo].[com_tel_number] AS [com_tel_number], 
+    [OrdersWithTechInfo].[ID_CONTENT_TYPE] AS [ID_CONTENT_TYPE], 
+    [OrdersWithTechInfo].[ID_TECH] AS [ID_TECH], 
+    [OrdersWithTechInfo].[com_date] AS [com_date], 
+    [OrdersWithTechInfo].[tech_model] AS [tech_model], 
+    [OrdersWithTechInfo].[tech_label] AS [tech_label]
+    FROM [dbo].[OrdersWithTechInfo] AS [OrdersWithTechInfo]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="OrdersWithType" EntityType="Self.OrdersWithType" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [OrdersWithType].[ID_COMMISION] AS [ID_COMMISION], 
+    [OrdersWithType].[client_name] AS [client_name], 
+    [OrdersWithType].[client_surname] AS [client_surname], 
+    [OrdersWithType].[client_last_name] AS [client_last_name], 
+    [OrdersWithType].[cont_type] AS [cont_type]
+    FROM [dbo].[OrdersWithType] AS [OrdersWithType]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__COMMISIN__ID_CON__5AEE82B9" Association="Self.FK__COMMISIN__ID_CON__5AEE82B9">
+      <End Role="Content" EntitySet="Content" />
+      <End Role="COMMISIN" EntitySet="COMMISIN" />
+    </AssociationSet>
+    <AssociationSet Name="FK__COMMISIN__ID_TEC__5BE2A6F2" Association="Self.FK__COMMISIN__ID_TEC__5BE2A6F2">
+      <End Role="Tech" EntitySet="Tech" />
+      <End Role="COMMISIN" EntitySet="COMMISIN" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Emp__ID_DOCKPACK__5441852A" Association="Self.FK__Emp__ID_DOCKPACK__5441852A">
+      <End Role="Docs" EntitySet="Docs" />
+      <End Role="Emp" EntitySet="Emp" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EMP_COM__ID_COM__5FB337D6" Association="Self.FK__EMP_COM__ID_COM__5FB337D6">
+      <End Role="COMMISIN" EntitySet="COMMISIN" />
+      <End Role="EMP_COM" EntitySet="EMP_COM" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EMP_COM__ID_EMP__5EBF139D" Association="Self.FK__EMP_COM__ID_EMP__5EBF139D">
+      <End Role="Emp" EntitySet="Emp" />
+      <End Role="EMP_COM" EntitySet="EMP_COM" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

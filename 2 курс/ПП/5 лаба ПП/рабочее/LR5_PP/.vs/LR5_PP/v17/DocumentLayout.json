@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\models\\hotelscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\models\\hotelscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u043F\u043F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u043F\u043F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\lr5_pp\\lr5_pp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B656EB66-C641-4E51-B876-5E15FD9C9928}|LR5_PP\\LR5_PP.csproj|solutionrelative:lr5_pp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Program.cs",
+              "RelativeDocumentMoniker": "LR5_PP\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Program.cs",
+              "RelativeToolTip": "LR5_PP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:59:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "LR5_PP\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\wwwroot\\script.js",
+              "RelativeToolTip": "LR5_PP\\wwwroot\\script.js",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAmwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T14:59:24.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "LR5_PP\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\wwwroot\\index.html",
+              "RelativeToolTip": "LR5_PP\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T14:59:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "LR5_PP\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "LR5_PP\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:59:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelsContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Models\\HotelsContext.cs",
+              "RelativeDocumentMoniker": "LR5_PP\\Models\\HotelsContext.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Models\\HotelsContext.cs",
+              "RelativeToolTip": "LR5_PP\\Models\\HotelsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:59:24.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "LR5_PP\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Models\\Hotel.cs",
+              "RelativeToolTip": "LR5_PP\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:59:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Startup.cs",
+              "RelativeDocumentMoniker": "LR5_PP\\Startup.cs",
+              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 \u043A\u0443\u0440\u0441\\\u041F\u041F\\\u043B\u0430\u0431\u044B\\5 \u043B\u0430\u0431\u0430 \u041F\u041F\\\u0440\u0430\u0431\u043E\u0447\u0435\u0435\\LR5_PP\\LR5_PP\\Startup.cs",
+              "RelativeToolTip": "LR5_PP\\Startup.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:59:24.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
