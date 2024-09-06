@@ -6,8 +6,6 @@ namespace Calculator
     public partial class MainWindow : Window
     {
         private string currentInput = string.Empty;
-        private string operatorSelected = string.Empty;
-        private double result = 0;
 
         public MainWindow()
         {
@@ -27,70 +25,42 @@ namespace Calculator
         {
             if (sender is Button button)
             {
-                if (currentInput != string.Empty)
+                if (!string.IsNullOrEmpty(currentInput))
                 {
-                    if (operatorSelected != string.Empty)
-                    {
-                        CalculateResult();
-                    }
-                    result = double.Parse(currentInput);
-                    operatorSelected = button.Content.ToString();
-                    currentInput = string.Empty;
+                    currentInput += " " + button.Content.ToString() + " ";
+                    ResultTextBox.Text = currentInput;
                 }
             }
         }
 
         private void EqualButton_Click(object sender, RoutedEventArgs e)
         {
-            if (currentInput != string.Empty && operatorSelected != string.Empty)
+            if (!string.IsNullOrEmpty(currentInput))
             {
                 CalculateResult();
-                operatorSelected = string.Empty;
             }
         }
 
         private void ClearButton_Click(object sender, RoutedEventArgs e)
         {
             currentInput = string.Empty;
-            operatorSelected = string.Empty;
-            result = 0;
             ResultTextBox.Text = string.Empty;
         }
 
         private void CalculateResult()
         {
-            double newValue = double.Parse(currentInput);
-
-            switch (operatorSelected)
+            try
             {
-                case "+":
-                    result += newValue;
-                    break;
-                case "-":
-                    result -= newValue;
-                    break;
-                case "*":
-                    result *= newValue;
-                    break;
-                case "/":
-                    if (newValue != 0)
-                    {
-                        result /= newValue;
-                    }
-                    else
-                    {
-                        MessageBox.Show("Ошибка: Деление на ноль");
-                        ClearButton_Click(null, null); 
-                    }
-                    break;
-                case "%":
-                    result %= newValue;
-                    break;
+                var dataTable = new System.Data.DataTable();
+                var result = dataTable.Compute(currentInput, string.Empty);
+                ResultTextBox.Text = result.ToString();
+                currentInput = result.ToString(); 
             }
-
-            currentInput = result.ToString();
-            ResultTextBox.Text = currentInput;
+            catch
+            {
+                MessageBox.Show("Ошибка в выражении!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                ClearButton_Click(null, null);
+            }
         }
     }
 }
-
