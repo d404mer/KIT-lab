@@ -1,0 +1,14 @@
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.csproj.AssemblyReference.cache
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\MainWindow.baml
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\MainWindow.g.cs
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\App.g.cs
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1_MarkupCompile.cache
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.g.resources
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.Properties.Resources.resources
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.csproj.GenerateResource.cache
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\bin\Debug\ПР1.exe.config
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\bin\Debug\ПР1.exe
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\bin\Debug\ПР1.pdb
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.exe
+C:\Users\user\YandexDisk-d0h.jpg\3 курс\ПиТПМ\практика\ПР1\ПР1\obj\Debug\ПР1.pdb
