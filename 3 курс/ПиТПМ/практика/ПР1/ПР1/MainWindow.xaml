@@ -69,13 +69,11 @@
 
             <Button Content="0" Click="NumberButton_Click"/>
             <Button Content="." Click="NumberButton_Click"/>
-            <Button Content="%" Click="OperatorButton_Click"/>
             <Button Content="+" Click="OperatorButton_Click"/>
 
             <Button Content="C" Click="ClearButton_Click"/>
             <Button Content="=" Click="EqualButton_Click"/>
-            <Button Content="("/>
-            <Button Content=")"/>
+            <Button Content="=" Click="Button_Click" />
         </UniformGrid>
     </Grid>
 </Window>

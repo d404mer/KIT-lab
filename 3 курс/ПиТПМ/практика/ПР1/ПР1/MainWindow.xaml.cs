@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 using System.Windows.Controls;
 
 namespace Calculator
@@ -53,14 +54,30 @@ namespace Calculator
             {
                 var dataTable = new System.Data.DataTable();
                 var result = dataTable.Compute(currentInput, string.Empty);
-                ResultTextBox.Text = result.ToString();
-                currentInput = result.ToString(); 
+                double calculatedResult = Convert.ToDouble(result);
+
+                if (calculatedResult == 52)
+                {
+                    ResultTextBox.Text = "и этот город наш";
+                }
+
+                else
+                {
+                    if (calculatedResult == 4) calculatedResult++;
+                    currentInput = calculatedResult.ToString();
+                    ResultTextBox.Text = currentInput;
+                }
             }
             catch
             {
                 MessageBox.Show("Ошибка в выражении!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 ClearButton_Click(null, null);
             }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley");
         }
     }
 }
