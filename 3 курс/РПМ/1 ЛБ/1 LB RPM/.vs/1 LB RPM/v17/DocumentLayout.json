@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|solutionrelative:1 lb rpm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|c:\\users\\user\\documents\\github\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\1 \u043B\u0431\\1 lb rpm\\1 lb rpm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\1 \u041B\u0411\\1 LB RPM\\1 lb rpm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|solutionrelative:1 lb rpm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "1 LB RPM\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T05:47:39.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T05:47:39.728Z"
             }
           ]
         }
