@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\YandexDisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA403CFB-47FC-4538-91CF-85074F5CB463}|Labs\\Labs.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\labs\\labs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{CA403CFB-47FC-4538-91CF-85074F5CB463}|Labs\\Labs.csproj|c:\\users\\user\\documents\\github\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\labs\\labs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CA403CFB-47FC-4538-91CF-85074F5CB463}|Labs\\Labs.csproj|solutionrelative:labs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA403CFB-47FC-4538-91CF-85074F5CB463}|Labs\\Labs.csproj|c:\\users\\user\\yandexdisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\labs\\labs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA403CFB-47FC-4538-91CF-85074F5CB463}|Labs\\Labs.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\labs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA403CFB-47FC-4538-91CF-85074F5CB463}|Labs\\Labs.csproj|solutionrelative:labs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Labs\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml",
               "RelativeToolTip": "Labs\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-17T05:11:30.458Z",
@@ -36,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\YandexDisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Labs\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\YandexDisk-d0h.jpg\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\Labs\\Labs\\MainWindow.xaml.cs",
               "RelativeToolTip": "Labs\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T05:11:29.974Z",
               "EditorCaption": ""

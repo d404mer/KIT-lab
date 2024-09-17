@@ -24,5 +24,15 @@ namespace Labs
         {
             InitializeComponent();
         }
+
+        private void LB_1_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void LB_2_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

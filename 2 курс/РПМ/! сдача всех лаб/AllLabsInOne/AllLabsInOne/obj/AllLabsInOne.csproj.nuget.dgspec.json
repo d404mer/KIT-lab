@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 курс\\РПМ\\лабораторные\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\2 курс\\РПМ\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 курс\\РПМ\\лабораторные\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\2 курс\\РПМ\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 курс\\РПМ\\лабораторные\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\2 курс\\РПМ\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj",
         "projectName": "AllLabsInOne",
-        "projectPath": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 курс\\РПМ\\лабораторные\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\2 курс\\РПМ\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\AllLabsInOne.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\YandexDisk-d0h.jpg\\2 курс\\РПМ\\лабораторные\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\2 курс\\РПМ\\! сдача всех лаб\\AllLabsInOne\\AllLabsInOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
