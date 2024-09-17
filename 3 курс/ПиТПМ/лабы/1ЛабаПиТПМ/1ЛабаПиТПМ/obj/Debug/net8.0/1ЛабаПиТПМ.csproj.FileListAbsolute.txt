@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\bin\Debug\net8.0\1ЛабаПиТПМ.exe
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\bin\Debug\net8.0\1ЛабаПиТПМ.deps.json
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\bin\Debug\net8.0\1ЛабаПиТПМ.runtimeconfig.json
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\bin\Debug\net8.0\1ЛабаПиТПМ.dll
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\bin\Debug\net8.0\1ЛабаПиТПМ.pdb
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.AssemblyInfo.cs
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.dll
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\refint\1ЛабаПиТПМ.dll
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.pdb
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\1ЛабаПиТПМ.genruntimeconfig.cache
+C:\Users\user\Desktop\PITPM\1ЛабаПиТПМ\1ЛабаПиТПМ\obj\Debug\net8.0\ref\1ЛабаПиТПМ.dll
