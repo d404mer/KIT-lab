@@ -43,7 +43,7 @@
                 <Button x:Name="LB_1" Content="ЛБ 1" Style="{StaticResource ButtonStyle}" Click="LB_1_Click" />
                 <!-- LABA 2 (методички 2-3) -->
                 <TextBlock Text="2 ЛБ" Style="{StaticResource TextStyle}"/>
-                <Button x:Name="LB_2" Content="ЛБ 1" Style="{StaticResource ButtonStyle}" Click="LB_2_Click"  />
+                <Button x:Name="LB_2" Content="ЛБ 2" Style="{StaticResource ButtonStyle}" Click="LB_2_Click"  />
             </StackPanel>
         </Grid>
     </Border>
