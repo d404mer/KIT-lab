@@ -1,0 +1,10 @@
+.model tiny
+
+.data
+
+.code
+MAIN:  
+  MOV AH, 10110110b 
+  AND AH, 11100111b 
+
+END MAIN

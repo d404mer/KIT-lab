@@ -1,0 +1,11 @@
+.model tiny
+
+.data
+
+.code
+MAIN:  
+  MOV AH, 10110110b   ; Load the initial number into register AH
+  XOR AH, 00100100b   ; Invert the 3rd and 6th bits
+                       ; AH will now be 10010010
+
+END MAIN

@@ -1,0 +1,33 @@
+.model tiny
+
+.data
+    X db 8           ; Value of X
+    Y db 11          ; Value of Y
+    Z db 0           ; Variable for the result
+
+.code
+MAIN:  
+    ; Load Y into AL
+    mov al, [Y]      ; AL = Y (AL = 11)
+    
+    ; Divide Y by 2
+    shr al, 1        ; AL = AL / 2 (AL = 11 / 2 = 5, rounding down)
+
+    ; Load X and add it to AL
+    mov bl, [X]      ; BL = X (BL = 8)
+    add al, bl       ; AL = AL + BL (AL = 5 + 8 = 13)
+
+    ; Multiply the result by 2
+    shl al, 1        ; AL = AL * 2 (AL = 13 * 2 = 26)
+
+    ; To get 27, we need to add 1
+    add al, 1        ; AL = 26 + 1 = 27
+
+    ; Store the result in Z
+    mov [Z], al      ; Save AL in Z
+
+    ; Exit program
+    mov ax, 4C00h    ; DOS terminate program function
+    int 21h          ; Call DOS interrupt
+    
+END MAIN
