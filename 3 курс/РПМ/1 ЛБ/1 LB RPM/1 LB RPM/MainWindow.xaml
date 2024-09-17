@@ -1,7 +1,7 @@
 ﻿<Window x:Class="_1_LB_RPM.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="1_LB_RPM" Height="400" Width="600">
+        Title="1_LB_RPM" Height="450" Width="600">
     <Window.Resources>
         <Style x:Key="ButtonStyle" TargetType="Button">
             <Setter Property="Background" Value="LightGray"/>
@@ -32,19 +32,29 @@
 
         <Style TargetType="TextBox">
             <Setter Property="FontFamily" Value="Arial"/>
-            <!-- Устанавливает шрифт по умолчанию -->
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="12"/>
+            <!-- Устанавливаем шрифт, цвет и размер текста по умолчанию -->
             <Style.Triggers>
                 <DataTrigger Binding="{Binding SelectedItem.Content, ElementName=FontSelector}" Value="Arial">
                     <Setter Property="FontFamily" Value="Arial"/>
+                    <Setter Property="Foreground" Value="Black"/>
+                    <Setter Property="FontSize" Value="12"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding SelectedItem.Content, ElementName=FontSelector}" Value="Courier New">
                     <Setter Property="FontFamily" Value="Courier New"/>
+                    <Setter Property="Foreground" Value="Blue"/>
+                    <Setter Property="FontSize" Value="14"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding SelectedItem.Content, ElementName=FontSelector}" Value="Times New Roman">
                     <Setter Property="FontFamily" Value="Times New Roman"/>
+                    <Setter Property="Foreground" Value="Red"/>
+                    <Setter Property="FontSize" Value="16"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding SelectedItem.Content, ElementName=FontSelector}" Value="Verdana">
                     <Setter Property="FontFamily" Value="Verdana"/>
+                    <Setter Property="Foreground" Value="Green"/>
+                    <Setter Property="FontSize" Value="50"/>
                 </DataTrigger>
             </Style.Triggers>
         </Style>
