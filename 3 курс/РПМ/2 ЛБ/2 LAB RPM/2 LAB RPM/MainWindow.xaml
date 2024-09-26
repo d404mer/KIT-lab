@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="EscapeButton" Content="Убеги от меня!" Width="150" Height="50" 
+                MouseEnter="EscapeButton_MouseEnter" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" />
     </Grid>
 </Window>
