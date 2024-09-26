@@ -1,0 +1,35 @@
+.model tiny
+.data
+    A dw 5, -2, 3, 8, -1, 4, 0, 7
+    B dw 1, 9, 3, -4, 5, 2, 6, -1
+    C dw 8 dup(0)
+
+.code
+main:
+    mov ax, @data
+    mov ds, ax
+
+    lea si, A
+    lea di, B
+    lea bx, C
+    mov cx, 8
+
+next_element:
+    mov ax, [si]
+    mov dx, [di]
+    cmp ax, dx
+    jge store_A
+
+    mov ax, dx
+
+store_A:
+    mov [bx], ax
+
+    add si, 2
+    add di, 2
+    add bx, 2
+    loop next_element
+
+    mov ax, 4c00h
+    int 21h
+end main

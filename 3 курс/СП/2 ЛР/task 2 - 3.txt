@@ -1,0 +1,29 @@
+.model tiny
+.data
+    K dw 5, -2, 3, 8, -1, 4, 0, 7 
+    sum dw 0                      
+
+.code
+main: 
+;Given an array K of 8 values of type word. Find the sum of the positive elements of the array.     
+
+    mov ax, 0                      
+    lea si, K                      
+    mov cx, 8                      
+
+sum_positive:
+    cmp word ptr [si], 0         
+    jle skip_add                   ;<= 0, skip addition
+
+    add ax, [si]                   ; Add the current element to the sum
+
+skip_add:
+    add si, 2                      
+    loop sum_positive              
+
+    mov sum, ax                    ; Store the sum in the variable sum
+
+    ; End the program
+    mov ax, 4c00h
+    int 21h
+end main
