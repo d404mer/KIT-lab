@@ -96,71 +96,37 @@
         </Storyboard>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <Storyboard x:Key="AnimateCanvas3">
             <!-- Анимация для ScaleTransform -->
             <DoubleAnimation Storyboard.TargetName="g3416ScaleTransform"
-      Storyboard.TargetProperty="ScaleX"
-      To="0.17" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="ScaleX"
+                     To="0.17" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="g3416ScaleTransform"
-      Storyboard.TargetProperty="ScaleY"
-      To="0.18" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="ScaleY"
+                     To="0.18" Duration="0:0:0.5" />
+
             <!-- Анимация для TranslateTransform -->
             <DoubleAnimation Storyboard.TargetName="g3416TranslateTransform"
-      Storyboard.TargetProperty="X"
-      To="450" Duration="0:0:0.5" />
-            <!-- Увеличено значение для X -->
+                     Storyboard.TargetProperty="X"
+                     To="450" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="g3416TranslateTransform"
-      Storyboard.TargetProperty="Y"
-      To="-2" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="Y"
+                     To="-2" Duration="0:0:0.5" />
 
             <!-- Задержка перед возвратом к исходным значениям -->
             <DoubleAnimation Storyboard.TargetName="g3416ScaleTransform"
-      Storyboard.TargetProperty="ScaleX"
-      BeginTime="0:0:2" To="0.1353119" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="ScaleX"
+                     BeginTime="0:0:2" To="0.1353119" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="g3416ScaleTransform"
-      Storyboard.TargetProperty="ScaleY"
-      BeginTime="0:0:2" To="0.14259529" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="ScaleY"
+                     BeginTime="0:0:2" To="0.14259529" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="g3416TranslateTransform"
-      Storyboard.TargetProperty="X"
-      BeginTime="0:0:2" To="2.0130769" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="X"
+                     BeginTime="0:0:2" To="2.8844827" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="g3416TranslateTransform"
-      Storyboard.TargetProperty="Y"
-      BeginTime="0:0:2" To="-1.0973287" Duration="0:0:0.5" />
+                     Storyboard.TargetProperty="Y"
+                     BeginTime="0:0:2" To="112.16924" Duration="0:0:0.5" />
         </Storyboard>
-
-
-
-
-
-
-
-
-
 
 
 
