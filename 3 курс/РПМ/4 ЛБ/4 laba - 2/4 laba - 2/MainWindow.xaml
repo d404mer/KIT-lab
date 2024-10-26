@@ -185,7 +185,7 @@
         </Image>
 
         <!-- Изображение 4 -->
-        <Image x:Name="photo4" Source="/4.png" Canvas.Left="240" Canvas.Top="130" Width="150" Height="150">
+        <Image x:Name="photo4" Source="/4.png" Canvas.Left="1" Canvas.Top="130" Width="150" Height="150">
             <Image.RenderTransform>
                 <ScaleTransform x:Name="scale4" ScaleX="1" ScaleY="1" />
             </Image.RenderTransform>
