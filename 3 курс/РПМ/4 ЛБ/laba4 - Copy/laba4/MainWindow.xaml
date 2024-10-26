@@ -18,6 +18,26 @@
                 </Trigger>
             </Style.Triggers>
         </Style>
+
+        <!-- Анимация для выдвижения, увеличения и возврата -->
+        <Storyboard x:Key="AnimateImage">
+            <!-- Анимация перемещения -->
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[1].(TranslateTransform.X)"
+                             To="300" Duration="0:0:1"/>
+            <!-- Анимация увеличения размера -->
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleX)"
+                             To="1.5" Duration="0:0:1"/>
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleY)"
+                             To="1.5" Duration="0:0:1"/>
+            <!-- Анимация возврата перемещения -->
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[1].(TranslateTransform.X)"
+                             BeginTime="0:0:2" To="0" Duration="0:0:1"/>
+            <!-- Анимация возврата размера -->
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleX)"
+                             BeginTime="0:0:2" To="1" Duration="0:0:1"/>
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleY)"
+                             BeginTime="0:0:2" To="1" Duration="0:0:1"/>
+        </Storyboard>
     </Window.Resources>
 
 
@@ -134,9 +154,51 @@
                     </Canvas>
                 </StackPanel>
         <StackPanel Grid.Column="1">
-            <Image Source="C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\materials\RU_road_sign_1.26.png" Height="115" Width="115"/>
-            <Image Source="C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\materials\RU_road_sign_1.31.png" Height="115" Width="115"/>
-            <Image Source="C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\materials\RU_road_sign_1.28.png" Height="115" Width="115"/>
+            <!-- Изображения с анимацией -->
+            <Image Source="C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\materials\RU_road_sign_1.26.png"
+                   Height="115" Width="115">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="MouseLeftButtonDown">
+                        <BeginStoryboard Storyboard="{StaticResource AnimateImage}" />
+                    </EventTrigger>
+                </Image.Triggers>
+            </Image>
+
+            <Image Source="C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\materials\RU_road_sign_1.31.png"
+                   Height="115" Width="115">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="MouseLeftButtonDown">
+                        <BeginStoryboard Storyboard="{StaticResource AnimateImage}" />
+                    </EventTrigger>
+                </Image.Triggers>
+            </Image>
+
+            <Image Source="C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\materials\RU_road_sign_1.28.png"
+                   Height="115" Width="115">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="MouseLeftButtonDown">
+                        <BeginStoryboard Storyboard="{StaticResource AnimateImage}" />
+                    </EventTrigger>
+                </Image.Triggers>
+            </Image>
         </StackPanel>
     </Grid>
 </Window>
