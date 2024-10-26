@@ -23,33 +23,53 @@
         <Storyboard x:Key="AnimateCanvas">
             <!-- Анимация для ScaleTransform -->
             <DoubleAnimation Storyboard.TargetName="scaleTransform"
-                     Storyboard.TargetProperty="ScaleX"
-                     To="1.1" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="ScaleX"
+             To="0.17" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="scaleTransform"
-                     Storyboard.TargetProperty="ScaleY"
-                     To="1.1" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="ScaleY"
+             To="0.18" Duration="0:0:0.5" />
             <!-- Анимация для TranslateTransform -->
             <DoubleAnimation Storyboard.TargetName="translateTransform"
-                     Storyboard.TargetProperty="X"
-                     To="20" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="X"
+             To="450" Duration="0:0:0.5" />
+            <!-- Увеличено значение для X -->
             <DoubleAnimation Storyboard.TargetName="translateTransform"
-                     Storyboard.TargetProperty="Y"
-                     To="-5" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="Y"
+             To="-2" Duration="0:0:0.5" />
 
             <!-- Задержка перед возвратом к исходным значениям -->
             <DoubleAnimation Storyboard.TargetName="scaleTransform"
-                     Storyboard.TargetProperty="ScaleX"
-                     BeginTime="0:0:2" To="0.1353119" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="ScaleX"
+             BeginTime="0:0:2" To="0.1353119" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="scaleTransform"
-                     Storyboard.TargetProperty="ScaleY"
-                     BeginTime="0:0:2" To="0.14259529" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="ScaleY"
+             BeginTime="0:0:2" To="0.14259529" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="translateTransform"
-                     Storyboard.TargetProperty="X"
-                     BeginTime="0:0:2" To="2.0130769" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="X"
+             BeginTime="0:0:2" To="2.0130769" Duration="0:0:0.5" />
             <DoubleAnimation Storyboard.TargetName="translateTransform"
-                     Storyboard.TargetProperty="Y"
-                     BeginTime="0:0:2" To="-1.0973287" Duration="0:0:0.5" />
+             Storyboard.TargetProperty="Y"
+             BeginTime="0:0:2" To="-1.0973287" Duration="0:0:0.5" />
+            
+            
+            
+            
+            
+            
+            
+            
         </Storyboard>
+        
+        
+
+
+
+
+
+
+
+
+
 
 
         <Storyboard x:Key="AnimateImage">
@@ -87,6 +107,9 @@
                         <TranslateTransform x:Name="translateTransform" X="2.0130769" Y="-1.0973287"/>
                     </TransformGroup>
                 </Canvas.RenderTransform>
+
+
+
 
 
 
