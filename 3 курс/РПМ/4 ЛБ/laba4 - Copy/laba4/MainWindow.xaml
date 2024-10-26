@@ -19,25 +19,55 @@
             </Style.Triggers>
         </Style>
 
-        <!-- Анимация для выдвижения, увеличения и возврата -->
+
+        <Storyboard x:Key="AnimateCanvas">
+            <!-- Анимация для ScaleTransform -->
+            <DoubleAnimation Storyboard.TargetName="scaleTransform"
+                     Storyboard.TargetProperty="ScaleX"
+                     To="1.1" Duration="0:0:0.5" />
+            <DoubleAnimation Storyboard.TargetName="scaleTransform"
+                     Storyboard.TargetProperty="ScaleY"
+                     To="1.1" Duration="0:0:0.5" />
+            <!-- Анимация для TranslateTransform -->
+            <DoubleAnimation Storyboard.TargetName="translateTransform"
+                     Storyboard.TargetProperty="X"
+                     To="20" Duration="0:0:0.5" />
+            <DoubleAnimation Storyboard.TargetName="translateTransform"
+                     Storyboard.TargetProperty="Y"
+                     To="-5" Duration="0:0:0.5" />
+
+            <!-- Задержка перед возвратом к исходным значениям -->
+            <DoubleAnimation Storyboard.TargetName="scaleTransform"
+                     Storyboard.TargetProperty="ScaleX"
+                     BeginTime="0:0:2" To="0.1353119" Duration="0:0:0.5" />
+            <DoubleAnimation Storyboard.TargetName="scaleTransform"
+                     Storyboard.TargetProperty="ScaleY"
+                     BeginTime="0:0:2" To="0.14259529" Duration="0:0:0.5" />
+            <DoubleAnimation Storyboard.TargetName="translateTransform"
+                     Storyboard.TargetProperty="X"
+                     BeginTime="0:0:2" To="2.0130769" Duration="0:0:0.5" />
+            <DoubleAnimation Storyboard.TargetName="translateTransform"
+                     Storyboard.TargetProperty="Y"
+                     BeginTime="0:0:2" To="-1.0973287" Duration="0:0:0.5" />
+        </Storyboard>
+
+
         <Storyboard x:Key="AnimateImage">
-            <!-- Анимация перемещения -->
             <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[1].(TranslateTransform.X)"
                              To="300" Duration="0:0:1"/>
-            <!-- Анимация увеличения размера -->
             <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleX)"
                              To="1.5" Duration="0:0:1"/>
             <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleY)"
                              To="1.5" Duration="0:0:1"/>
-            <!-- Анимация возврата перемещения -->
             <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[1].(TranslateTransform.X)"
                              BeginTime="0:0:2" To="0" Duration="0:0:1"/>
-            <!-- Анимация возврата размера -->
             <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleX)"
                              BeginTime="0:0:2" To="1" Duration="0:0:1"/>
             <DoubleAnimation Storyboard.TargetProperty="RenderTransform.(TransformGroup.Children)[0].(ScaleTransform.ScaleY)"
                              BeginTime="0:0:2" To="1" Duration="0:0:1"/>
         </Storyboard>
+
+        
     </Window.Resources>
 
 
@@ -49,12 +79,18 @@
         </Grid.ColumnDefinitions>
         <StackPanel Orientation="Vertical" Grid.Column="0">
 
-                    <Canvas Name="layer1">
-                        <Canvas Name="g3360">
-                            <Canvas.RenderTransform>
-                                <MatrixTransform Matrix="0.1353119 0 0 0.14259529 2.0130769 -1.0973287"/>
-                            </Canvas.RenderTransform>
-                            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3340" Fill="#FFFFFFFF" Data="m 789.12 734.42 a 45 45 0 0 0 45 -45 45 45 0 0 0 -6.03 -22.5 L 456.03 22.5 A 45 45 0 0 0 417.06 0 45 45 0 0 0 378.09 22.5 L 6.03 666.92 a 45 45 0 0 0 -6.03 22.5 45 45 0 0 0 45 45 z"/>
+
+            <Canvas Name="canvasToAnimate" Background="Transparent">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform x:Name="scaleTransform" ScaleX="0.1353119" ScaleY="0.14259529"/>
+                        <TranslateTransform x:Name="translateTransform" X="2.0130769" Y="-1.0973287"/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+
+
+
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3340" Fill="#FFFFFFFF" Data="m 789.12 734.42 a 45 45 0 0 0 45 -45 45 45 0 0 0 -6.03 -22.5 L 456.03 22.5 A 45 45 0 0 0 417.06 0 45 45 0 0 0 378.09 22.5 L 6.03 666.92 a 45 45 0 0 0 -6.03 22.5 45 45 0 0 0 45 45 z"/>
                             <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3342" StrokeThickness="2" Stroke="#FF000000" Data="m 789.12 733.42 a 44 44 0 0 0 44 -44 44 44 0 0 0 -5.89 -22 L 455.17 23 A 44 44 0 0 0 417.06 1 44 44 0 0 0 378.95 23 L 6.89 667.42 a 44 44 0 0 0 -5.89 22 44 44 0 0 0 44 44 z"/>
                             <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3344" Fill="#FFFF0000" Data="m 789.12 724.42 a 35 35 0 0 0 35 -35 35 35 0 0 0 -4.69 -17.5 L 447.37 27.5 A 35 35 0 0 0 417.06 10 35 35 0 0 0 386.75 27.5 L 14.69 671.92 a 35 35 0 0 0 -4.69 17.5 35 35 0 0 0 35 35 z M 103.64 665.57 a 10 10 0 0 1 -10 -10 10 10 0 0 1 1.34 -5 L 408.4 107.7 a 10 10 0 0 1 8.66 -5 10 10 0 0 1 8.66 5 l 313.42 542.87 a 10 10 0 0 1 1.34 5 10 10 0 0 1 -10 10 z"/>
                             <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3346" Fill="#FF000000" Data="m 360 370 -8.78 49.78 A 16 16 0 0 1 335.46 433 l -40.46 0 15.18 52.89 A 25 25 0 0 0 334.21 504 l 28.29 0 a 16 16 0 0 1 16 16 l 0 46.5 a 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5 -9.5 l 0 -60.5 a 8 8 0 0 1 5 -7.42 l 56.29 -22.52 c 18.78 -7.51 17.63 17.88 26 22.71 8.02 4.63 38.14 5.35 40.87 21.67 l 7.98 47.71 a 9.5 9.5 0 0 0 9.36 7.85 9.5 9.5 0 0 0 9.5 -9.5 9.5 9.5 0 0 0 -0.02 -0.66 l -5.54 -79.23 a 20 20 0 0 0 -4.33 -11.1 L 523.29 451.37 A 15 15 0 0 1 520 442 l 0 -52 a 20 20 0 0 0 -20 -20 z">
@@ -77,13 +113,30 @@
                                     <MatrixTransform Matrix="1.1475312 0 0 1.1475312 -19.001875 -22.950625"/>
                                 </Path.RenderTransform>
                             </Path>
-                        </Canvas>
 
-                        <Canvas Name="layer10">
-                            <Canvas.RenderTransform>
-                                <MatrixTransform Matrix="0.17128195 0 0 0.17961812 5.8563544 136.09004"/>
-                            </Canvas.RenderTransform>
-                            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5408" Fill="#FFFFFFFF" StrokeThickness="1" Opacity="1" Data="m 339.56545 497.17249 c -21.52311 -12.42634 -49.04475 -5.052 -61.47117 16.47128 L 6.0363923 984.86209 c -12.42642 21.52311 -5.05209 49.04471 16.4710997 61.47111 6.84091 3.9496 14.60091 6.0289 22.50008 6.0289 l 544.115798 -10e-5 c 7.89926 0 15.65926 -2.0793 22.50008 -6.0289 21.52319 -12.4264 28.89761 -39.948 16.47119 -61.47109 l -272.058 -471.21824 c -3.94962 -6.84091 -9.63028 -12.52165 -16.47119 -16.47128 z"/>
+
+                <Canvas.Triggers>
+                    <EventTrigger RoutedEvent="MouseDown">
+                        <BeginStoryboard Storyboard="{StaticResource AnimateCanvas}"/>
+                    </EventTrigger>
+                </Canvas.Triggers>
+            </Canvas>
+
+
+
+
+
+
+
+            <Canvas Name="layer10">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0.17128195" ScaleY="0.17961812"/>
+                        <TranslateTransform X="5.8563544" Y="136.09004"/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5408" Fill="#FFFFFFFF" StrokeThickness="1" Opacity="1" Data="m 339.56545 497.17249 c -21.52311 -12.42634 -49.04475 -5.052 -61.47117 16.47128 L 6.0363923 984.86209 c -12.42642 21.52311 -5.05209 49.04471 16.4710997 61.47111 6.84091 3.9496 14.60091 6.0289 22.50008 6.0289 l 544.115798 -10e-5 c 7.89926 0 15.65926 -2.0793 22.50008 -6.0289 21.52319 -12.4264 28.89761 -39.948 16.47119 -61.47109 l -272.058 -471.21824 c -3.94962 -6.84091 -9.63028 -12.52165 -16.47119 -16.47128 z"/>
                             <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-109.8" Width="44.2" Canvas.Top="402.8" Height="58.9" Name="path5410" Fill="#FF000000" StrokeThickness="1" Opacity="1">
                                 <Ellipse.RenderTransform>
                                     <MatrixTransform Matrix="1.5866721 0 0 1.1904356 332.60432 419.83936"/>
@@ -133,11 +186,15 @@
 
 
 
-                        <Canvas Name="g3416">
-                            <Canvas.RenderTransform>
-                                <MatrixTransform Matrix="0.1353119 0 0 0.14259529 2.8844827 112.16924"/>
-                            </Canvas.RenderTransform>
-                            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3400" Fill="#FFFFFFFF" Data="m 789.12 734.42 a 45 45 0 0 0 45 -45 45 45 0 0 0 -6.03 -22.5 L 456.03 22.5 A 45 45 0 0 0 417.06 0 45 45 0 0 0 378.09 22.5 L 6.03 666.92 a 45 45 0 0 0 -6.03 22.5 45 45 0 0 0 45 45 z"/>
+            <Canvas Name="g3416">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0.1353119" ScaleY="0.14259529"/>
+                        <TranslateTransform X="2.8844827" Y="112.16924"/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3400" Fill="#FFFFFFFF" Data="m 789.12 734.42 a 45 45 0 0 0 45 -45 45 45 0 0 0 -6.03 -22.5 L 456.03 22.5 A 45 45 0 0 0 417.06 0 45 45 0 0 0 378.09 22.5 L 6.03 666.92 a 45 45 0 0 0 -6.03 22.5 45 45 0 0 0 45 45 z"/>
                             <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3402" StrokeThickness="2" Stroke="#FF000000" Data="m 789.12 733.42 a 44 44 0 0 0 44 -44 44 44 0 0 0 -5.89 -22 L 455.17 23 A 44 44 0 0 0 417.06 1 44 44 0 0 0 378.95 23 L 6.89 667.42 a 44 44 0 0 0 -5.89 22 44 44 0 0 0 44 44 z"/>
                             <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3404" Fill="#FFFF0000" Data="m 789.12 724.42 a 35 35 0 0 0 35 -35 35 35 0 0 0 -4.69 -17.5 L 447.37 27.5 A 35 35 0 0 0 417.06 10 35 35 0 0 0 386.75 27.5 L 14.69 671.92 a 35 35 0 0 0 -4.69 17.5 35 35 0 0 0 35 35 z M 103.64 665.57 a 10 10 0 0 1 -10 -10 10 10 0 0 1 1.34 -5 L 408.4 107.7 a 10 10 0 0 1 8.66 -5 10 10 0 0 1 8.66 5 l 313.42 542.87 a 10 10 0 0 1 1.34 5 10 10 0 0 1 -10 10 z"/>
                             <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3406" Fill="#FF000000" Data="m 540 580 0 -140 C 529.4 359.2 466.3 300 380 300 293.7 300 230.6 359.2 220 440 l 0 140 140 -80 0 -55.13 c 4.17 -31.81 29.02 -55.13 63 -55.13 33.98 0 58.83 23.31 63 55.12 l 0 55.13 z">
@@ -151,7 +208,7 @@
                                 </Path.RenderTransform>
                             </Path>
                         </Canvas>
-                    </Canvas>
+
                 </StackPanel>
         <StackPanel Grid.Column="1">
             <!-- Изображения с анимацией -->
@@ -200,5 +257,18 @@
                 </Image.Triggers>
             </Image>
         </StackPanel>
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="States">
+                <VisualState x:Name="Normal"/>
+                <VisualState x:Name="MouseOver">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="canvasToAnimate"
+                                         Storyboard.TargetProperty="(Canvas.RenderTransform).(TranslateTransform.X)"
+                                         To="300" Duration="0:0:2" AutoReverse="True" RepeatBehavior="1x"/>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
     </Grid>
 </Window>
