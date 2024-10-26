@@ -6,7 +6,6 @@ D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\bin\Debug\net8
 D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\App.g.cs
 D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2_MarkupCompile.cache
-D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2_MarkupCompile.lref
 D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\MainWindow.baml
 D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.g.resources
 D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.GeneratedMSBuildEditorConfig.editorconfig
