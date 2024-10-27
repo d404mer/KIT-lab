@@ -1,0 +1,104 @@
+.model small
+.stack 100h
+
+.data
+    mas1 dw 1, -2, 3, 4, -5  ; First array
+    mas2 dw -6, 7, -8, 9, 10 ; Second array
+
+.code
+main:
+    mov ax, @data
+    mov ds, ax
+    mov es, ax
+
+    ; Call the procedure to zero out positive elements for the first array
+    lea bx, mas1
+    push bx            ; Address of the start of the array
+    push 5             ; Number of elements
+    call ZeroPositive  ; Call to zero out positive elements
+
+    ; Call the procedure to zero out positive elements for the second array
+    lea bx, mas2
+    push bx
+    push 5
+    call ZeroPositive
+
+    mov ax, 4C00h      ; Terminate the program
+    int 21h
+
+; Procedure to zero out positive elements of an array
+ZeroPositive proc near  ; Changed from far to near
+    push bp
+    mov bp, sp
+    mov cx, [bp+4]     ; Number of elements in the array
+    mov bx, [bp+6]     ; Address of the start of the array
+    xor si, si         ; Index of the current element
+
+CheckElement:
+    mov ax, [bx+si]    ; Read the array element
+    cmp ax, 0          ; Check if the element is positive
+    jle NextElement    ; Jump if the element <= 0
+    mov word ptr [bx+si], 0 ; Zero out the positive element
+
+NextElement:
+    add si, 2          ; Move to the next element (word)
+    loop CheckElement
+
+    pop bp
+    ret 4              ; Remove parameters from the stack
+ZeroPositive endp
+
+end main
+
+
+----------------------------
+
+
+.model small
+.stack 100h
+
+.data
+    mas1 dw 1, -2, 3, 4, -5
+    mas2 dw -6, 7, -8, 9, 10
+
+.code
+main:
+    mov ax, @data
+    mov ds, ax
+    mov es, ax
+
+    lea bx, mas1
+    push bx
+    push 5
+    call ZeroPositive
+
+    lea bx, mas2
+    push bx
+    push 5
+    call ZeroPositive
+
+    mov ax, 4C00h
+    int 21h
+
+ZeroPositive proc near
+    push bp
+    mov bp, sp
+    mov cx, [bp+4]
+    mov bx, [bp+6]
+    xor si, si
+
+CheckElement:
+    mov ax, [bx+si]
+    cmp ax, 0
+    jle NextElement
+    mov word ptr [bx+si], 0
+
+NextElement:
+    add si, 2
+    loop CheckElement
+
+    pop bp
+    ret 4
+ZeroPositive endp
+
+end main

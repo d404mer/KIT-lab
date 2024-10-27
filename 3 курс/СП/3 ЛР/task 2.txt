@@ -1,0 +1,53 @@
+.model tiny
+.stack 100h
+.data
+    prompt db 'Enter your surname: $'
+    studentMsg db 'Student $'
+    newline db 0Dh, 0Ah, '$'           ; New line characters
+    surnameMsg db ' will pass system programming with excellent marks.$'
+    surname db 50 dup(0)               ; Buffer for surname input
+    length db 0                        ; To store the length of the surname
+
+.code
+N: 
+    push cs
+    pop ds 
+
+    lea dx, prompt
+    mov ah, 09h
+    int 21h
+
+    lea dx, surname
+    mov byte ptr [surname], 49         ; Maximum input length (50 - 1)
+    mov ah, 0Ah
+    int 21h
+
+    lea dx, newline
+    mov ah, 09h
+    int 21h
+
+    mov al, [surname + 1]
+    mov [length], al
+
+    lea dx, studentMsg
+    mov ah, 09h
+    int 21h
+
+    lea si, surname + 2
+    mov cl, [length]
+    mov ah, 02h
+
+.print_surname:
+    lodsb
+    mov dl, al
+    int 21h
+    loop .print_surname
+
+    lea dx, surnameMsg
+    mov ah, 09h
+    int 21h
+
+    mov ax, 4c00h
+    int 21h 
+
+end N

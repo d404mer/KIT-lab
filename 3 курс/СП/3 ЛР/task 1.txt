@@ -1,0 +1,75 @@
+.model tiny
+.code
+N: 
+    push cs
+    pop ds
+
+    mov ah, 09h
+    lea dx, msg_input
+    int 21h
+
+    lea si, number
+    mov cx, 0
+.read_digit:
+    mov ah, 01h
+    int 21h
+    cmp al, 0Dh ; Check if Enter was pressed (code 0Dh)
+    je .done_reading
+    sub al, '0'
+    mov bl, al
+    mov ax, cx
+    mov ah, 0
+    shl ax, 1
+    shl ax, 2
+    add ax, cx
+    add ax, bx
+    mov cx, ax
+    jmp .read_digit
+.done_reading:
+    mov [number], cx
+
+    mov ax, cx
+    mov bx, 5
+    mul bx
+    mov [number], ax
+
+    lea di, result
+    call binary_to_decimal
+
+    mov ah, 09h
+    lea dx, msg_output
+    int 21h
+    lea dx, result
+    int 21h
+
+    mov ax, 4C00h
+    int 21h
+
+; Converts number to string for display
+binary_to_decimal:
+    mov cx, 0
+.convert_loop:
+    xor dx, dx
+    mov bx, 10
+    div bx
+    add dl, '0'
+    push dx
+    inc cx
+    test ax, ax
+    jnz .convert_loop
+
+.print_digits:
+    pop dx
+    mov [di], dl
+    inc di
+    loop .print_digits
+    mov byte [di], '$'
+    ret
+
+.data
+msg_input db 'Enter a number: $'
+msg_output db 0Dh, 0Ah, 'The result is: $'
+number dw 0
+result db 20 dup(0)
+
+end N
