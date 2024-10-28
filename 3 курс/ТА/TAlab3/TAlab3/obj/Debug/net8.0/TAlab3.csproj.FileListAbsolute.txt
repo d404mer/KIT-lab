@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.sourcelink.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\bin\Debug\net8.0\TAlab3.exe
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\bin\Debug\net8.0\TAlab3.deps.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\bin\Debug\net8.0\TAlab3.runtimeconfig.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\bin\Debug\net8.0\TAlab3.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\bin\Debug\net8.0\TAlab3.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\refint\TAlab3.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\TAlab3.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\ТА\TAlab3\TAlab3\obj\Debug\net8.0\ref\TAlab3.dll
