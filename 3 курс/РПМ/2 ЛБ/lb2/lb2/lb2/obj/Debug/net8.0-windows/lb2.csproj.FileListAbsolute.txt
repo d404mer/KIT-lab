@@ -1,0 +1,54 @@
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2_MarkupCompile.cache
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2_MarkupCompile.lref
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\bin\Debug\net8.0-windows\lb2.exe
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\bin\Debug\net8.0-windows\lb2.deps.json
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\bin\Debug\net8.0-windows\lb2.runtimeconfig.json
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\bin\Debug\net8.0-windows\lb2.dll
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\bin\Debug\net8.0-windows\lb2.pdb
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.g.resources
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.AssemblyInfoInputs.cache
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.AssemblyInfo.cs
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.csproj.CoreCompileInputs.cache
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.dll
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\refint\lb2.dll
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.pdb
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\lb2.genruntimeconfig.cache
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\ref\lb2.dll
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\Main.g.cs
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\Main.baml
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\sun.g.cs
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\sun.baml
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\pain.g.cs
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\pain.baml
+C:\Users\dende\OneDrive\Рабочий стол\лабы 3 курс 1 семестр\РПМ\лб2\lb2\lb2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\bin\Debug\net8.0-windows\lb2.exe
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\bin\Debug\net8.0-windows\lb2.deps.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\bin\Debug\net8.0-windows\lb2.runtimeconfig.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\bin\Debug\net8.0-windows\lb2.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\bin\Debug\net8.0-windows\lb2.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\pain.baml
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\Main.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\pain.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\sun.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\Main.baml
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\sun.baml
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.g.resources
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.sourcelink.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\refint\lb2.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\lb2.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\2 ЛБ\lb2\lb2\lb2\obj\Debug\net8.0-windows\ref\lb2.dll
