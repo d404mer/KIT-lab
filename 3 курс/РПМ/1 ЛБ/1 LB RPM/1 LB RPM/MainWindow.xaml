@@ -94,7 +94,7 @@
                     </Button.Triggers>
                 </Button>
 
-                <Button x:Name="close" Content="Закрыть"  Margin="5">
+                <Button x:Name="close" Content="Закрыть" Margin="5">
                     <Button.Style>
                         <Style TargetType="Button" BasedOn="{StaticResource ButtonStyle}">
                             <Setter Property="IsEnabled" Value="False"/>
@@ -109,6 +109,20 @@
                             </Style.Triggers>
                         </Style>
                     </Button.Style>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <BooleanAnimationUsingKeyFrames Storyboard.TargetProperty="IsEnabled" Storyboard.TargetName="TextBox1">
+                                        <DiscreteBooleanKeyFrame KeyTime="0:0:0" Value="False"/>
+                                    </BooleanAnimationUsingKeyFrames>
+                                    <BooleanAnimationUsingKeyFrames Storyboard.TargetProperty="IsEnabled" Storyboard.TargetName="TextBox2">
+                                        <DiscreteBooleanKeyFrame KeyTime="0:0:0" Value="False"/>
+                                    </BooleanAnimationUsingKeyFrames>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
                 </Button>
 
                 <Button x:Name="clearBtn" Content="Очистить" Style="{StaticResource ButtonStyle}" Margin="5"/>
