@@ -57,19 +57,6 @@
                 </Trigger>
             </Style.Triggers>
         </Style>
-
-        <Style TargetType="Button" BasedOn="{StaticResource ButtonStyle}">
-            <Setter Property="IsEnabled" Value="False"/>
-            <Style.Triggers>
-                <MultiDataTrigger>
-                    <MultiDataTrigger.Conditions>
-                        <Condition Binding="{Binding Text, ElementName=TextBox1}" Value=""/>
-                        <Condition Binding="{Binding Text, ElementName=TextBox2}" Value=""/>
-                    </MultiDataTrigger.Conditions>
-                    <Setter Property="IsEnabled" Value="True"/>
-                </MultiDataTrigger>
-            </Style.Triggers>
-        </Style>
     </Window.Resources>
 
     <Grid>
@@ -107,21 +94,21 @@
                     </Button.Triggers>
                 </Button>
 
-                <Button x:Name="close" Content="Закрыть" Style="{StaticResource ButtonStyle}" Margin="5">
-                    <Button.Triggers>
-                        <EventTrigger RoutedEvent="Button.Click">
-                            <BeginStoryboard>
-                                <Storyboard>
-                                    <BooleanAnimationUsingKeyFrames Storyboard.TargetProperty="IsEnabled" Storyboard.TargetName="TextBox1">
-                                        <DiscreteBooleanKeyFrame KeyTime="0:0:0" Value="False"/>
-                                    </BooleanAnimationUsingKeyFrames>
-                                    <BooleanAnimationUsingKeyFrames Storyboard.TargetProperty="IsEnabled" Storyboard.TargetName="TextBox2">
-                                        <DiscreteBooleanKeyFrame KeyTime="0:0:0" Value="False"/>
-                                    </BooleanAnimationUsingKeyFrames>
-                                </Storyboard>
-                            </BeginStoryboard>
-                        </EventTrigger>
-                    </Button.Triggers>
+                <Button x:Name="close" Content="Закрыть"  Margin="5">
+                    <Button.Style>
+                        <Style TargetType="Button" BasedOn="{StaticResource ButtonStyle}">
+                            <Setter Property="IsEnabled" Value="False"/>
+                            <Style.Triggers>
+                                <MultiDataTrigger>
+                                    <MultiDataTrigger.Conditions>
+                                        <Condition Binding="{Binding Text, ElementName=TextBox1}" Value=""/>
+                                        <Condition Binding="{Binding Text, ElementName=TextBox2}" Value=""/>
+                                    </MultiDataTrigger.Conditions>
+                                    <Setter Property="IsEnabled" Value="True"/>
+                                </MultiDataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
                 </Button>
 
                 <Button x:Name="clearBtn" Content="Очистить" Style="{StaticResource ButtonStyle}" Margin="5"/>

@@ -32,7 +32,6 @@ C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 lab
 C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.AssemblyInfoInputs.cache
 C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.AssemblyInfo.cs
 C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.sourcelink.json
 C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.dll
 C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\refint\4 laba - 2.dll
 C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\4 laba - 2\4 laba - 2\obj\Debug\net8.0-windows\4 laba - 2.pdb

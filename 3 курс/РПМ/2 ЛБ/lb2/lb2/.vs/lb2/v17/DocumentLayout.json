@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|solutionrelative:lb2\\pain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|solutionrelative:lb2\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\sun.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|solutionrelative:lb2\\sun.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|solutionrelative:lb2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C4824A-0AFA-4396-B9FD-0482B400E9A4}|lb2\\lb2.csproj|solutionrelative:lb2\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,19 +54,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "sun.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\sun.xaml",
               "RelativeDocumentMoniker": "lb2\\sun.xaml",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\sun.xaml",
               "RelativeToolTip": "lb2\\sun.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-17T06:00:24.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T06:00:24.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\App.xaml",
               "RelativeDocumentMoniker": "lb2\\App.xaml",
@@ -78,43 +77,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Main.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\Main.xaml.cs",
               "RelativeDocumentMoniker": "lb2\\Main.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\Main.xaml.cs",
               "RelativeToolTip": "lb2\\Main.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T05:57:29.725Z"
+              "WhenOpened": "2024-09-17T05:57:29.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\Main.xaml",
               "RelativeDocumentMoniker": "lb2\\Main.xaml",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\Main.xaml",
               "RelativeToolTip": "lb2\\Main.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-17T05:52:42.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T05:52:42.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "lb2\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\MainWindow.xaml",
               "RelativeToolTip": "lb2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-17T05:43:58.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T05:43:58.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\2 \u041B\u0411\\lb2\\lb2\\lb2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "lb2\\MainWindow.xaml.cs",
@@ -122,8 +120,7 @@
               "RelativeToolTip": "lb2\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T05:43:58.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T05:43:58.399Z"
             }
           ]
         }
