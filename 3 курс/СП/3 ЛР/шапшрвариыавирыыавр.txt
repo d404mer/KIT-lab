@@ -18,10 +18,8 @@ N:
     
     mov bl, al
     mov ax, cx
-    
-    shl ax, 1
-    shl ax, 1
-    add ax, cx
+           
+    mul decat
     add ax, bx
     mov cx, ax
     jmp .read_digit
@@ -71,5 +69,6 @@ msg_input db 'Enter a number: $'
 msg_output db 0Dh, 0Ah, 'The result is: $'
 number dw 0
 result db 20 dup(0)
-
+                    
+decat dw 10
 end N
