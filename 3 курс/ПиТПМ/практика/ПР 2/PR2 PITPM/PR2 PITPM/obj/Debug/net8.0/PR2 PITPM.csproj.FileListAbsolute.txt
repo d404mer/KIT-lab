@@ -1,0 +1,14 @@
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\bin\Debug\net8.0\PR2 PITPM.exe
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\bin\Debug\net8.0\PR2 PITPM.deps.json
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\bin\Debug\net8.0\PR2 PITPM.runtimeconfig.json
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\bin\Debug\net8.0\PR2 PITPM.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\bin\Debug\net8.0\PR2 PITPM.pdb
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.AssemblyInfo.cs
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\refint\PR2 PITPM.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.pdb
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\PR2 PITPM.genruntimeconfig.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ПиТПМ\практика\ПР 2\PR2 PITPM\PR2 PITPM\obj\Debug\net8.0\ref\PR2 PITPM.dll
