@@ -8,23 +8,24 @@ N:
     lea dx, msg_input
     int 21h
 
-    lea si, number
-    mov cx, 0
+    xor cx, cx
 .read_digit:
     mov ah, 01h
     int 21h
-    cmp al, 0Dh ; Check if Enter was pressed (code 0Dh)
+    cmp al, 0Dh
     je .done_reading
     sub al, '0'
+    
     mov bl, al
     mov ax, cx
-    mov ah, 0
+    
     shl ax, 1
-    shl ax, 2
+    shl ax, 1
     add ax, cx
     add ax, bx
     mov cx, ax
     jmp .read_digit
+
 .done_reading:
     mov [number], cx
 
@@ -45,7 +46,6 @@ N:
     mov ax, 4C00h
     int 21h
 
-; Converts number to string for display
 binary_to_decimal:
     mov cx, 0
 .convert_loop:

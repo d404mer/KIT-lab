@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A29A2888-523C-491A-9652-42202537B2C9}|4 laba - 2\\4 laba - 2.csproj|d:\\kit-lab\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\4 \u043B\u0431\\4 laba - 2\\4 laba - 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A29A2888-523C-491A-9652-42202537B2C9}|4 laba - 2\\4 laba - 2.csproj|c:\\users\\user\\documents\\github\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u0440\u043F\u043C\\4 \u043B\u0431\\4 laba - 2\\4 laba - 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A29A2888-523C-491A-9652-42202537B2C9}|4 laba - 2\\4 laba - 2.csproj|solutionrelative:4 laba - 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A29A2888-523C-491A-9652-42202537B2C9}|4 laba - 2\\4 laba - 2.csproj|D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A29A2888-523C-491A-9652-42202537B2C9}|4 laba - 2\\4 laba - 2.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A29A2888-523C-491A-9652-42202537B2C9}|4 laba - 2\\4 laba - 2.csproj|solutionrelative:4 laba - 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,9 +27,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4 laba - 2\\MainWindow.xaml",
-              "ToolTip": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml",
               "RelativeToolTip": "4 laba - 2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-26T14:43:39.297Z",
@@ -40,7 +40,9 @@
               "DocumentIndex": 2,
               "Title": "Storyboard.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\cf51f86156b71470faaa010e7833f88c34cb8003216bd1fe11832227fa184745\\Storyboard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cf51f86156b71470faaa010e7833f88c34cb8003216bd1fe11832227fa184745\\Storyboard.cs",
               "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\cf51f86156b71470faaa010e7833f88c34cb8003216bd1fe11832227fa184745\\Storyboard.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cf51f86156b71470faaa010e7833f88c34cb8003216bd1fe11832227fa184745\\Storyboard.cs [Read Only]",
               "ViewState": "AQIAAAUCAAAAAAAAAAAEwCECAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T13:28:09.685Z"
@@ -49,9 +51,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4 laba - 2\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\4 \u041B\u0411\\4 laba - 2\\4 laba - 2\\MainWindow.xaml.cs",
               "RelativeToolTip": "4 laba - 2\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|solutionrelative:1 lb rpm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\0657caa957679302be63a6a2a2482219b63f54b054b1fc7ab70c1dd346e09b37\\Storyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\1 \u041B\u0411\\1 LB RPM\\1 lb rpm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3B01222-F697-43DE-AAED-E832262F53F6}|1 LB RPM\\1 LB RPM.csproj|solutionrelative:1 lb rpm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +21,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Storyboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\0657caa957679302be63a6a2a2482219b63f54b054b1fc7ab70c1dd346e09b37\\Storyboard.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0657caa957679302be63a6a2a2482219b63f54b054b1fc7ab70c1dd346e09b37\\Storyboard.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\0657caa957679302be63a6a2a2482219b63f54b054b1fc7ab70c1dd346e09b37\\Storyboard.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0657caa957679302be63a6a2a2482219b63f54b054b1fc7ab70c1dd346e09b37\\Storyboard.cs [Read Only]",
+              "ViewState": "AQIAAD0CAAAAAAAAAAAEwEkCAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:41:08.641Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -34,7 +49,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u0420\u041F\u041C\\1 \u041B\u0411\\1 LB RPM\\1 LB RPM\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "1 LB RPM\\MainWindow.xaml.cs",
@@ -42,8 +57,7 @@
               "RelativeToolTip": "1 LB RPM\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T05:47:39.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T05:47:39.728Z"
             }
           ]
         }

@@ -25,52 +25,50 @@
                 <EventTrigger RoutedEvent="Loaded">
                     <BeginStoryboard>
                         <Storyboard RepeatBehavior="Forever">
+                            <!-- Анимация перемещения по X и Y -->
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Left)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:0" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="X" />
+                        Storyboard.TargetProperty="(Canvas.Left)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:0" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="X" />
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Top)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:0" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="Y" />
+                        Storyboard.TargetProperty="(Canvas.Top)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:0" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="Y" />
+
+                            <!-- Анимация масштаба -->
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale1" 
-                                Storyboard.TargetProperty="ScaleX" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:0" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale1" 
+                        Storyboard.TargetProperty="ScaleX" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:0" 
+                        RepeatBehavior="Forever"/>
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale1" 
-                                Storyboard.TargetProperty="ScaleY" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:0" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale1" 
+                        Storyboard.TargetProperty="ScaleY" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:0" 
+                        RepeatBehavior="Forever"/>
+
+                            <!-- Анимация прозрачности-->
+                            <DoubleAnimation 
+                        Storyboard.TargetProperty="Opacity" 
+                        Duration="0:0:4" 
+                        From="0.5" To="1" AutoReverse="True" 
+                        RepeatBehavior="Forever"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
             </Image.Triggers>
-            <Image.Style>
-                <Style TargetType="Image">
-                    <Setter Property="Opacity" Value="1"/>
-                    <Style.Triggers>
-                        <DataTrigger Binding="{Binding ElementName=photo1, Path=(Canvas.Left)}" Value="350">
-                            <Setter Property="Opacity" Value="1"/>
-                        </DataTrigger>
-                        <DataTrigger Binding="{Binding ElementName=photo1, Path=(Canvas.Top)}" Value="50">
-                            <Setter Property="Opacity" Value="0.5"/>
-                        </DataTrigger>
-                    </Style.Triggers>
-                </Style>
-            </Image.Style>
         </Image>
+
 
         <!-- Изображение 2 -->
         <Image x:Name="photo2" Source="/2.png" Canvas.Left="320" Canvas.Top="70" Width="150" Height="150">
@@ -81,52 +79,51 @@
                 <EventTrigger RoutedEvent="Loaded">
                     <BeginStoryboard>
                         <Storyboard RepeatBehavior="Forever">
+                            <!-- Анимация перемещения по X и Y -->
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Left)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:2" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="X" />
+                        Storyboard.TargetProperty="(Canvas.Left)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:2" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="X" />
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Top)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:2" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="Y" />
+                        Storyboard.TargetProperty="(Canvas.Top)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:2" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="Y" />
+
+                            <!-- Анимация масштаба -->
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale2" 
-                                Storyboard.TargetProperty="ScaleX" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:2" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale2" 
+                        Storyboard.TargetProperty="ScaleX" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:2" 
+                        RepeatBehavior="Forever"/>
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale2" 
-                                Storyboard.TargetProperty="ScaleY" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:2" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale2" 
+                        Storyboard.TargetProperty="ScaleY" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:2" 
+                        RepeatBehavior="Forever"/>
+
+                            <!-- Анимация прозрачности от 0.5 до 1 -->
+                            <DoubleAnimation 
+                        Storyboard.TargetProperty="Opacity" 
+                        Duration="0:0:4" 
+                        From="0.5" To="1" AutoReverse="True" 
+                        BeginTime="0:0:2" 
+                        RepeatBehavior="Forever"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
             </Image.Triggers>
-            <Image.Style>
-                <Style TargetType="Image">
-                    <Setter Property="Opacity" Value="1"/>
-                    <Style.Triggers>
-                        <DataTrigger Binding="{Binding ElementName=photo2, Path=(Canvas.Left)}" Value="320">
-                            <Setter Property="Opacity" Value="1"/>
-                        </DataTrigger>
-                        <DataTrigger Binding="{Binding ElementName=photo2, Path=(Canvas.Top)}" Value="70">
-                            <Setter Property="Opacity" Value="0.5"/>
-                        </DataTrigger>
-                    </Style.Triggers>
-                </Style>
-            </Image.Style>
         </Image>
+
 
         <!-- Изображение 3 -->
         <Image x:Name="photo3" Source="/3.png" Canvas.Left="290" Canvas.Top="100" Width="150" Height="150">
@@ -137,52 +134,51 @@
                 <EventTrigger RoutedEvent="Loaded">
                     <BeginStoryboard>
                         <Storyboard RepeatBehavior="Forever">
+                            <!-- Анимация перемещения по X и Y -->
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Left)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:4" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="X" />
+                        Storyboard.TargetProperty="(Canvas.Left)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:4" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="X" />
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Top)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:4" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="Y" />
+                        Storyboard.TargetProperty="(Canvas.Top)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:4" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="Y" />
+
+                            <!-- Анимация масштаба -->
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale3" 
-                                Storyboard.TargetProperty="ScaleX" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:4" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale3" 
+                        Storyboard.TargetProperty="ScaleX" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:4" 
+                        RepeatBehavior="Forever"/>
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale3" 
-                                Storyboard.TargetProperty="ScaleY" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:4" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale3" 
+                        Storyboard.TargetProperty="ScaleY" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:4" 
+                        RepeatBehavior="Forever"/>
+
+                            <!-- Анимация прозрачности от 0.5 до 1 -->
+                            <DoubleAnimation 
+                        Storyboard.TargetProperty="Opacity" 
+                        Duration="0:0:4" 
+                        From="0.5" To="1" AutoReverse="True" 
+                        BeginTime="0:0:4" 
+                        RepeatBehavior="Forever"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
             </Image.Triggers>
-            <Image.Style>
-                <Style TargetType="Image">
-                    <Setter Property="Opacity" Value="1"/>
-                    <Style.Triggers>
-                        <DataTrigger Binding="{Binding ElementName=photo3, Path=(Canvas.Left)}" Value="290">
-                            <Setter Property="Opacity" Value="1"/>
-                        </DataTrigger>
-                        <DataTrigger Binding="{Binding ElementName=photo3, Path=(Canvas.Top)}" Value="100">
-                            <Setter Property="Opacity" Value="0.5"/>
-                        </DataTrigger>
-                    </Style.Triggers>
-                </Style>
-            </Image.Style>
         </Image>
+
 
         <!-- Изображение 4 -->
         <Image x:Name="photo4" Source="/4.png" Canvas.Left="1" Canvas.Top="130" Width="150" Height="150">
@@ -193,52 +189,51 @@
                 <EventTrigger RoutedEvent="Loaded">
                     <BeginStoryboard>
                         <Storyboard RepeatBehavior="Forever">
+                            <!-- Анимация перемещения по X и Y -->
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Left)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:6" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="X" />
+                        Storyboard.TargetProperty="(Canvas.Left)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:6" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="X" />
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Top)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:6" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="Y" />
+                        Storyboard.TargetProperty="(Canvas.Top)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:6" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="Y" />
+
+                            <!-- Анимация масштаба -->
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale4" 
-                                Storyboard.TargetProperty="ScaleX" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:6" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale4" 
+                        Storyboard.TargetProperty="ScaleX" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:6" 
+                        RepeatBehavior="Forever"/>
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale4" 
-                                Storyboard.TargetProperty="ScaleY" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:6" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale4" 
+                        Storyboard.TargetProperty="ScaleY" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:6" 
+                        RepeatBehavior="Forever"/>
+
+                            <!-- Анимация прозрачности от 0.5 до 1 -->
+                            <DoubleAnimation 
+                        Storyboard.TargetProperty="Opacity" 
+                        Duration="0:0:4" 
+                        From="0.5" To="1" AutoReverse="True" 
+                        BeginTime="0:0:6" 
+                        RepeatBehavior="Forever"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
             </Image.Triggers>
-            <Image.Style>
-                <Style TargetType="Image">
-                    <Setter Property="Opacity" Value="1"/>
-                    <Style.Triggers>
-                        <DataTrigger Binding="{Binding ElementName=photo4, Path=(Canvas.Left)}" Value="240">
-                            <Setter Property="Opacity" Value="1"/>
-                        </DataTrigger>
-                        <DataTrigger Binding="{Binding ElementName=photo4, Path=(Canvas.Top)}" Value="130">
-                            <Setter Property="Opacity" Value="0.5"/>
-                        </DataTrigger>
-                    </Style.Triggers>
-                </Style>
-            </Image.Style>
         </Image>
+
 
         <!-- Изображение 5 -->
         <Image x:Name="photo5" Source="/5.png" Canvas.Left="200" Canvas.Top="160" Width="150" Height="150">
@@ -249,51 +244,49 @@
                 <EventTrigger RoutedEvent="Loaded">
                     <BeginStoryboard>
                         <Storyboard RepeatBehavior="Forever">
+                            <!-- Анимация перемещения по X и Y -->
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Left)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:8" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="X" />
+                        Storyboard.TargetProperty="(Canvas.Left)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:8" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="X" />
                             <DoubleAnimationUsingPath 
-                                Storyboard.TargetProperty="(Canvas.Top)" 
-                                Duration="0:0:15" 
-                                BeginTime="0:0:8" 
-                                RepeatBehavior="Forever"
-                                PathGeometry="{StaticResource photoPath}" 
-                                Source="Y" />
+                        Storyboard.TargetProperty="(Canvas.Top)" 
+                        Duration="0:0:15" 
+                        BeginTime="0:0:8" 
+                        RepeatBehavior="Forever"
+                        PathGeometry="{StaticResource photoPath}" 
+                        Source="Y" />
+
+                            <!-- Анимация масштаба -->
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale5" 
-                                Storyboard.TargetProperty="ScaleX" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:8" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale5" 
+                        Storyboard.TargetProperty="ScaleX" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:8" 
+                        RepeatBehavior="Forever"/>
                             <DoubleAnimation 
-                                Storyboard.TargetName="scale5" 
-                                Storyboard.TargetProperty="ScaleY" 
-                                Duration="0:0:4" 
-                                From="1" To="1.75" AutoReverse="True" 
-                                BeginTime="0:0:8" 
-                                RepeatBehavior="Forever"/>
+                        Storyboard.TargetName="scale5" 
+                        Storyboard.TargetProperty="ScaleY" 
+                        Duration="0:0:4" 
+                        From="1" To="1.75" AutoReverse="True" 
+                        BeginTime="0:0:8" 
+                        RepeatBehavior="Forever"/>
+
+                            <!-- Анимация прозрачности от 0.5 до 1 -->
+                            <DoubleAnimation 
+                        Storyboard.TargetProperty="Opacity" 
+                        Duration="0:0:4" 
+                        From="0.5" To="1" AutoReverse="True" 
+                        BeginTime="0:0:8" 
+                        RepeatBehavior="Forever"/>
                         </Storyboard>
                     </BeginStoryboard>
                 </EventTrigger>
             </Image.Triggers>
-            <Image.Style>
-                <Style TargetType="Image">
-                    <Setter Property="Opacity" Value="1"/>
-                    <Style.Triggers>
-                        <DataTrigger Binding="{Binding ElementName=photo5, Path=(Canvas.Left)}" Value="200">
-                            <Setter Property="Opacity" Value="1"/>
-                        </DataTrigger>
-                        <DataTrigger Binding="{Binding ElementName=photo5, Path=(Canvas.Top)}" Value="160">
-                            <Setter Property="Opacity" Value="0.5"/>
-                        </DataTrigger>
-                    </Style.Triggers>
-                </Style>
-            </Image.Style>
         </Image>
     </Canvas>
 </Window>

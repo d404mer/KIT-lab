@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kit-lab\\KIT-lab\\3 курс\\РПМ\\4 ЛБ\\laba4 - Copy\\laba4\\laba4.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 курс\\РПМ\\4 ЛБ\\laba4 - Copy\\laba4\\laba4.csproj",
       "projectName": "laba4",
-      "projectPath": "D:\\Kit-lab\\KIT-lab\\3 курс\\РПМ\\4 ЛБ\\laba4 - Copy\\laba4\\laba4.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 курс\\РПМ\\4 ЛБ\\laba4 - Copy\\laba4\\laba4.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Kit-lab\\KIT-lab\\3 курс\\РПМ\\4 ЛБ\\laba4 - Copy\\laba4\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\3 курс\\РПМ\\4 ЛБ\\laba4 - Copy\\laba4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
