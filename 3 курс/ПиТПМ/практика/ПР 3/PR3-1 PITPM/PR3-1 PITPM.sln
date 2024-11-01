@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR3-1 PITPM", "PR3-1 PITPM\PR3-1 PITPM.csproj", "{903F4CF9-5C48-46AA-B55F-8FDDECA3623E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeTest", "VolumeTest\VolumeTest.csproj", "{0D00090A-4530-45B5-892C-7C7C208FDEA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903F4CF9-5C48-46AA-B55F-8FDDECA3623E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903F4CF9-5C48-46AA-B55F-8FDDECA3623E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903F4CF9-5C48-46AA-B55F-8FDDECA3623E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903F4CF9-5C48-46AA-B55F-8FDDECA3623E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D00090A-4530-45B5-892C-7C7C208FDEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D00090A-4530-45B5-892C-7C7C208FDEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D00090A-4530-45B5-892C-7C7C208FDEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D00090A-4530-45B5-892C-7C7C208FDEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C8BF7A4-5EAB-414E-9EDF-D1F3DC3A8ACF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\bin\Debug\net8.0\PR3-1 PITPM.exe
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\bin\Debug\net8.0\PR3-1 PITPM.deps.json
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\bin\Debug\net8.0\PR3-1 PITPM.runtimeconfig.json
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\bin\Debug\net8.0\PR3-1 PITPM.dll
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\bin\Debug\net8.0\PR3-1 PITPM.pdb
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.AssemblyInfoInputs.cache
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.AssemblyInfo.cs
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.csproj.CoreCompileInputs.cache
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.sourcelink.json
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.dll
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\refint\PR3-1 PITPM.dll
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.pdb
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\PR3-1 PITPM.genruntimeconfig.cache
+D:\Kit-lab\KIT-lab\3 курс\ПиТПМ\практика\ПР 3\PR3-1 PITPM\PR3-1 PITPM\obj\Debug\net8.0\ref\PR3-1 PITPM.dll
