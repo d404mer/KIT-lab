@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LB3_PITPM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e4f7f5f7d0bbec6b9e7426a3d16c9628f891fa8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c3a195945d29df116c55db0d5c2484d4b69bed")]
 [assembly: System.Reflection.AssemblyProductAttribute("LB3_PITPM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LB3_PITPM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

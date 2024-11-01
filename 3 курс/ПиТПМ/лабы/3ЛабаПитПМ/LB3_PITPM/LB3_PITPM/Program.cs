@@ -1,63 +1,10 @@
-﻿using System;
+﻿using LB3_PITPM;
+using System;
 using System.Collections.Generic;
+using UserAuthApp;
 
 namespace UserAuthApp
 {
-    public class User
-    {
-        public string Username { get; set; }
-        public string Password { get; set; }
-
-        public User(string username, string password)
-        {
-            Username = username;
-            Password = password;
-        }
-    }
-
-    public class AuthService
-    {
-        private List<User> users = new List<User>();
-
-        public string Register(string username, string password)
-        {
-            if (string.IsNullOrWhiteSpace(username))
-                return "Error: Username cannot be empty.";
-            if (string.IsNullOrWhiteSpace(password))
-                return "Error: Password cannot be empty.";
-
-            if (users.Exists(u => u.Username.Equals(username, StringComparison.OrdinalIgnoreCase)))
-                return "Error: Username already exists.";
-
-            users.Add(new User(username, password));
-            return "Registration successful!";
-        }
-
-        public string Login(string username, string password)
-        {
-            if (string.IsNullOrWhiteSpace(username))
-                return "Error: Username cannot be empty.";
-            if (string.IsNullOrWhiteSpace(password))
-                return "Error: Password cannot be empty.";
-
-            var user = users.Find(u => u.Username.Equals(username, StringComparison.OrdinalIgnoreCase) && u.Password == password);
-            return user != null ? "Login successful!" : "Error: Incorrect username or password.";
-        }
-
-        public string ShowAllUsers()
-        {
-            if (users.Count == 0)
-                return "No users registered.";
-
-            Console.WriteLine("\n--- Registered Users ---");
-            foreach (var user in users)
-            {
-                Console.WriteLine($"Username: {user.Username}");
-            }
-            return "End of user list.";
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
@@ -97,7 +44,19 @@ namespace UserAuthApp
                 }
                 else if (choice == "3")
                 {
-                    Console.WriteLine(authService.ShowAllUsers());
+                    Console.WriteLine("\n--- Registered Users ---");
+                    var usernames = authService.GetAllUsernames();
+                    if (usernames.Count == 0)
+                    {
+                        Console.WriteLine("No users registered.");
+                    }
+                    else
+                    {
+                        foreach (var username in usernames)
+                        {
+                            Console.WriteLine($"Username: {username}");
+                        }
+                    }
                 }
                 else if (choice == "4")
                 {
