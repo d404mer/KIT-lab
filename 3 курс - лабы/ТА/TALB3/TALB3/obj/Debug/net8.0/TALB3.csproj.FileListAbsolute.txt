@@ -1,0 +1,14 @@
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.AssemblyInfo.cs
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\bin\Debug\net8.0\TALB3.exe
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\bin\Debug\net8.0\TALB3.deps.json
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\bin\Debug\net8.0\TALB3.runtimeconfig.json
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\bin\Debug\net8.0\TALB3.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\bin\Debug\net8.0\TALB3.pdb
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\refint\TALB3.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.pdb
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\TALB3.genruntimeconfig.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\ТА\ЛБ3\TALB3\TALB3\obj\Debug\net8.0\ref\TALB3.dll
