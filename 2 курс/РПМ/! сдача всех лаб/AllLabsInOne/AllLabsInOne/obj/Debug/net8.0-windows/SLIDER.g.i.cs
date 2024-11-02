@@ -85,7 +85,7 @@ namespace AllLabsInOne {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AllLabsInOne;component/slider.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AllLabsInOne;V1.0.0.0;component/slider.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SLIDER.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,18 @@
+.model tiny
+
+.data
+    X db 10         
+    Y db 16         
+    Z db 0          
+
+.code
+MAIN:
+    mov al, [X]     
+    shl al, 1       
+    mov bl, [Y]     
+    add al, bl      
+    mov cl, al      
+    add al, cl      
+    add al, cl      
+    mov [Z], al     
+END MAIN

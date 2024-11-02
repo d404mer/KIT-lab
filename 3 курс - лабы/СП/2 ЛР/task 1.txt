@@ -1,0 +1,24 @@
+.model tiny
+.data
+    a db 5   
+    b db 10  
+    c db 0     
+
+.code
+main:
+    mov al, a
+    ; compare a with b
+    cmp al, b
+    jge  skip_b  ; If a >= b, jump to compare with c
+    mov al, b    ; Load b into AL if b is greater
+
+skip_b:
+    cmp al, c
+    jge  finish   ; if AL >= c, jump to finish
+    mov al, c    ; load c into AL if c is greater
+
+finish:
+    mov c, al    ; max value to var c
+    mov ax, 4c00h
+    int 21h
+end main

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="RU_road_sign_1.26.svg.png" />
+    <None Remove="RU_road_sign_1.28.svg.png" />
+    <None Remove="RU_road_sign_1.31.svg.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="RU_road_sign_1.26.svg.png" />
+    <Resource Include="RU_road_sign_1.28.svg.png" />
+    <Resource Include="RU_road_sign_1.31.svg.png" />
+  </ItemGroup>
+
+</Project>

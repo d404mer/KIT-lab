@@ -53,7 +53,7 @@ namespace AllLabsInOne {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AllLabsInOne;component/laba1-1.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AllLabsInOne;V1.0.0.0;component/laba1-1.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LABA1-1.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

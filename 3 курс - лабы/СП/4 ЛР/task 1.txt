@@ -1,0 +1,50 @@
+                                                                        
+new_data segment
+    mas1 dw 1, -2, 3, 4, -5
+    mas2 dw -6, 7, -8, 9, 10   
+new_data ends
+
+new_code  segment 
+assume cs:new_code, ds:new_data
+main:
+    mov ax, new_data
+    mov ds, ax
+    mov es, ax
+    
+    lea bx, mas1
+    push bx
+    push 5
+    call ZeroPositive
+
+    lea bx, mas2
+    push bx
+    push 5
+    call ZeroPositive
+
+    mov ax, 4C00h
+    int 21h
+
+ZeroPositive proc near
+    push bp
+    mov bp, sp
+    mov cx, [bp+4]       
+    mov bx, [bp+6]       
+    xor si, si          
+
+CheckElement:
+    mov ax, [bx+si]      
+    cmp ax, 0            
+    jle NextElement       
+
+    mov word ptr [bx+si], 0  
+
+NextElement:
+    add si, 2            
+    loop CheckElement     
+
+    pop bp
+    ret 4
+ZeroPositive endp
+
+end main   
+new_code ends

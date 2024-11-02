@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F04BB93-DD6A-4B89-965B-7F7E614F36B0}|UserAuthApp.Tests\\UserAuthApp.Tests.csproj|d:\\kit-lab\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u043F\u0438\u0442\u043F\u043C\\\u043B\u0430\u0431\u044B\\3\u043B\u0430\u0431\u0430\u043F\u0438\u0442\u043F\u043C\\lb3_pitpm\\userauthapp.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F04BB93-DD6A-4B89-965B-7F7E614F36B0}|UserAuthApp.Tests\\UserAuthApp.Tests.csproj|solutionrelative:userauthapp.tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A0767-2561-4B32-9093-FEDB0B97B37C}|LB3_PITPM\\LB3_PITPM.csproj|d:\\kit-lab\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u043F\u0438\u0442\u043F\u043C\\\u043B\u0430\u0431\u044B\\3\u043B\u0430\u0431\u0430\u043F\u0438\u0442\u043F\u043C\\lb3_pitpm\\lb3_pitpm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A0767-2561-4B32-9093-FEDB0B97B37C}|LB3_PITPM\\LB3_PITPM.csproj|solutionrelative:lb3_pitpm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1A0767-2561-4B32-9093-FEDB0B97B37C}|LB3_PITPM\\LB3_PITPM.csproj|d:\\kit-lab\\kit-lab\\3 \u043A\u0443\u0440\u0441\\\u043F\u0438\u0442\u043F\u043C\\\u043B\u0430\u0431\u044B\\3\u043B\u0430\u0431\u0430\u043F\u0438\u0442\u043F\u043C\\lb3_pitpm\\lb3_pitpm\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1A0767-2561-4B32-9093-FEDB0B97B37C}|LB3_PITPM\\LB3_PITPM.csproj|solutionrelative:lb3_pitpm\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\UserAuthApp.Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "UserAuthApp.Tests\\AuthServiceTests.cs",
+              "ToolTip": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\UserAuthApp.Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "UserAuthApp.Tests\\AuthServiceTests.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwFgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:07:27.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\LB3_PITPM\\AuthService.cs",
+              "RelativeDocumentMoniker": "LB3_PITPM\\AuthService.cs",
+              "ToolTip": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\LB3_PITPM\\AuthService.cs",
+              "RelativeToolTip": "LB3_PITPM\\AuthService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:02:17.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\LB3_PITPM\\Program.cs",
+              "RelativeDocumentMoniker": "LB3_PITPM\\Program.cs",
+              "ToolTip": "D:\\Kit-lab\\KIT-lab\\3 \u043A\u0443\u0440\u0441\\\u041F\u0438\u0422\u041F\u041C\\\u043B\u0430\u0431\u044B\\3\u041B\u0430\u0431\u0430\u041F\u0438\u0442\u041F\u041C\\LB3_PITPM\\LB3_PITPM\\Program.cs",
+              "RelativeToolTip": "LB3_PITPM\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:37:05.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

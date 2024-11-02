@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM.g.resources
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\_1_LB_RPM.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\bin\Debug\1 LB RPM.exe.config
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\bin\Debug\1 LB RPM.exe
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\bin\Debug\1 LB RPM.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM.exe
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\1 ЛБ\1 LB RPM\1 LB RPM\obj\Debug\1 LB RPM.pdb

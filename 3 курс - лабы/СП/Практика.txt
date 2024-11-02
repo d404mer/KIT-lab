@@ -1,0 +1,65 @@
+1 Задание
+.model tiny
+.data
+x dw ?   
+y dw ?   
+
+.code 
+N: 
+    push cs
+    pop ds
+
+    mov ax, 5        
+    mov x, ax        
+
+    mov ax, x
+    cmp ax, 0        
+    jg greater_than_zero
+
+    mov bx, 20       
+    jmp set_y        
+
+greater_than_zero:
+    mov bx, 10       
+
+set_y:
+    mov y, ax        
+
+    mov ax, 4c00h
+    int 21h
+
+end N
+
+2 Задание
+.model tiny
+.data
+x dw ?   
+y dw ?   
+
+.code 
+N: 
+    push cs
+    pop ds
+
+    mov ax, 35       
+    mov x, ax        
+    mov ax, 30       
+    mov y, ax        
+
+    mov ax, x
+    cmp ax, y        
+    jl assign_y      
+
+    jmp skip_assign   
+
+assign_y:
+    mov ax, y        
+    mov x, ax        
+
+skip_assign:
+    mov bx, 40       
+
+    mov ax, 4c00h
+    int 21h
+
+end N

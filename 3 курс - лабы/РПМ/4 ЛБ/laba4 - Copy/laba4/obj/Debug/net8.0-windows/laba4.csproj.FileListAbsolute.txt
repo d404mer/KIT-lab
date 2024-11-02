@@ -1,0 +1,62 @@
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\Debug\net8.0-windows\laba4.exe
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\Debug\net8.0-windows\laba4.deps.json
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\Debug\net8.0-windows\laba4.runtimeconfig.json
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\Debug\net8.0-windows\laba4.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\bin\Debug\net8.0-windows\laba4.pdb
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4_MarkupCompile.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4_MarkupCompile.lref
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.g.resources
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.AssemblyInfoInputs.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.AssemblyInfo.cs
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.csproj.CoreCompileInputs.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\refint\laba4.dll
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.pdb
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\laba4.genruntimeconfig.cache
+C:\Users\user\YandexDisk-sv3takp0p\3 курс\РПМ\ЛБ4\laba4\laba4\obj\Debug\net8.0-windows\ref\laba4.dll
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.exe
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.deps.json
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.runtimeconfig.json
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.dll
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.pdb
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\App.g.cs
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4_MarkupCompile.cache
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.g.resources
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.AssemblyInfoInputs.cache
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.AssemblyInfo.cs
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.csproj.CoreCompileInputs.cache
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.sourcelink.json
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.dll
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\refint\laba4.dll
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.pdb
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.genruntimeconfig.cache
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\ref\laba4.dll
+D:\Kit-lab\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.exe
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.deps.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.runtimeconfig.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\bin\Debug\net8.0-windows\laba4.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.g.resources
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.sourcelink.json
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\refint\laba4.dll
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.pdb
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\laba4.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\KIT-lab\3 курс\РПМ\4 ЛБ\laba4 - Copy\laba4\obj\Debug\net8.0-windows\ref\laba4.dll

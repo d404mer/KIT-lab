@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllLabsInOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caee1a0f7285619f34998d2f335e3892a700b938")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllLabsInOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllLabsInOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

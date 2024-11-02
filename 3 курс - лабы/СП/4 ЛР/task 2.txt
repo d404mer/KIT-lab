@@ -1,0 +1,46 @@
+.model small
+.data
+    mas1 dw 28, -2, 3, 4, -5
+    mas2 dw -6, 7, -8, 9, 10
+.stack 100h
+.code
+main:
+    mov ax, @data
+    mov ds, ax
+
+    lea bx, mas1
+    push bx
+    push 5
+    call ReplacePositive
+
+    lea bx, mas2
+    push bx
+    push 5
+    call ReplacePositive
+
+    mov ax, 4C00h
+    int 21h
+
+ReplacePositive proc near
+    push bp
+    mov bp, sp
+    mov cx, [bp+4]
+    mov bx, [bp+6]
+    xor si, si
+
+CheckElement:
+    mov ax, [bx+si]
+    cmp ax, 0
+    jle NextElement
+    mov word ptr [bx+si], 1
+
+NextElement:
+    add si, 2
+    loop CheckElement
+
+    pop bp
+    ret 4
+ReplacePositive endp
+
+end main
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg2" Width="634.14001" Height="561.22998">
+  <Canvas.Resources/>
+  <!--Unknown tag: sodipodi:namedview-->
+  <!--Unknown tag: metadata-->
+  <Canvas Name="layer1">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="0" Y="-491.13214"/>
+    </Canvas.RenderTransform>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5408" Fill="#FFFFFFFF" StrokeThickness="1" Opacity="1" Data="m 29.521638 491.6441 c -1.871208 -1.04565 -4.263924 -0.42511 -5.344271 1.38603 L 0.5248007 532.6822 c -1.08034628 1.81113 -0.43922599 4.12702 1.4319886 5.17267 0.594745 0.33235 1.2693952 0.50732 1.9561448 0.50732 l 47.3051349 -1e-5 c 0.686758 0 1.361408 -0.17497 1.956145 -0.50732 1.871215 -1.04565 2.512343 -3.36154 1.431997 -5.17267 L 30.953634 493.03013 c -0.343378 -0.57565 -0.837251 -1.05367 -1.431996 -1.38603 z"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="13.8" Width="6.1" Canvas.Top="525.5" Height="5.9" Name="path5410" Fill="#FF000000" StrokeThickness="1" Opacity="1"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="21.2" Width="4" Canvas.Top="522.6" Height="3.9" Name="path5412" Fill="#FF000000" StrokeThickness="1" Opacity="1"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="24" Width="2.8" Canvas.Top="516.6" Height="2.7" Name="path5414" Fill="#FF000000" StrokeThickness="1" Opacity="1"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="27.5" Width="2.4" Canvas.Top="514.5" Height="2.3" Name="path5416" Fill="#FF000000" StrokeThickness="1" Opacity="1"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="19.6" Width="2.4" Canvas.Top="519.2" Height="2.3" Name="path5418" Fill="#FF000000" StrokeThickness="1" Opacity="1"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="29.6" Width="1.8" Canvas.Top="510.2" Height="1.7" Name="path5420" Fill="#FF000000" StrokeThickness="1" Opacity="1"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5791" StrokeThickness="0.17106467" Stroke="#FF000000" StrokeMiterLimit="4" Opacity="1" Data="m 0.08758401 534.57554 c 4.95e-6 -0.64992 0.17675906 -1.2884 0.512505 -1.85125 L 24.252649 493.07223 c 1.056337 -1.77087 3.395877 -2.37763 5.225507 -1.35522 0.581523 0.32497 1.064426 0.79237 1.40017 1.35522 l 23.65255 39.65206 c 0.335746 0.56285 0.5125 1.20133 0.512505 1.85125 -6e-6 2.04484 -1.712673 3.7025 -3.825344 3.70251 l -47.3051094 0 c -2.1126702 -10e-6 -3.82533751 -1.65767 -3.82534359 -3.70251 z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4410" Fill="#FFFF0000" Opacity="1" Data="m 27.500039 491.9773 c -1.027492 0.0223 -2.018722 0.54816 -2.570148 1.47259 L 1.2769234 533.102 c -0.84026826 1.40866 -0.34147565 3.21003 1.1139118 4.02332 0.4625762 0.2585 0.9873037 0.39445 1.5214406 0.39445 l 47.3059352 0 c 0.534137 0 1.058865 -0.13595 1.521441 -0.39445 1.455387 -0.81329 1.95418 -2.61466 1.113912 -4.02332 L 30.200596 493.44989 c -0.267069 -0.44773 -0.651335 -0.81965 -1.113912 -1.07815 -0.500289 -0.27956 -1.048435 -0.40611 -1.586645 -0.39444 z m 0.0054 5.06992 c 0.167035 -0.0114 0.338533 0.0259 0.494468 0.11307 0.132164 0.0739 0.241568 0.17962 0.317872 0.30767 l 21.001314 35.20541 c 0.240037 0.40227 0.09795 0.91677 -0.317872 1.14915 -0.132165 0.0738 -0.282095 0.11307 -0.434697 0.11307 l -41.9999117 0 c -0.4801505 0 -0.8693946 -0.37674 -0.8693946 -0.84148 0 -0.14772 0.037922 -0.29302 0.114108 -0.42074 L 26.812674 497.46796 c 0.150023 -0.25151 0.414406 -0.40171 0.692799 -0.42074 z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5489" Fill="#FF000000" Opacity="1" Data="m 19.179263 532.45894 28.251058 0 -13.675232 -22.92568 c -1.971509 2.80357 -2.787115 5.51124 -2.983521 8.16754 l -1.066519 2.21372 c -1.434392 1.71171 -2.464622 2.92525 -3.546043 5.16535 l -1.599295 1.84477 c -3.454119 1.66304 -4.842304 3.64201 -5.380448 5.5343 z"/>
+  </Canvas>
+</Canvas>
