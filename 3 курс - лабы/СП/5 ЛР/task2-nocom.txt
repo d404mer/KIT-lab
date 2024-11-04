@@ -1,0 +1,75 @@
+.MODEL SMALL
+.STACK 100h
+
+.DATA
+    char DB ?
+    old_handler_offset DW ?
+    old_handler_segment DW ?
+
+.CODE
+START:
+    MOV AX, 0
+    MOV ES, AX
+    MOV AX, ES:[9*4]
+    MOV old_handler_offset, AX
+    MOV AX, ES:[9*4+2]
+    MOV old_handler_segment, AX
+
+    MOV AX, SEG new_handler
+    MOV DS, AX
+    MOV AX, OFFSET new_handler
+    MOV WORD PTR ES:[9*4], AX
+    MOV AX, SEG new_handler
+    MOV WORD PTR ES:[9*4+2], AX
+
+wait_for_key:
+    MOV AH, 01h
+    INT 16h
+    JZ wait_for_key
+
+    MOV AH, 00h
+    INT 16h
+    MOV char, AL
+
+    MOV AX, 0b800h
+    MOV ES, AX
+    MOV DI, 0
+    MOV AL, char
+    MOV BYTE PTR ES:[DI], AL
+
+    mov al, 0AFh
+    mov ah, 3Fh
+    stosw
+
+    MOV AX, 0
+    MOV ES, AX
+    MOV AX, old_handler_offset
+    MOV WORD PTR ES:[9*4], AX
+    MOV AX, old_handler_segment
+    MOV WORD PTR ES:[9*4+2], AX
+
+    MOV AX, 4C00h
+    INT 21h
+
+new_handler PROC
+    PUSH AX
+    PUSH BX
+    PUSH CX
+    PUSH DX
+
+    MOV AH, 00h
+    INT 16h
+    MOV char, AL
+
+    POP DX
+    POP CX
+    POP BX
+    POP AX
+
+    PUSH old_handler_segment
+    PUSH old_handler_offset
+    RETF
+
+new_handler ENDP
+
+END START
