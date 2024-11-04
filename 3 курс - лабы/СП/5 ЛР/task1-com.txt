@@ -1,0 +1,51 @@
+.model tiny
+.data
+st_off dw 0 ; offset of the standard handler
+st_seg dw 0 ; segment address of the standard handler
+.code
+n: push cs
+   pop ds
+
+; Get the address of the standard interrupt handler for interrupt 5h
+   mov ah, 35h
+   mov al, 5h ; interrupt number 5h
+   int 21h    ; call function 35h to get the address
+
+; Save the segment and offset of the standard interrupt handler
+   mov st_seg, es ; save segment address of handler 5h
+   mov st_off, bx ; save offset of handler 5h
+
+; Set a custom interrupt handler for interrupt 5h
+   lea dx, prog   ; load the offset of our handler into dx
+   mov ax, 2505h  ; 25h - function to set a handler, 5h - interrupt number
+   int 21h        ; call function 25h to set the new handler
+
+; Call the interrupt 5h
+   int 5h         ; call the custom interrupt handler for 5h
+
+; Restore the standard interrupt handler for interrupt 5h
+   mov ax, 2505h
+   mov dx, st_off ; restore the offset of the standard handler
+   mov ds, st_seg ; restore the segment of the standard handler
+   int 21h        ; call function 25h to restore the standard handler
+
+; End the program
+   mov ax, 4c00h
+   int 21h        ; terminate the program
+
+; Define the custom interrupt handler
+prog proc
+   push ax        ; save register AX
+   push dx        ; save register DX
+
+; Output the character "M" to the screen
+   mov ah, 02h    ; function to output a character to the screen
+   mov dl, 'M'    ; load the ASCII code for "M" into DL
+   int 21h        ; call DOS function to output
+
+; Restore saved registers and return
+   pop dx         ; restore register DX
+   pop ax         ; restore register AX
+   iret           ; return control to the interrupted program
+prog endp
+end n
