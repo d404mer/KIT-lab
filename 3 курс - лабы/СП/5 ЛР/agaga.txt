@@ -41,3 +41,61 @@ start:
     mov ax, 4c00h
     int 21h
 end start
+
+
+--------------------
+.model tiny
+.org 100h
+
+.data
+st_off dw 0
+st_seg dw 0
+
+.code
+start:
+    mov ah, 35h
+    mov al, 9h
+    int 21h
+    mov st_off, bx
+    mov st_seg, es
+
+    mov dx, offset my_handler
+    mov ax, 2509h
+    int 21h
+
+    mov ah, 01h
+    int 21h
+
+    mov ax, 4c00h
+    int 21h
+
+my_handler proc
+    push ax
+    push bx
+    push cx
+    push dx
+    push ds
+    push es
+    pushf
+
+    mov ax, 0b800h
+    mov es, ax
+    mov di, 0
+    mov al, 0B2h
+    mov ah, 3Fh
+    stosw
+
+    mov ax, st_seg
+    mov ds, ax
+    call dword ptr [st_off]
+
+    popf
+    pop es
+    pop ds
+    pop dx
+    pop cx
+    pop bx
+    pop ax
+    iret
+my_handler endp
+end start

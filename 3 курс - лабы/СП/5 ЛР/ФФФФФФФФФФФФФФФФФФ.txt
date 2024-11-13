@@ -1,0 +1,84 @@
+.MODEL SMALL
+.STACK 100h
+
+.DATA
+    char DB ?                    ; Character read from keyboard
+    attribute DB 0B0h            ; Attribute: white text on cyan background
+    old_handler_offset DW ?      ; Offset of the original handler
+    old_handler_segment DW ?     ; Segment of the original handler
+
+.CODE
+START:
+    ; Save the current address of the original keyboard interrupt handler (09h)
+    MOV AX, 0                    ; Set segment to the interrupt vector table
+    MOV ES, AX
+    MOV AX, ES:[9*4]             ; Read the offset of the current handler
+    MOV old_handler_offset, AX
+    MOV AX, ES:[9*4+2]           ; Read the segment of the current handler
+    MOV old_handler_segment, AX
+
+    ; Set our custom keyboard interrupt handler
+    MOV AX, SEG new_handler
+    MOV DS, AX
+    MOV AX, OFFSET new_handler
+    MOV WORD PTR ES:[9*4], AX     ; Set new handler offset in interrupt vector
+    MOV AX, SEG new_handler
+    MOV WORD PTR ES:[9*4+2], AX   ; Set new handler segment in interrupt vector
+
+    ; Wait for key press
+wait_for_key:
+    MOV AH, 01h                   ; Function to check if a key is pressed
+    INT 16h                       ; Call BIOS interrupt
+    JZ wait_for_key              ; Loop until a key is pressed (if no key pressed, repeat)
+
+    ; Read the character from keyboard
+    MOV AH, 00h                   ; Function to read a character
+    INT 16h                       ; Call BIOS interrupt to read character into AL
+    MOV char, AL                  ; Store the character
+
+    ; Restore the original keyboard interrupt handler
+    MOV AX, 0                     ; Set segment to the interrupt vector table
+    MOV ES, AX
+    MOV AX, old_handler_offset
+    MOV WORD PTR ES:[9*4], AX     ; Restore original handler offset
+    MOV AX, old_handler_segment
+    MOV WORD PTR ES:[9*4+2], AX   ; Restore original handler segment
+
+    ; Set up character display with specified attributes
+    MOV AH, 09h                   ; BIOS function to write character and attribute
+    MOV AL, char                  ; Set character to display
+    MOV BH, 0                     ; Page number
+    MOV CX, 1                     ; Number of times to display character
+    MOV BL, attribute             ; Attribute: white text on cyan background
+    INT 10h                       ; Call BIOS interrupt for character display
+
+    ; Exit program
+    MOV AX, 4C00h
+    INT 21h
+
+; Custom keyboard interrupt handler
+new_handler PROC
+    PUSH AX              ; Save registers
+    PUSH BX
+    PUSH CX
+    PUSH DX
+
+    ; Read a character from the keyboard
+    MOV AH, 00h          ; Function to read a character
+    INT 16h              ; Call BIOS interrupt to read character into AL
+    MOV char, AL         ; Store the character
+
+    ; Restore registers
+    POP DX
+    POP CX
+    POP BX
+    POP AX
+
+    ; Jump to the original handler by pushing segment and offset, then using RETF
+    PUSH old_handler_segment
+    PUSH old_handler_offset
+    RETF                   ; Far return to original handler
+
+new_handler ENDP
+
+END START
