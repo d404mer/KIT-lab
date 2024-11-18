@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFA958D-A489-44F7-AA9B-EA3A4075C50F}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\user\\documents\\github\\kit-lab\\employeemanagementapp\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFA958D-A489-44F7-AA9B-EA3A4075C50F}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\employeemanagementapp\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\employeemanagementapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EmployeeManagementApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\employeemanagementapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\employeemanagementapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C8C2631-07A3-4CCB-8E9D-DEA6027E13E0}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:29:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\App.config",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\App.config",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\App.config",
+              "RelativeToolTip": "EmployeeManagementApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T22:19:50.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\packages.config",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\packages.config",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\packages.config",
+              "RelativeToolTip": "EmployeeManagementApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T22:19:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManagementApp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\EmployeeManagementApp.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+              "RelativeToolTip": "EmployeeManagementApp\\EmployeeManagementApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-17T22:10:22.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:07:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAIwF0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:03:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\KIT-lab\\EmployeeManagementApp\\EmployeeManagementApp\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementApp\\Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAuwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:52:37.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
