@@ -1,0 +1,15 @@
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\bin\Debug\net8.0\PR-1-11-2024.exe
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\bin\Debug\net8.0\PR-1-11-2024.deps.json
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\bin\Debug\net8.0\PR-1-11-2024.runtimeconfig.json
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\bin\Debug\net8.0\PR-1-11-2024.dll
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\bin\Debug\net8.0\PR-1-11-2024.pdb
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.AssemblyInfoInputs.cache
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.AssemblyInfo.cs
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.csproj.CoreCompileInputs.cache
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.sourcelink.json
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.dll
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\refint\PR-1-11-2024.dll
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.pdb
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\PR-1-11-2024.genruntimeconfig.cache
+D:\Kit-lab\KIT-lab\2 курс\bogdan\PR-1-11-2024\PR-1-11-2024\obj\Debug\net8.0\ref\PR-1-11-2024.dll
